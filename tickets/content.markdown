@@ -1,9 +1,14 @@
 # Get tickets
-<div style="font-family:Helvetica, Arial; font-size:12px; padding: 0 0 10px; margin:2px; width:100%; text-align:left;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a>
-</div>
+
+[View tickets on Eventbrite](http://gdocexpo2017.eventbrite.com) or use the form below to buy tickets. All transactions are securely processed through Eventbrite.
+
 <div style="width:100%; text-align:left;">
 <iframe src="//eventbrite.com/tickets-external?eid=31086216711&ref=etckt" frameborder="0" height="650" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" allowtransparency="true"></iframe>
 </div>
+
+## At-the-door tickets
+
+We hope to sell tickets at the door on the day of the event, but there is no guarantee! Purchasing online is the safest way to ensure your spot. We recommend buying tickets as soon as possible.
 
 ## Need-based free tickets
 
