@@ -1,0 +1,48 @@
+label {
+  font-weight: 800;
+}
+
+#mc_embed_signup {
+  input:not(.btn) {
+    display:block;
+    width:100%;
+    font-size: 1em;
+    padding:.5em;
+    margin: 0 1em 0 0;
+    font-family: $base-font-family;
+    color:$grey-color-dark;
+    border: 1px solid $grey-color-light;
+
+    &:focus {
+      outline: 1px dotted $grey-color;
+    }
+  }
+
+  input.btn {
+    font-size: 1em;
+    border-radius: 0;
+    border: 0;
+  }
+
+  input.mce_inline_error {
+    border-color: $grey-color;
+  }
+
+  div.mce_inline_error {
+    display: none !important;
+  }
+
+  .mc-field-group {
+    @include display-flex;
+    margin-top: .5em;
+  }
+}
+
+#mc-embedded-subscribe {
+  margin: 0;
+}
+
+#mce-responses {
+  margin-top: .5em;
+  color: $grey-color;
+}

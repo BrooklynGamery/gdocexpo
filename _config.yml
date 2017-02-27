@@ -1,0 +1,20 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 2017 Game Devs of Color Expo
+email: hello@brooklyngamery.com
+description: > # this means to ignore newlines until "baseurl:"
+  Play games by awesome creators as well as learn and share techniques for creating your own interactive media!
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://gamedevsofcolorexpo.com" # the base hostname & protocol for your site
+common_username:  brooklyngamery
+company_info: >
+  Brooklyn Gamery is a team of three multitalented game-makers who who enjoy creating high-quality games. We also believe in using games as a means of social change as well as encouraging cultural change in the games industry.
+
+# Build settings
+markdown: kramdown

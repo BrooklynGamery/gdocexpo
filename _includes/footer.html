@@ -1,0 +1,32 @@
+<footer class="site-footer">
+
+  <div class="wrapper">
+    <h1>Thanks to our sponsors!</h1>
+
+    <ul class="col-container">
+      {% for sponsor in site.data.sponsors %}
+      <li class="col-3">
+        <p>
+          <a href="{{ sponsor.link }}" target="_blank">
+            <img src="/assets/images/sponsors/2017/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
+          </a>
+        </p>
+        <h4>{{sponsor.level}} Sponsor</h4>
+        <p>
+          {{ sponsor.blurb }}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+
+  </div>
+
+</footer>
+<script src="{{ site.baseurl }}/js/fluidvids.js"></script>
+<script>
+  fluidvids.init({
+    selector: ['iframe'],
+    players: ['www.youtube.com', 'player.vimeo.com']
+  });
+</script>
+<script src="{{ site.baseurl }}/js/scripts.js"></script>

@@ -1,0 +1,112 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
+// Our variables
+$display-font-family: "Mensch", Impact, sans-serif;
+$base-font-family: 'Roboto Slab', serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     30px;
+
+$text-color:          #24150b;
+$background-color:  #ffffff;
+$brand-color:         #39b54a;
+
+$grey-color:         #96602e;
+$grey-color-light:  #c49a6c;
+$grey-color-lightest:  lighten(#c49a6c, 30%);
+$grey-color-dark:   #623313;
+$white:               #ffffff;
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+@mixin display-flex() {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+}
+
+@mixin flex-wrap($wrap: wrap) {
+  -webkit-flex-wrap: $wrap;
+  flex-wrap: $wrap;
+}
+
+@mixin flex-justify-content($justify: space-between) {
+  -webkit-justify-content: $justify;
+  justify-content: $justify;
+}
+
+@mixin flex-align-items($align: center) {
+  -webkit-align-items: $align;
+  align-items: $align;
+}
+
+@mixin flex-order($order: center) {
+  -webkit-order: $order;
+  order: $order;
+}
+
+@mixin keyframe ($animation_name) {
+  @-webkit-keyframes #{$animation_name} {
+    @content;
+  }
+
+  @-moz-keyframes #{$animation_name} {
+    @content;
+  }
+
+  @-o-keyframes #{$animation_name} {
+    @content;
+  }
+
+  @keyframes #{$animation_name} {
+    @content;
+  }
+}
+
+@mixin animation ($animation) {
+  -webkit-animation: $animation;
+
+  -moz-animation: $animation;
+
+  -o-animation: $animation;
+
+  animation: $animation;
+}
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "fonts",
+        "layout",
+        "syntax-highlighting",
+        "mailchimp-form"
+;

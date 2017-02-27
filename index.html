@@ -1,0 +1,10 @@
+---
+layout: default
+---
+
+<div class="home">
+
+      {% capture my-include %}{% include_relative index-content.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+
+</div>

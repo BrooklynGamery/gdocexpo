@@ -1,0 +1,10 @@
+- name: 'GitHub'
+  level: 'Silver'
+  logo: 'github.png'
+  link: http://github.com
+  blurb: 'GitHub is how people build software.'
+
+- name: 'MailChimp'
+  level: 'Emerald'
+  logo: 'mailchimp.png'
+  link: http://mailchimp.com/

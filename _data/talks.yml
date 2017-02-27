@@ -1,0 +1,10 @@
+- title: 'Doors open'
+  time: '11:00AM'
+
+- title: 'Opening message'
+  time: '11:30AM'
+  speakers:
+  - 'Catt Small'
+  - 'Chris Algoo'
+  - 'event co-organizers'
+  description: 'The Game Devs of Color Expo Team welcomes you to the event!'
