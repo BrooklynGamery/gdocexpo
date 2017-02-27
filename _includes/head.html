@@ -10,13 +10,13 @@
   <meta property="og:site_name" content="{{ site.title }}"/>
   {% if page.title != 'Home' %}<meta property="og:title" content="{{ page.title }}"/>{% endif %}
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"/>
-  <meta property="og:image" content="{% if page.thumbnail %}{{ site.url }}/assets/images/portfolio/{{ page.thumbnail }}{% else %}{{"/assets/image/logo-square.png" | prepend: site.baseurl | prepend: site.url}}{% endif %}"/>
+  <meta property="og:image" content="{% if page.thumbnail %}{{ site.url }}/assets/images/portfolio/{{ page.thumbnail }}{% else %}{{"/assets/images/logo-square.png" | prepend: site.baseurl | prepend: site.url}}{% endif %}"/>
 
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@brooklyngamery" />
   <meta name="twitter:title" content="{{ site.title }}{% if page.title != 'Home' %} - {{ page.title }}{% endif %}" />
   <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
-  <meta name="twitter:image" content="{% if page.thumbnail %}{{ site.url }}/assets/images/portfolio/{{ page.thumbnail }}{% else %}{{"/assets/image/logo-square.png" | prepend: site.baseurl | prepend: site.url}}{% endif %}" />
+  <meta name="twitter:image" content="{% if page.thumbnail %}{{ site.url }}/assets/images/portfolio/{{ page.thumbnail }}{% else %}{{"/assets/images/logo-square.png" | prepend: site.baseurl | prepend: site.url}}{% endif %}" />
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
