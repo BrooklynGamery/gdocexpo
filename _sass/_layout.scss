@@ -18,6 +18,10 @@
     width: 70%;
     max-width: 400px;
     margin: 1em 0;
+
+    @include media-query($on-palm) {
+        margin-bottom: 0;
+    }
 }
 
 .site-nav {
@@ -281,4 +285,45 @@
     text-align: center;
 }
 
-// Sponsorship section
+.list-data {
+    + .list-data {
+        margin-top: 1em;
+    }
+
+    .list-data-header, .list-data-content {
+        position: relative;
+        padding-left: 5.5em;
+
+        @include media-query($on-palm) {
+            padding-left: 0;
+        }
+    }
+
+    .list-data-time {
+        color: $grey-color;
+        position: absolute;
+        left: 0;
+        font-family: $display-font-family;
+        font-size: 1.5em;
+
+        @include media-query($on-palm) {
+            font-size: 1em;
+            position: relative;
+            display: block;
+        }
+    }
+
+    .list-data-title {
+        margin-bottom: 0;
+    }
+
+    .list-data-attribution {
+        margin-bottom: .125em;
+        font-size: 1.25em;
+        font-family: $display-font-family;
+    }
+
+    .list-data-description {
+        margin-bottom: 0;
+    }
+}
