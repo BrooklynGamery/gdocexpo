@@ -118,14 +118,14 @@
     .col-3 {
         width: 30%;
 
-        + .col-3 {
+        + .col-3, + .col-3-2 {
             margin-left: 5%;
         }
 
         @include media-query($on-palm) {
             width:100%;
 
-            + .col-3 {
+            + .col-3, + .col-3-2 {
                 margin-left: 0;
             }
         }

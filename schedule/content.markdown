@@ -18,10 +18,14 @@ The event will be held on June 24, 2017 at the historic Schomburg Center in New 
       <h3>Speakers:</h3>
       <ul class="list-unstyled col-container">
       {% for speaker in talk.speakers %}
-        <li class="col-3">
-          <img src="/assets/images/speakers/2017/{{speaker.photo}}" class="list-data-photo">
-          <h4>{{ speaker.name }}</h4>
-          <p class="text-smaller">{{speaker.bio}}</p>
+        <li class="{% if speaker.featured == false %}col-3{% else %}col-container{% endif %}">
+          <div class="{% if speaker.featured == true %}col-3{% endif %}">
+            <img src="/assets/images/speakers/2017/{{speaker.photo}}" class="list-data-photo">
+          </div>
+          <div class="{% if speaker.featured == true %} col-3-2{% endif %}">
+            <h4>{{ speaker.name }}</h4>
+            <p class="text-smaller">{{speaker.bio}}</p>
+          </div>
         </li>
         {% endfor %}
       </ul>
