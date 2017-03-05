@@ -123,6 +123,14 @@
             width:100%;
         }
     }
+
+    .col-3-2 {
+        width: 65%;
+
+        @include media-query($on-palm) {
+            width:100%;
+        }
+    }
 }
 
 
@@ -326,4 +334,46 @@
     .list-data-description {
         margin-bottom: 0;
     }
+}
+
+.sponsorship-list-item {
+    border: 1px solid $grey-color-light;
+    padding: 1em;
+    box-sizing: border-box;
+
+    p {
+        margin-bottom: 0;
+
+        &:not(.sponsorship-price) {
+            font-size: $small-font-size;
+        }
+    }
+
+    + .sponsorship-list-item:not(:nth-child(2)) {
+        margin-top: 2em;
+    }
+
+    @include media-query($on-palm) {
+
+        p:not(.sponsorship-price) {
+            font-size: $base-font-size;
+        }
+    }
+}
+
+.sponsorship-list-item-featured {
+    background-color: $grey-color-lightest;
+
+    p {
+        margin-bottom: 0;
+
+        &:not(.sponsorship-price) {
+            font-size: $base-font-size;
+        }
+    }
+}
+
+.sponsorship-price {
+    font-family: $display-font-family;
+    font-size: 2em;
 }
