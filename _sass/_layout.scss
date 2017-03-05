@@ -358,6 +358,10 @@
         p:not(.sponsorship-price) {
             font-size: $base-font-size;
         }
+
+        &:nth-child(2) {
+            margin-top: 2em;
+        }
     }
 }
 
