@@ -41,6 +41,10 @@ ul, ol, dl, figure,
     margin-bottom: $spacing-unit / 2;
 }
 
+.text-smaller {
+  font-size: $small-font-size;
+}
+
 /**
  * Images
  */
