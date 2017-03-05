@@ -6,7 +6,30 @@ The expo is a community-run event. You make it possible! Below are ways that you
 
 ## Speak
 
-Got something to say? We'd love to share it with our audience! If you'd like to speak during our event, [apply before March 15](https://goo.gl/forms/OcG78foYBBfVeHRu1)! First-time speakers are welcome to apply.
+Got something to say? We'd love to share it with our audience! If you'd like to speak during our event, [submit your idea using this form](https://goo.gl/forms/OcG78foYBBfVeHRu1)! First-time and remote speakers are welcome to apply.
+
+### Suggested topics
+
+- Game art
+- Game music
+- Game design
+- Game engines
+- Representation in games
+- Getting into the games industry
+- Marketing for games
+- Finding publishers for your game
+
+Not seeing your idea here? That's okay! We still want to hear from you.
+
+### Talk formats
+
+You can choose any or all of these formats when applying:
+
+- 45-minute panel (four people, one moderator)
+- 10-minute presentation (one person)
+- 45-minute presentation (one person)
+
+We will contact you after you apply to confirm how your talk idea and format can fit within our event. [Submit your idea as soon as possible](https://goo.gl/forms/OcG78foYBBfVeHRu1) – applications close on March 15.
 
 ## Submit your game
 
