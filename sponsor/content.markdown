@@ -30,6 +30,8 @@ People of color are now more powerful and necessary in games than ever. The indu
 
 ## Sponsorship levels
 
+Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](http://tinyurl.com/sponsorgdocexpo2017)
+
 <ul class="col-container">
   <li class="col-3-2 sponsorship-list-item sponsorship-list-item-featured">
     <h4>Platinum</h4>
@@ -60,7 +62,7 @@ People of color are now more powerful and necessary in games than ever. The indu
 
 <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a>
 
-Or reach out to us via email at hello@brooklyngamery.com. We'd love to hear from you!
+Or email hello@brooklyngamery.com – we'd love to hear from you!
 
 ----
 
