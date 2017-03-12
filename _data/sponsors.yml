@@ -7,4 +7,9 @@
 - name: 'MailChimp'
   level: 'Emerald'
   logo: 'mailchimp.png'
-  link: http://mailchimp.com/
+  link: http://mailchimp.com
+
+- name: 'NYU Tandon School of Engineering'
+  level: 'Emerald'
+  logo: 'nyu-tandon.png'
+  link: http://engineering.nyu.edu
