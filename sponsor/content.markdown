@@ -36,7 +36,7 @@ Below are our basic offerings. Interested in additional opportunities such as sp
   <li class="col-3-2 sponsorship-list-item sponsorship-list-item-featured">
     <h4>Platinum</h4>
     <p class="sponsorship-price">$10,000</p>
-    <p>Get a special mention on Twitter, the event websites, and during the event. Plus, you'll receive 8 complimentary tickets to the event, your logo in pre-event emails with a 50-word blurb. At the event, we'll hand out your branded promo items, put your logo on hangouts and signage. Additionally, you will have a table in the arcade and be allowed to present during our keynote.</p>
+    <p>Get a special mention on Twitter, the event websites, and during the event. Plus, you'll receive 8 complimentary tickets to the event, your logo in pre-event emails with a 50-word blurb. At the event, we'll hand out your branded promo items, put your logo on handouts and signage. Additionally, you will have a table in the arcade and be allowed to present during our keynote.</p>
   </li>
   <li class="col-3 sponsorship-list-item">
     <h4>Pearl</h4>
