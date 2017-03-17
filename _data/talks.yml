@@ -17,3 +17,26 @@
     bio: 'This event would not be possible without Shawn Alexander Allen, Brian Carr, Jarryd Huntley, Kirk Musngi and Jason Vega. We love you all and are so happy you could be such a big help!'
     featured: false
   description: 'The Game Devs of Color Expo Team welcomes you to the event!'
+
+- title: 'Arcade opens + lunch hour begins'
+  time: '12:00PM'
+
+- title: 'Microtalks'
+  time: '1:05PM'
+  description: 'In this hour-long session, four game developers will share their thoughts about a variety of topics including VR game development, crowdfunding a game about the immigrant experience, and finding your place in (or out) of the industry.'
+
+- title: 'Surviving the games industry'
+  time: '2:00PM'
+  description: 'This panel will feature five game developers who will share ways to get into and thrive within the game development industry as marginalized people. Topics to be covered will include how diversity can affect the game development process as well as ways to create games while navigating the industry and preserving your mental health.'
+
+- title: 'Diverse character design'
+  time: '2:55PM'
+  description: 'Five games industry professionals will further the case for diversity in character design during this panel. Topics to be discussed will include the portrayal of dark skin in games, representation of Arabs in video games, queer people of color in games, whitewashing, and cultural appropriation.'
+
+- title: 'Music in game design'
+  time: '3:50PM'
+  description: 'Music and sound are a crucial part of video games, but they are often considered later in the process. In this panel, game designers and musicians will convene to discuss game design, audio design, and what game creators can learn from disciplines outside their own.'
+
+- title: 'Polishing and launching your game'
+  time: '4:45PM'
+  description: 'Looking to take your game to the next level? Join five industry professionals to discuss ways to best share your game with the world. Topics to be discussed will include garnering press, marketing, protecting yourself from legal issues, and getting a publisher for your game.'
