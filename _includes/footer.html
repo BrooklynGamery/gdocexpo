@@ -19,6 +19,24 @@
       {% endfor %}
     </ul>
 
+    {% if site.data.partners %}
+    <h2>Community partners</h2>
+    <ul class="col-container">
+      {% for partner in site.data.partners %}
+      <li class="col-3">
+        <p>
+          <a href="{{ partner.link }}" target="_blank">
+            <img src="/assets/images/partners/2017/{{partner.logo}}" alt="{{partner.name}} logo" title="{{partner.name}}">
+          </a>
+        </p>
+        <p>
+          {{ partner.blurb }}
+        </p>
+      </li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+
     <h2>Event organizers</h2>
     <p><a href="http://brooklyngamery.com">Brooklyn Gamery</a> is a team of three multitalented game-makers who who enjoy creating high-quality games. We also believe in using games as a means of social change as well as encouraging cultural change in the games industry.</p>
 

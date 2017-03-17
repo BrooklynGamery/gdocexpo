@@ -46,7 +46,7 @@ Below are our basic offerings. Interested in additional opportunities such as sp
   <li class="col-3 sponsorship-list-item">
     <h4>Silver</h4>
     <p class="sponsorship-price">$2,500</p>
-    <p class="text-smaller">Get a special mention on Twitter, the event websites, and during the event. Plus, 3 event tickets and your logo in pre-event emails with a 25-word blurb.</p>
+    <p class="text-smaller">Get a special mention on Twitter, the event websites, and during the event. Plus, 3 event tickets and your logo in pre-event emails with a 10-word blurb.</p>
   </li>
   <li class="col-3 sponsorship-list-item">
     <h4>Emerald</h4>
