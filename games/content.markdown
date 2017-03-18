@@ -10,7 +10,9 @@ Our arcade will host a variety of games from around the world. Below are some of
       <img src="/assets/images/games/2017/{{game.image}}" class="list-data-photo">
     </div>
     <div class="col-3-2">
-      <h2 class="list-data-title">{{game.title}}</h2>
+      <a href="{{game.link}}" target="_blank">
+        <h2 class="list-data-title">{{game.title}}</h2>
+      </a>
       <h3 class="list-data-title">{{game.team}}</h3>
       {% if game.description %}
       <p class="list-data-description text-smaller">{{ game.description }}</p>
