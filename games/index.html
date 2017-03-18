@@ -1,0 +1,11 @@
+---
+layout: default
+title: Games
+excerpt: "The arcade will host a variety of games from around the world."
+---
+<section class="content-container">
+  <article class="entry">
+    {% capture my-include %}{% include_relative content.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+  </article>
+</section>

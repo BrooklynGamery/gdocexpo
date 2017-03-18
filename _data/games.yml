@@ -1,4 +1,35 @@
-- title: 'Game Name'
-  team: 'Team Name'
-  link: http://example.com
-  description: 'Example description'
+- title: '*try to* Dress Up'
+  team: Nivetha Kannan
+  link: https://nivikan.itch.io/try-to-dress-up
+  description:  As a daughter of a mostly rural Indian family, my clothing choices were monitored very strictly. Growing up, dress up games gave me an outlet where I could dress as I wanted without reprimand. '(try to) Dress Up' is a game than functions like the dress up games I loved but with a twist. It reflects my real world experience with dressing up- you'll have to get my parents' permission before going out in what you're wearing. Good luck with that... they're pretty tough judges.
+  image: try-to-dress-up.jpg
+
+- title: 'A Duel Hand Disaster: Trackher'
+  team: Ask An Enemy Studios
+  link: https://askanenemystudios.itch.io/a-duel-hand-disaster-trackher/
+  description:  "A Duel Hand Disaster: Trackher is a split-screen single player twin stick risk 'em up where you control two ships simultaneously. Your primary goal is to get the highest score possible, however the only way to keep your score is to leave the level with it. Playing till death will result in a zero score and a wipe of your leaderboard progress; that is if you had one to begin with ;)"
+  image: a-duel-hand-disaster-trackher.png
+
+- title: 'Media is Dead, You are Alive'
+  team: Mr Tedders
+  link: https://mrtedders.gamejolt.io/misyar/
+  description:  A game where you travel through worlds reflecting media of different types.
+  image: media-is-dead-you-are-alive.jpg
+
+- title: 'The Faceless Ones'
+  team: Melanie Kim
+  link: http://mxedk.com/thefacelessones_twine.html
+  description:  "A hypertext fiction about a faceless child who journeys through an unknown countryside to find their face. On the way, they meet the people of the countryside--whose faces are those of creatures, real-life or mythical--who could probably point the child in the right direction."
+  image: the-faceless-ones.png
+
+- title: 'Semblance'
+  team: Ask An Enemy Studios
+  link: https://askanenemystudios.itch.io/a-duel-hand-disaster-trackher/
+  description:  "Semblance is a puzzle platformer where your character and the world it inhabits is made of playdough. Squish, squash and deform your character and the world to solve puzzles in this soft, bouncy world. The world of our character, Squish, is usually entirely soft - but an infection and infestation of hard material has started to spread, feeding off the playdough world to survive."
+  image: semblance.png
+
+- title: 'Long Gone Days'
+  team: BURA
+  link: http://store.steampowered.com/app/510540/
+  description:  "Long Gone Days is a character-driven RPG inspired by dystopian literature, but set in our present time, featuring real countries. The game tells the story of Rourke, a soldier from The Core, an isolated settlement below the surface of the Earth. After discovering the dark truth about an operation he's part of in Kaliningrad, he decides to abandon his post, not realising the consequences of deserting an inescapable war."
+  image: long-gone-days.png
