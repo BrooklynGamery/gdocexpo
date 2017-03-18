@@ -1,17 +1,16 @@
 <footer class="site-footer">
   <div class="wrapper">
-    {% if page.name != 'home' %}
+    {% if page.title != 'home' %}
     <h2>All are welcome</h2>
     <p>The 2017 Game Devs of Color Expo is open to people of all genders, races, and sexual orientations. We want this to be a safe space to express yourself. Please let us know if there’s anything we can do to make you feel comfortable attending this event.</p>
-
     <p>
       <a href="/codeofconduct">Read our Code of Conduct</a>
     </p>
-    {% endif %}
 
     <hr>
-    <h2>Thanks to our sponsors!</h2>
+    {% endif %}
 
+    <h2>Thanks to our sponsors!</h2>
     <ul class="col-container">
       {% for sponsor in site.data.sponsors %}
       <li class="col-3">
@@ -30,7 +29,9 @@
 
     {% if site.data.partners %}
     <hr>
+
     <h2>Community partners</h2>
+
     <ul class="col-container">
       {% for partner in site.data.partners %}
       <li class="col-3">
@@ -48,9 +49,12 @@
     {% endif %}
 
     <hr>
+
     <h2>Event organizers</h2>
     <p><a href="http://brooklyngamery.com">Brooklyn Gamery</a> is a team of three multitalented game-makers who who enjoy creating high-quality games. We also believe in using games as a means of social change as well as encouraging cultural change in the games industry.</p>
+
     <hr>
+
     <h2>Press inquiries</h2>
     <p>You can <a href="https://drive.google.com/open?id=0B_3R82cXHe5Bbnh1YW9sOEdtS1k">view our press release on Google Drive</a>. All requests can be sent to hello@brooklyngamery.com. Professional photography and videography is prohibited on-site without consent from Brooklyn Gamery and the attendees being recorded.</p>
   </div>
