@@ -24,6 +24,9 @@ The event will be held on June 24, 2017 at the historic Schomburg Center in New 
           </div>
           <div class="{% if speaker.featured == true %} col-3-2{% endif %}">
             <h4>{{ speaker.name }}</h4>
+            {% if speaker.company %}
+            <h5 class="list-data-title">{{ speaker.company }}</h5>
+            {% endif %}
             <p class="text-smaller">{{speaker.bio}}</p>
           </div>
         </li>

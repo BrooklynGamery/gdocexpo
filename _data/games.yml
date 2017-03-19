@@ -2,34 +2,49 @@
   team: Nivetha Kannan
   link: https://nivikan.itch.io/try-to-dress-up
   description:  As a daughter of a mostly rural Indian family, my clothing choices were monitored very strictly. Growing up, dress up games gave me an outlet where I could dress as I wanted without reprimand. '(try to) Dress Up' is a game than functions like the dress up games I loved but with a twist. It reflects my real world experience with dressing up- you'll have to get my parents' permission before going out in what you're wearing. Good luck with that... they're pretty tough judges.
-  image: try-to-dress-up.jpg
+  image: try-to-dress-up.png
 
 - title: 'A Duel Hand Disaster: Trackher'
   team: Ask An Enemy Studios
   link: http://www.aduelhanddisaster.com
   description:  "A Duel Hand Disaster: Trackher is a split-screen single player twin stick risk 'em up where you control two ships simultaneously. Your primary goal is to get the highest score possible, however the only way to keep your score is to leave the level with it. Playing till death will result in a zero score and a wipe of your leaderboard progress; that is if you had one to begin with ;)"
-  image: a-duel-hand-disaster-trackher.png
+  image: a-duel-hand-disaster-trackher.jpg
 
-- title: 'Media is Dead, You are Alive'
+- title: Media is Dead, You are Alive
   team: Mr Tedders
   link: https://mrtedders.gamejolt.io/misyar/
   description:  A game where you travel through worlds reflecting media of different types.
   image: media-is-dead-you-are-alive.jpg
 
-- title: 'The Faceless Ones'
+- title: The Faceless Ones
   team: Melanie Kim
   link: http://mxedk.com/thefacelessones_twine.html
   description:  "A hypertext fiction about a faceless child who journeys through an unknown countryside to find their face. On the way, they meet the people of the countryside--whose faces are those of creatures, real-life or mythical--who could probably point the child in the right direction."
   image: the-faceless-ones.png
 
-- title: 'Semblance'
+- title: Semblance
   team: Nyamakop
   link: http://semblance-game.com/
   description:  "Semblance is a puzzle platformer where your character and the world it inhabits is made of playdough. Squish, squash and deform your character and the world to solve puzzles in this soft, bouncy world. The world of our character, Squish, is usually entirely soft - but an infection and infestation of hard material has started to spread, feeding off the playdough world to survive."
   image: semblance.png
 
-- title: 'Long Gone Days'
+- title: Long Gone Days
   team: BURA
   link: http://store.steampowered.com/app/510540/
   description:  "Long Gone Days is a character-driven RPG inspired by dystopian literature, but set in our present time, featuring real countries. The game tells the story of Rourke, a soldier from The Core, an isolated settlement below the surface of the Earth. After discovering the dark truth about an operation he's part of in Kaliningrad, he decides to abandon his post, not realising the consequences of deserting an inescapable war."
   image: long-gone-days.png
+
+- title: Demon's Revenge
+  team: White Guardian Studios
+  link: http://whiteguardianstudios.com
+  description:  "Demon's Revenge is an alternate perspective RPG where you play the role of Sen, a girl facing judgement from a world of prejudice and injustice. Dropped into a land full of conflict and bigotry, Sen will face the many trials and tribulations of a society that abandoned and hunts her for what she is. Ultimately her experience and judgment will play a role for the fate of the universe."
+  image: demons-revenge.png
+
+- title: Even the Ocean
+  team: Analgesic Productions LLC
+  link: http://www.eventheocean.com/
+  description:  "A grand story about Aliph, a lowly power plant technician for Whiteforge City, who finds her world turned upside-down after a routine maintenance trip goes awry.
+  <br><br>- Balance your energy bar with Light and Dark energies to overcome diverse obstacles and stabilize the city.
+  <br><br>- Meet and talk with new friends, powerful allies, and enigmatic travellers.
+  <br><br>- Explore the beautiful and strange geography in the overworld, towns, and environments surrounding Whiteforge City."
+  image: even-the-ocean.png

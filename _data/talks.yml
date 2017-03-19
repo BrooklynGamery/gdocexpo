@@ -26,7 +26,13 @@
   time: 1:05PM
   description: In this hour-long session, four game developers will share their thoughts about a variety of topics including VR game development, crowdfunding a game about the immigrant experience, and finding your place in (or out) of the industry.
   speakers:
+    - name: Auriea Harvey
+      company: Tale of Tales
+      photo: auriea-harvey.jpg
+      bio: Auriea Harvey has been a prominent figure in independent gaming as part of Tale of Tales, her studio founded along with Michael Samyn. They released titles such as The Endless Forest, The Path, The Graveyard and Luxuria Superbia; And introduced new concepts to the scene with the Realtime Art Manifesto and notgames. After over a decade of making games Auriea radically stopped after their last release ’SUNSET’ in 2015. But the tale goes on, she feels there is abundant life after videogames.
+      featured: true
     - name: Kevin Chen
+      company: Nuclear Fishin' Software
       photo: kevin-chen.png
       bio: Nuclear Fishin' Software is a tiny independent games studio in Brooklyn, New York, founded by NYC game industry veteran Kevin Chen in 2015. They are best known for the SLG/visual novel Four Horsemen.
       featured: false
