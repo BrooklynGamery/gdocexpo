@@ -1,6 +1,6 @@
 # {{page.title}}
 
-Our arcade will host a variety of games from around the world. Below are some of the games you will be able to play when you attend the expo.
+Our arcade will host a variety of games from around the world. Below are {{site.data.games.size}} of the confirmed games you will be able to play when you attend the expo.
 
 <ul class="list-unstyled">
   {% assign sorted_games = site.data.games | sort:"title" %}

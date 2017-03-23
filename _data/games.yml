@@ -12,7 +12,7 @@
 
 - title: Media is Dead, You are Alive
   team: Mr Tedders
-  link: https://mrtedders.gamejolt.io/misyar/
+  link: https://mrtedders.gamejolt.io/misyar
   description:  A game where you travel through worlds reflecting media of different types.
   image: media-is-dead-you-are-alive.jpg
 
@@ -24,13 +24,13 @@
 
 - title: Semblance
   team: Nyamakop
-  link: http://semblance-game.com/
+  link: http://semblance-game.com
   description:  "Semblance is a puzzle platformer where your character and the world it inhabits is made of playdough. Squish, squash and deform your character and the world to solve puzzles in this soft, bouncy world. The world of our character, Squish, is usually entirely soft - but an infection and infestation of hard material has started to spread, feeding off the playdough world to survive."
   image: semblance.png
 
 - title: Long Gone Days
   team: BURA
-  link: http://store.steampowered.com/app/510540/
+  link: http://store.steampowered.com/app/510540
   description:  "Long Gone Days is a character-driven RPG inspired by dystopian literature, but set in our present time, featuring real countries. The game tells the story of Rourke, a soldier from The Core, an isolated settlement below the surface of the Earth. After discovering the dark truth about an operation he's part of in Kaliningrad, he decides to abandon his post, not realising the consequences of deserting an inescapable war."
   image: long-gone-days.png
 
@@ -42,9 +42,27 @@
 
 - title: Even the Ocean
   team: Analgesic Productions LLC
-  link: http://www.eventheocean.com/
+  link: http://www.eventheocean.com
   description:  "A grand story about Aliph, a lowly power plant technician for Whiteforge City, who finds her world turned upside-down after a routine maintenance trip goes awry.
   <br><br>- Balance your energy bar with Light and Dark energies to overcome diverse obstacles and stabilize the city.
   <br><br>- Meet and talk with new friends, powerful allies, and enigmatic travellers.
   <br><br>- Explore the beautiful and strange geography in the overworld, towns, and environments surrounding Whiteforge City."
   image: even-the-ocean.png
+
+- title: An Afternoon Rippling
+  team: Marcie LaCerte
+  link: http://www.marslizard.net/afternoon
+  description:  Inspired by visual novels and interactive fiction, An Afternoon Rippling is a text-heavy 2D adventure game about getting lost in a valley after your car breaks down. In your search for the elusive Mechanic, you have conversations with several strange individuals.
+  image: an-afternoon-rippling.png
+
+- title: Liyla and the shadows of war
+  team: Liyla's team
+  link: http://liyla.org
+  description:  Liyla and the shadows of war is a game based on actual events, it tells a story of little girl lives in Gaza during the war in 2014.
+  image: liyla-and-the-shadows-of-war.png
+
+- title: Fugue
+  team: OriGaminc
+  link: http://www.origaminc.com/
+  description:  A math puzzle filled with music.
+  image: fugue.gif
