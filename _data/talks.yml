@@ -35,15 +35,36 @@
       company: Nuclear Fishin' Software
       photo: kevin-chen.png
       bio: Nuclear Fishin' Software is a tiny independent games studio in Brooklyn, New York, founded by NYC game industry veteran Kevin Chen in 2015. They are best known for the SLG/visual novel Four Horsemen.
-      featured: false
+      featured: true
 
 - title: Surviving the games industry
   time: 2:00PM
   description: This panel will feature five game developers who will share ways to get into and thrive within the game development industry as marginalized people. Topics to be covered will include how diversity can affect the game development process as well as ways to create games while navigating the industry and preserving your mental health.
 
-- title: Diverse character design
+- title: Diverse character design and representation in games
   time: 2:55PM
   description: Five games industry professionals will further the case for diversity in character design during this panel. Topics to be discussed will include the portrayal of dark skin in games, representation of Arabs in video games, queer people of color in games, whitewashing, and cultural appropriation.
+  speakers:
+    - name: Sande Chen
+      company: Independent
+      photo: sande-chen.jpg
+      bio: Sande Chen is a writer and game designer whose career has spanned over 15 years in the game industry. Her credits include 1999 Independent Games Festival winner Terminus, MMO Hall of Fame inductee Wizard101, and the 2007 PC RPG of the Year, The Witcher, for which she was nominated for a Writers Guild of America Award in Videogame Writing. She writes about game design and other topics on her blog, Game Design Aspect of the Month, and can be found on Twitter @sandechen.
+      featured: true
+    - name: Amaryah Shaye Armstrong
+      company: Vanderbilt University
+      photo: amaryah-shaye-armstrong.jpg
+      bio: Amaryah is a doctoral student in Theological Studies at Vanderbilt University. Her research examines the relationship between race, gender, and economics in theological terminology. She is convinced that playing too much Harvest Moon (SNES) as a pre-teen is why she is a lesbian today.
+      featured: false
+    - name: Tanya DePass
+      company: Tale of Tales
+      photo: tanya-depass.jpg
+      bio: Tanya DePass is the founder and Director of I Need Diverse Games, a not-for-profit foundation based in Chicago, that is dedicated to better diversification of all aspects of gaming. Her writing appears in Uncanny Magazine, Polygon, Vice Gaming, Waypoint, Wiscon Chronicles, Paste Games and other publications.
+      featured: false
+    - name: Yussef Cole
+      company: Writer + Visual Artist
+      photo: yussef-cole.jpg
+      bio: Yussef Cole is a writer and visual artist from the Bronx, NY. He is of Arab and African-American descent. Yussef has written for many online publications including Paste, Waypoint, The Ontological Geek, and ZAM. He recently cowrote "Black Skin is Still a Radical Concept in Games" with Tanya DePass for Waypoint, which will be his main platform for this panel.
+      featured: false
 
 - title: Music in game design
   time: 3:50PM
