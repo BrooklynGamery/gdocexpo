@@ -31,6 +31,11 @@
       photo: auriea-harvey.jpg
       bio: Auriea Harvey has been a prominent figure in independent gaming as part of Tale of Tales, her studio founded along with Michael Samyn. They released titles such as The Endless Forest, The Path, The Graveyard and Luxuria Superbia; And introduced new concepts to the scene with the Realtime Art Manifesto and notgames. After over a decade of making games Auriea radically stopped after their last release ’SUNSET’ in 2015. But the tale goes on, she feels there is abundant life after videogames.
       featured: true
+    - name: Hessvacio Hassan
+      company: IAC Apps
+      photo: hessvacio-hassan.jpg
+      bio: Hessvacio has been working in VR for the past year creating prototypes and releasing Don't Look Away VR for the Gear VR. With his knowledge from the release of such a successful project, Hessvacio would like to share his insight on making a VR project in Unity and finishing it. Hessvacio is a software engineer at IAC and builds out games as the tech lead in EOS Interactive.
+      featured: true
     - name: Kevin Chen
       company: Nuclear Fishin' Software
       photo: kevin-chen.png
@@ -65,6 +70,11 @@
       photo: yussef-cole.jpg
       bio: Yussef Cole is a writer and visual artist from the Bronx, NY. He is of Arab and African-American descent. Yussef has written for many online publications including Paste, Waypoint, The Ontological Geek, and ZAM. He recently cowrote "Black Skin is Still a Radical Concept in Games" with Tanya DePass for Waypoint, which will be his main platform for this panel.
       featured: false
+    - name: Dina Abou Karam
+      company: Game Designer / Artist
+      photo: dina-alex-abou-karam.jpeg
+      bio: "Dina is a game designer and artist. No stranger to travel, they have lived, studied and worked on games in cities from Beirut to Paris to Oslo to Cologne to Osaka. They've rubbed elbows with numerous industry titans, and tried their hand at mobile and console titles. Ask them about their latest project: a VR empathy game on what it's like to be an Arab when a bomb goes off in your city."
+      featured: true
 
 - title: Music, sound, and choreography in game design
   time: 3:50PM
