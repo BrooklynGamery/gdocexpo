@@ -34,12 +34,17 @@
     - name: Hessvacio Hassan
       company: IAC Apps
       photo: hessvacio-hassan.jpg
-      bio: Hessvacio has been working in VR for the past year creating prototypes and releasing Don't Look Away VR for the Gear VR. With his knowledge from the release of such a successful project, Hessvacio would like to share his insight on making a VR project in Unity and finishing it. Hessvacio is a software engineer at IAC and builds out games as the tech lead in EOS Interactive.
+      bio: "Games are an amazing window into another world and with the progression of VR designing new worlds can now be a reality. Hessvacio has been working in VR for the past year creating prototypes and releasing Don't Look Away VR for the Gear VR. With his knowledge from the release of such a successful project, Hessvacio would like to share his insight on making a VR project in Unity and finishing it. Hessvacio is a software engineer at IAC and builds out games as the tech lead in EOS Interactive."
       featured: true
     - name: Kevin Chen
       company: Nuclear Fishin' Software
       photo: kevin-chen.png
       bio: Nuclear Fishin' Software is a tiny independent games studio in Brooklyn, New York, founded by NYC game industry veteran Kevin Chen in 2015. They are best known for the SLG/visual novel Four Horsemen.
+      featured: true
+    - name: Ethan Redd
+      company: Multimedia Designer/Developer
+      photo: ethan-redd.jpg
+      bio: Ethan Redd is an independent multimedia designer, artist, developer, and consultant currently based in Buffalo, NY and New York City. Forged in the fires of the aesthetics of the mid-1990s, Redd boasts a signature style sporting bold colors, sharp silhouette, and lively, life-affirming charm. A self-taught jack-of-all trades and one man juggernaut, Redd believes in the power of art and media to inspire people to reach higher and push further in their own lives.
       featured: true
 
 - title: Surviving the games industry
@@ -59,17 +64,17 @@
       company: Vanderbilt University
       photo: amaryah-shaye-armstrong.jpg
       bio: Amaryah is a doctoral student in Theological Studies at Vanderbilt University. Her research examines the relationship between race, gender, and economics in theological terminology. She is convinced that playing too much Harvest Moon (SNES) as a pre-teen is why she is a lesbian today.
-      featured: false
+      featured: true
     - name: Tanya DePass
       company: I Need Diverse Games
       photo: tanya-depass.jpg
-      bio: Tanya DePass is the founder and Director of I Need Diverse Games, a not-for-profit foundation based in Chicago, that is dedicated to better diversification of all aspects of gaming. Her writing appears in Uncanny Magazine, Polygon, Vice Gaming, Waypoint, Wiscon Chronicles, Paste Games and other publications.
-      featured: false
+      bio: Tanya DePass is the founder and Director of I Need Diverse Games, a not-for-profit foundation based in Chicago, that is dedicated to better diversification of all aspects of gaming.   She’s the Founder and EIC of @OutofTokensCast, the Diversity Liaison for GaymerX and often speaks on issues of diversity, feminism, race, intersectionality & other topics at conventions. Her writing appears in Uncanny Magazine, Polygon, Vice Gaming, Waypoint, Wiscon Chronicles, Paste Games and other publications.
+      featured: true
     - name: Yussef Cole
       company: Writer + Visual Artist
       photo: yussef-cole.jpg
-      bio: Yussef Cole is a writer and visual artist from the Bronx, NY. He is of Arab and African-American descent. Yussef has written for many online publications including Paste, Waypoint, The Ontological Geek, and ZAM. He recently cowrote "Black Skin is Still a Radical Concept in Games" with Tanya DePass for Waypoint, which will be his main platform for this panel.
-      featured: false
+      bio: 'Yussef Cole is a writer and visual artist from the Bronx, NY. He is of Arab and African-American descent. His specialty is graphic design for television but he also deeply enjoys thinking and writing about games. Yussef has written for many online publications including Paste, Waypoint, The Ontological Geek, and ZAM. He recently cowrote "Black Skin is Still a Radical Concept in Games" with Tanya DePass for Waypoint, which will be his main platform for this panel.'
+      featured: true
     - name: Dina Abou Karam
       company: Game Designer / Artist
       photo: dina-alex-abou-karam.jpeg
@@ -83,3 +88,30 @@
 - title: Polishing and launching your game
   time: 4:45PM
   description: Looking to take your game to the next level? Join five industry professionals to discuss ways to best share your game with the world. Topics to be discussed will include garnering press, marketing, protecting yourself from legal issues, and getting a publisher for your game.
+  speakers:
+    - name: Darren Shield
+      company: Mazzeo Song P.C.
+      photo: darren-shield.jpg
+      bio: "Darren Shield is an associate attorney at Mazzeo Song LLP, where his practice includes securities and corporate law, copyright and trademark licensing, counseling, prosecution and litigation, and data privacy counseling. His clients include crowd funding and social media startups, award winning video game companies, and other technology startups.
+Mr. Shield received his Juris Doctor from New York Law School, and is licensed in New York State, and the Southern and Eastern Districts of New York."
+      featured: true
+    - name: Charles Babb
+      company: Fairchild Consortium
+      photo: charles-babb.jpeg
+      bio: "Charles Babb is a game lover. He has developed properties for TOKYOPOP. He has also produced eight game titles published by Warner Bros., Activision, Sony PlayStation, and Koei Tecmo. He’s considered a well-connected futurist working on a few AR and VR projects. Currently, Charles is a co-founder and Chief Experience Officer at Fairchild Consortium, a small studio focusing on developing inventive and innovative interactive entertainment experiences for augmented, virtual and mixed realities."
+      featured: true
+    - name: Del Northern
+      company: Videocult
+      photo: del-northern.jpg
+      bio: Del is a 2D game artist/illustrator currently working on the game Rain World with the studio Videocult! She also has done several album covers for Crypt of the Necrodancer. A born and bred New Yorker, Del finally picked up and moved to Seattle to pursue that good vidyagame life. She enjoys smooching cats and posting nonsense on twitter.
+      featured: true
+    - name: Wase Qazi
+      company: Megastorm Games
+      photo: wase-qazi.jpg
+      bio: Wase Qazi is a solo independent game developer who streams the creation of the art and the code for his games live on Twitch as QaziTV. Qazi is currently working on Shotgun Farmers, the multiplayer shooter where your bullet grow the guns.
+      featured: true
+    - name: James Lewis
+      company: Microsoft (Xbox)
+      photo: james-lewis.jpg
+      bio: "James is an Account Manager with Xbox 3rd Party Publishing who works with several tremendous independent developers in the ID@Xbox Program.  With experience in XBLA Publishing and internal development, James enjoys collaborating with developers and teams of all sizes and backgrounds.  James is proud to work with the Gaming for Everyone team at Xbox to encourage diversity in both games and their creators, as well as to help organize the annual Blacks in Gaming GDC event."
+      featured: true
