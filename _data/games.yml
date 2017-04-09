@@ -1,43 +1,43 @@
 - title: '*try to* Dress Up'
   team: Nivetha Kannan
   link: https://nivikan.itch.io/try-to-dress-up
-  description:  As a daughter of a mostly rural Indian family, my clothing choices were monitored very strictly. Growing up, dress up games gave me an outlet where I could dress as I wanted without reprimand. '(try to) Dress Up' is a game than functions like the dress up games I loved but with a twist. It reflects my real world experience with dressing up- you'll have to get my parents' permission before going out in what you're wearing. Good luck with that... they're pretty tough judges.
+  description: As a daughter of a mostly rural Indian family, my clothing choices were monitored very strictly. Growing up, dress up games gave me an outlet where I could dress as I wanted without reprimand. '(try to) Dress Up' is a game than functions like the dress up games I loved but with a twist. It reflects my real world experience with dressing up- you'll have to get my parents' permission before going out in what you're wearing. Good luck with that... they're pretty tough judges.
   image: try-to-dress-up.png
 
 - title: 'A Duel Hand Disaster: Trackher'
   team: Ask An Enemy Studios
   link: http://www.aduelhanddisaster.com
-  description:  "A Duel Hand Disaster: Trackher is a split-screen single player twin stick risk 'em up where you control two ships simultaneously. Your primary goal is to get the highest score possible, however the only way to keep your score is to leave the level with it. Playing till death will result in a zero score and a wipe of your leaderboard progress; that is if you had one to begin with ;)"
+  description: "A Duel Hand Disaster: Trackher is a split-screen single player twin stick risk 'em up where you control two ships simultaneously. Your primary goal is to get the highest score possible, however the only way to keep your score is to leave the level with it. Playing till death will result in a zero score and a wipe of your leaderboard progress; that is if you had one to begin with ;)"
   image: a-duel-hand-disaster-trackher.jpg
 
 - title: Media is Dead, You are Alive
   team: Mr Tedders
   link: https://mrtedders.gamejolt.io/misyar
-  description:  A game where you travel through worlds reflecting media of different types.
+  description: A game where you travel through worlds reflecting media of different types.
   image: media-is-dead-you-are-alive.jpg
 
 - title: The Faceless Ones
   team: Melanie Kim
   link: http://mxedk.com/thefacelessones_twine.html
-  description:  "A hypertext fiction about a faceless child who journeys through an unknown countryside to find their face. On the way, they meet the people of the countryside--whose faces are those of creatures, real-life or mythical--who could probably point the child in the right direction."
+  description: "A hypertext fiction about a faceless child who journeys through an unknown countryside to find their face. On the way, they meet the people of the countryside--whose faces are those of creatures, real-life or mythical--who could probably point the child in the right direction."
   image: the-faceless-ones.png
 
 - title: Semblance
   team: Nyamakop
   link: http://semblance-game.com
-  description:  "Semblance is a puzzle platformer where your character and the world it inhabits is made of playdough. Squish, squash and deform your character and the world to solve puzzles in this soft, bouncy world. The world of our character, Squish, is usually entirely soft - but an infection and infestation of hard material has started to spread, feeding off the playdough world to survive."
+  description: "Semblance is a puzzle platformer where your character and the world it inhabits is made of playdough. Squish, squash and deform your character and the world to solve puzzles in this soft, bouncy world. The world of our character, Squish, is usually entirely soft - but an infection and infestation of hard material has started to spread, feeding off the playdough world to survive."
   image: semblance.png
 
 - title: Long Gone Days
   team: BURA
   link: http://store.steampowered.com/app/510540
-  description:  "Long Gone Days is a character-driven RPG inspired by dystopian literature, but set in our present time, featuring real countries. The game tells the story of Rourke, a soldier from The Core, an isolated settlement below the surface of the Earth. After discovering the dark truth about an operation he's part of in Kaliningrad, he decides to abandon his post, not realising the consequences of deserting an inescapable war."
+  description: "Long Gone Days is a character-driven RPG inspired by dystopian literature, but set in our present time, featuring real countries. The game tells the story of Rourke, a soldier from The Core, an isolated settlement below the surface of the Earth. After discovering the dark truth about an operation he's part of in Kaliningrad, he decides to abandon his post, not realising the consequences of deserting an inescapable war."
   image: long-gone-days.png
 
 - title: Demon's Revenge
   team: White Guardian Studios
   link: http://whiteguardianstudios.com
-  description:  "Demon's Revenge is an alternate perspective RPG where you play the role of Sen, a girl facing judgement from a world of prejudice and injustice. Dropped into a land full of conflict and bigotry, Sen will face the many trials and tribulations of a society that abandoned and hunts her for what she is. Ultimately her experience and judgment will play a role for the fate of the universe."
+  description: "Demon's Revenge is an alternate perspective RPG where you play the role of Sen, a girl facing judgement from a world of prejudice and injustice. Dropped into a land full of conflict and bigotry, Sen will face the many trials and tribulations of a society that abandoned and hunts her for what she is. Ultimately her experience and judgment will play a role for the fate of the universe."
   image: demons-revenge.png
 
 - title: Even the Ocean
@@ -52,17 +52,61 @@
 - title: An Afternoon Rippling
   team: Marcie LaCerte
   link: http://www.marslizard.net/afternoon
-  description:  Inspired by visual novels and interactive fiction, An Afternoon Rippling is a text-heavy 2D adventure game about getting lost in a valley after your car breaks down. In your search for the elusive Mechanic, you have conversations with several strange individuals.
+  description: Inspired by visual novels and interactive fiction, An Afternoon Rippling is a text-heavy 2D adventure game about getting lost in a valley after your car breaks down. In your search for the elusive Mechanic, you have conversations with several strange individuals.
   image: an-afternoon-rippling.png
 
 - title: Liyla and the shadows of war
   team: Liyla's team
   link: http://liyla.org
-  description:  Liyla and the shadows of war is a game based on actual events, it tells a story of little girl lives in Gaza during the war in 2014.
+  description: Liyla and the shadows of war is a game based on actual events, it tells a story of little girl lives in Gaza during the war in 2014.
   image: liyla-and-the-shadows-of-war.png
 
 - title: Fugue
   team: OriGaminc
   link: http://www.origaminc.com/
-  description:  A math puzzle filled with music.
+  description: A math puzzle filled with music.
   image: fugue.gif
+
+- title: Art Club Challenge
+  team: Jarryd Huntley
+  link: http://www.artclubchallenge.com
+  description: Art Club Challenge is a game that presents players with a basic painting interface and a challenge to create. Using just a few simple tools, players get to create works of art  to pass those challenges. After passing a challenge they have the ability to upload it to the global gallery and discover how others decided to solve those same challenges.
+  image: art-club-challenge.png
+
+- title: Ghosts of Miami
+  team: Pillow Fight Games
+  link: http://ghostsofmiami.com
+  description: "Miami, 1986: the cocaine cowboys run the streets, and the morgues are overflowing with bodies. Chelo Martínez resolves to find people who fall through the cracks, but her path is thwarted by dead ends, dangers, and distracting romances. Navigate our soft-boiled detective through a twisting visual narrative, and solve the greatest mystery of Chelo's life--or don't."
+  image: ghosts-of-miami.png
+
+- title: Don't Look Away VR
+  team: EOS Interactive
+  link: http://hessvacio.com/pages/dontlookaway.html
+  description: Don't Look Away is a psychological horror experience that pits you against a mysterious entity bent on breaking down your mind, body, and soul before it feeds. Strapped to a chair, bound and gagged, with only a limited ability to reach for what's within your grasp, can you figure out the mystery of the room before it's too late? Just remember, whatever you do, whatever may happen, whatever you may see or hear... Don't Look Away.
+  image: dont-look-away-vr.png
+
+- title: Shotgun Farmers
+  team: Wase Qazi
+  link: https://qazitv.itch.io/shotgun-farmers-alpha
+  description: Shotgun Farmers is an Online Multiplayer shooter where your bullets grow the guns. Harvest weapon plants quickly for more ammo or let them grow for a stronger clip. Aim carefully, as a missed shot means you've just gifted your enemy with the gun you're using!
+  image: shotgun-farmers.gif
+
+- title: "Five: Journey to the Truth"
+  team: Sydney Adams Designs
+  link: http://sydneyadamsdesigns.com
+  description: "WELCOME TO THE FIVE. You have joined the elite few who represent their planets and protect the Sult Galaxy from the Great Evils. It is your job to keep order and balance in the ever changing cosmos, while trying your best to not let your troubled past effect the future you Five must face together! Succeed and save us. Fail, and watch us crumble.
+  <br><br>
+  Five: Journey to the Truth is a cooperative role-playing board game, where the players select one of five characters and embark on a mission."
+  image: five.png
+
+- title: "Robo-tea:1cup!"
+  team: jo-robo
+  link: https://robohaven.itch.io/robo-tea1cup
+  description: Need a break? Let’s relax with a soothing cup of robo-tea! This dating sim is about consideration and designed for self-soothing. In this all-robot world you’re Galine, a guardbot who’s been given a curious task… Through the path you choose, learn more about the bots around you and go on a cute, calm date!
+  image: robo-1-tea-cup.jpg
+
+- title: Dominique Pamplemousse and Dominique Pamplemousse in "Combinatorial Explosion!"
+  team: Dietrich Squinkifer
+  link: http://squinky.me
+  description: "In this sequel to 2013's breakout musical hit, Dominique Pamplemousse in \"It's All Over Once The Fat Lady Sings!\", our favourite genderqueer private detective discovers that, through the power of multiple endings from the previous game, they have been cloned! Join the two Dominiques as they traverse surreal locations and interrogate increasingly bizarre characters in order to answer a very important question: which one of them is canon?"
+  image: dominique-pampelmousse.png
