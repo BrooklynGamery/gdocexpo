@@ -78,13 +78,33 @@
     - name: Dina Abou Karam
       company: Game Designer / Artist
       photo: dina-alex-abou-karam.jpeg
-      bio: "Dina is a game designer and artist. No stranger to travel, they have lived, studied and worked on games in cities from Beirut to Paris to Oslo to Cologne to Osaka. They've rubbed elbows with numerous industry titans, and tried their hand at mobile and console titles. Ask them about their latest project: a VR empathy game on what it's like to be an Arab when a bomb goes off in your city."
+      bio: "Dina is a game designer and artist. No stranger to travel, they have lived, studied and worked on games in cities from Beirut to Paris to Oslo to Cologne to Osaka. They've rubbed elbows with numerous industry titans, and tried their hand at mobile and console titles. Ask them about their latest project: a VR empathy game on what it's like to be an Arab when a bomb goes off in your city. (Photo credit: Terence Tolman)"
       featured: true
 
 - title: Music, sound, and choreography in game design
   time: 3:50PM
   description: Music and sound are a crucial part of video games, but they are often considered later in the process. In this panel, game designers and musicians will convene to discuss game design, audio design, and what game creators can learn from disciplines outside their own.
-
+  speakers:
+    - name: Shawn Alexander Allen
+      company: NuChallenger
+      photo: shawn-alexander-allen.jpg
+      bio: "Shawn has spent over a decade in the industry, from Rockstar Games to Nuchallenger. He is an artist, writer, game designer, activist, critic, speaker, thinker, red, glack, and green. He made 'Treachery in Beatdown City', and is constantly retooling Corporate Vandals. Support #blackgamedev"
+      featured: true
+    - name: SAMMUS
+      company: Rap artist, producer, and PhD student
+      photo: sammus.jpg
+      bio: "SAMMUS is an Ithaca, NY based rap artist, producer, and PhD student in the Department of Science & Technology Studies at Cornell University.  Known as much for her rousing stage presence as she is for her prowess as a beatmaker and lyricist, Sammus has spent the past several years cultivating a strong following of activists, hip hop heads, punks, and self-proclaimed nerds and geeks, among others. As noted by the Los Angeles Times, Sammus \"has a gift for getting a message across.\" (Photo credit: Andrew Doench)"
+      featured: true
+    - name: Shawn Pierre
+      company: OriGaminc
+      photo: shawn-pierre.jpg
+      bio: Shawn Pierre doesn't do much. Currently, he lives in Philly, and helps run the local meetup, currently known as Philly Dev Night. He also tries to make games.
+      featured: true
+    - name: Sean Han Tani
+      company: Independent
+      photo: sean-han-tani.jpg
+      bio: Sean Han Tani is a game developer known for the games Anodyne and Even the Ocean. He also writes music for these games and other musical projects. Currently he is interested in using themes relating to race and diaspora in his work. He also teaches game development at the School of the Art Institute of Chicago.
+      featured: true
 - title: Polishing and launching your game
   time: 4:45PM
   description: Looking to take your game to the next level? Join five industry professionals to discuss ways to best share your game with the world. Topics to be discussed will include garnering press, marketing, protecting yourself from legal issues, and getting a publisher for your game.
