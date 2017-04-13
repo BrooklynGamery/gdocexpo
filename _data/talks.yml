@@ -46,6 +46,11 @@
       photo: ethan-redd.jpg
       bio: Ethan Redd is an independent multimedia designer, artist, developer, and consultant currently based in Buffalo, NY and New York City. Forged in the fires of the aesthetics of the mid-1990s, Redd boasts a signature style sporting bold colors, sharp silhouette, and lively, life-affirming charm. A self-taught jack-of-all trades and one man juggernaut, Redd believes in the power of art and media to inspire people to reach higher and push further in their own lives.
       featured: true
+    - name: Stephanie Andrews
+      company: Brilliant.org
+      photo: stephanie-andrews.jpg
+      bio: Stephanie is a software engineer at Brilliant.org, an enthusiastic game jammer, and one half of Jello Moat Studio.  She started programming and making games at 24, with no prior experience doing either.  At 26, she is now very experienced at being super confused but sticking with it and figuring out what it all means. She hopes to make the game development process more accessible to people like her.
+      featured: true
 
 - title: Surviving the games industry
   time: 2:00PM
@@ -88,7 +93,7 @@
     - name: Shawn Alexander Allen
       company: NuChallenger
       photo: shawn-alexander-allen.jpg
-      bio: "Shawn has spent over a decade in the industry, from Rockstar Games to Nuchallenger. He is an artist, writer, game designer, activist, critic, speaker, thinker, red, glack, and green. He made 'Treachery in Beatdown City', and is constantly retooling Corporate Vandals. Support #blackgamedev"
+      bio: "Shawn makes (often political) art in the way of games (both digital and non), photography, poetry, and dystopian fiction. He also writes media criticism, with a focus on race/class and representation, as well as game design critique. He is currently making the political dark comedy & tactical beat ‘em up Treachery in Beatdown City, and is perpetually working on the graffiti turf warfare game Corporate Vandals. Always support #blackgamedev"
       featured: true
     - name: SAMMUS
       company: Rap artist, producer, and PhD student
