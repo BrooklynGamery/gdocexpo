@@ -1,6 +1,14 @@
-# Volunteer for the Game Devs of Color Expo
+# Participate the Game Devs of Color Expo
 
 ![](/assets/images/photos/2016/11.jpg)
+
+## Purchase a table
+
+Although we are no longer accepting games to showcase, we do have tables available for companies that are interested in hiring game developers of color. Contact us at hello@brooklyngamery.com to learn more about pricing.
+
+Want to do more? [Sponsor the event.](/sponsor)
+
+## Volunteer
 
 The expo is a community-run event. You make it possible! We need volunteers to help run the event and show games by developers of color outside New York City.
 
