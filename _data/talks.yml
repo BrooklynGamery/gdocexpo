@@ -18,12 +18,12 @@
       bio: This event would not be possible without Shawn Alexander Allen, Brian Carr, Jarryd Huntley, Kirk Musngi and Jason Vega. We love you all and are so happy you could be such a big help!
       featured: false
 
-- title: Arcade opens + lunch hour
+- title: Arcade opens
   time: 12:00PM
   description: 'Check out the <a href="/games">regularly-updated games section</a> to see what we offer!'
 
 - title: Microtalks
-  time: 1:05PM
+  time: 12:00PM
   description: In this hour-long session, four game developers will share their thoughts about a variety of topics including VR game development, crowdfunding a game about the immigrant experience, and finding your place in (or out) of the industry.
   speakers:
     - name: Auriea Harvey
@@ -51,6 +51,10 @@
       photo: stephanie-andrews.jpg
       bio: Stephanie is a software engineer at Brilliant.org, an enthusiastic game jammer, and one half of Jello Moat Studio.  She started programming and making games at 24, with no prior experience doing either.  At 26, she is now very experienced at being super confused but sticking with it and figuring out what it all means. She hopes to make the game development process more accessible to people like her.
       featured: true
+
+- title: Lunch hour - go experience Harlem!
+  time: 1:15PM
+  description: We encourage you to spend 45 minutes outside and explore the neighborhood. There are delicious restaurants right by the Schomburg Center!
 
 - title: Surviving the games industry
   time: 2:00PM
