@@ -351,6 +351,8 @@
     }
 }
 
+// Sponsors
+
 .sponsorship-list-item {
     border: 1px solid $grey-color-light;
     padding: 1em;
@@ -399,4 +401,11 @@
 .sponsorship-price {
     font-family: $display-font-family;
     font-size: 2em;
+}
+
+// Footer sponsor
+.sponsors-container {
+     .col-3:nth-child(3n+4) {
+        margin-left: 0;
+     }
 }

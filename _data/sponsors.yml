@@ -1,3 +1,9 @@
+- name: 'Xbox'
+  level: 'Pearl'
+  logo: 'xbox.png'
+  link: http://xbox.com
+  blurb: 'Experience a new generation of games and entertainment with Xbox. The best games and entertainment on all of your devices.'
+
 - name: 'GitHub'
   level: 'Silver'
   logo: 'github.png'

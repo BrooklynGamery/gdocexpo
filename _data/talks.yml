@@ -2,7 +2,7 @@
   time: 11:00AM
 
 - title: Opening message
-  time: 11:30AM
+  time: 11:30AM - 12:00PM
   description: The Game Devs of Color Expo Team welcomes you to the event!
   speakers:
     - name: Catt Small
@@ -55,7 +55,27 @@
 - title: Surviving the games industry
   time: 2:00PM
   description: This panel will feature five game developers who will share ways to get into and thrive within the game development industry as marginalized people. Topics to be covered will include how diversity can affect the game development process as well as ways to create games while navigating the industry and preserving your mental health.
-
+  speakers:
+    - name: Keith Jordan
+      company: Independent
+      photo: keith-jordan.jpg
+      bio: Keith Jordan is an indie game designer from The Bronx, New York. Through his education and employment, he has worked with several local game projects including Flu Busters, an educational survival game about the flu shot for Winthrop Hospital, and Orbital Round Bits for mobile devices. When he is not making games (or playing them), he teaches game design to children and teens. He also enjoys camping, swimming, and studying name etymology.
+      featured: true
+    - name: Jo Fu
+      company: Pillow Fight Games
+      photo: jo-fu.jpg
+      bio: Jo founded a small company to make visual novels for nice people. She uses Twitter for cat pics, indie game screenshots, and threaded rants about being a woman in professional spaces. She ships Pharmercy, and is basic in other ways too.
+      featured: true
+    - name: Cierra McDonald
+      company: Xbox
+      photo: cierra-mcdonald.jpg
+      bio: Cierra is a Senior Program Manager for Team Xbox. As the owner for Xbox Live Achievements systems on every device since the Xbox 360, she loves working on gaming platforms to help game designers and developers bring their ideas to life and to customers. She has presented at GDC and organizes Xbox's annual Blacks in Gaming GDC event. Cierra is passionate about encouraging others to embrace gaming as both a hobby and a career. She is also on a mission to increase her Gamerscore by 25,000 in 2017!
+      featured: true
+    - name: Mitu Khandaker
+      company: Spirit AI + NYU Game Center
+      photo: mitu-khandaker.jpg
+      bio: "Mitu Khandaker is CCO of Spirit AI, making tools to help game developers use tech to make games more accessible and intriguing in various ways: from rich autonomous characters to procedural narratives to even mitigating online harassment. She is also founder of indie microstudio The Tiniest Shark, and an Assistant Arts Professor at the NYU Game Center. Her research interests include social simulation, the aesthetics of interactivity and its relationship to critical play, in which she has a Ph.D."
+      featured: true
 - title: Diverse character design and representation in games
   time: 2:55PM
   description: Five games industry professionals will further the case for diversity in character design during this panel. Topics to be discussed will include the portrayal of dark skin in games, representation of Arabs in video games, queer people of color in games, whitewashing, and cultural appropriation.
