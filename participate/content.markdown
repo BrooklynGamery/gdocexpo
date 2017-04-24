@@ -2,9 +2,9 @@
 
 ![](/assets/images/photos/2016/11.jpg)
 
-## Purchase a table
+## Purchase a vendor table
 
-Although we are no longer accepting games to showcase, we do have tables available for companies that are interested in hiring game developers of color. Contact us at hello@brooklyngamery.com to learn more about pricing.
+Although we are no longer accepting games to showcase, we do have tables available for companies that are interested hiring game developers of color and/or sharing their products with our unique demographic. Contact us at hello@brooklyngamery.com to learn more about pricing.
 
 Want to do more? [Sponsor the event.](/sponsor)
 
