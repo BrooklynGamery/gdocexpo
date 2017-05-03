@@ -10,6 +10,12 @@
   link: http://github.com
   blurb: 'GitHub is how people build software.'
 
+- name: 'GE Digital'
+  level: 'Silver'
+  logo: 'ge.png'
+  link: http://ge.com/digital
+  blurb: 'Harnessing digital technology to change the way you do business.'
+
 - name: 'MailChimp'
   level: 'Emerald'
   logo: 'mailchimp.png'
