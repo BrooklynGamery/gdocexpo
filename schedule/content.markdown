@@ -1,7 +1,5 @@
 # {{page.title}}
 
-The event will be held on June 24, 2017 at the historic Schomburg Center in New York City. All panels, talks, educational sessions, and an arcade will feature game players and developers of color.
-
 <ul class="list-unstyled">
   {% for talk in site.data.talks %}
   <li class="list-data">
