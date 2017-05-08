@@ -1,4 +1,4 @@
-- title: '*try to* Dress Up'
+- title: '<span class="text-symbol vertical-align-middle">(</span>try to<span class="text-symbol vertical-align-middle">)</span> Dress Up'
   team: Nivetha Kannan
   link: https://nivikan.itch.io/try-to-dress-up
   description: As a daughter of a mostly rural Indian family, my clothing choices were monitored very strictly. Growing up, dress up games gave me an outlet where I could dress as I wanted without reprimand. '(try to) Dress Up' is a game than functions like the dress up games I loved but with a twist. It reflects my real world experience with dressing up- you'll have to get my parents' permission before going out in what you're wearing. Good luck with that... they're pretty tough judges.
@@ -128,7 +128,7 @@
   image: frkn-wknd.gif
 
 - title: The Ultimate Clap Back
-  team: Mot and Dot LLC
+  team: Mot <span class="text-symbol">&</span> Dot LLC
   link: http://www.theultimateclapback.com
   description: "This game of witty banter is not your parents' night in go pinochle and spades.  The Ultimate Clap Back is a fast-paced game of wordplay.  With just the right amount of sarcasm, snark and shade, this card game is bound to shock and keep you laughing for hours!"
   image: the-ultimate-clapback.jpg

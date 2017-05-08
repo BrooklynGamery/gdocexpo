@@ -45,6 +45,18 @@ ul, ol, dl, figure,
   font-size: $small-font-size;
 }
 
+.text-body {
+  font-family: $base-font-family;
+}
+
+.text-symbol {
+  font-family: $symbol-font-family;
+}
+
+.vertical-align-middle {
+  vertical-align: middle;
+}
+
 /**
  * Images
  */
