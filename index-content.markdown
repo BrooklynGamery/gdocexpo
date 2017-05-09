@@ -14,9 +14,11 @@ The 2017 Game Devs of Color Expo takes place on June 24, 2017 in New York City. 
 
 ![](/assets/images/photos/2016/05.jpg)
 
-The 2017 Game Devs of Color Expo is open to people of all genders, races, and sexual orientations. We want this to be a safe space to express yourself. Please let us know if there’s anything we can do to make you feel comfortable attending this event.
+The 2017 Game Devs of Color Expo is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. For example, the venue is wheelchair accessibile, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
 
-[Read our Code of Conduct](/codeofconduct)
+We want this to be a safe space to express yourself. Please let us know if there’s anything we can do to make you feel comfortable attending this event.
+
+[Read our full Code of Conduct](/codeofconduct)
 
 ----
 
