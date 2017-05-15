@@ -16,6 +16,12 @@
   link: http://ge.com/digital
   blurb: 'Harnessing digital technology to change the way you do business.'
 
+- name: 'Mozilla'
+  level: 'Silver'
+  logo: 'mozilla.png'
+  link: http://mozilla.org
+  blurb: 'Our mission is to ensure the Internet is open and accessible to all.'
+
 - name: 'MailChimp'
   level: 'Emerald'
   logo: 'mailchimp.png'
