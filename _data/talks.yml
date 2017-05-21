@@ -26,16 +26,6 @@
   time: 12:00PM
   description: In this hour-long session, four game developers will share their thoughts about a variety of topics including VR game development, crowdfunding a game about the immigrant experience, and finding your place in (or out) of the industry.
   speakers:
-    - name: Auriea Harvey
-      company: Tale of Tales
-      photo: auriea-harvey.jpg
-      bio: Auriea Harvey has been a prominent figure in independent gaming as part of Tale of Tales, her studio founded along with Michael Samyn. They released titles such as The Endless Forest, The Path, The Graveyard and Luxuria Superbia; And introduced new concepts to the scene with the Realtime Art Manifesto and notgames. After over a decade of making games Auriea radically stopped after their last release ’SUNSET’ in 2015. But the tale goes on, she feels there is abundant life after videogames.
-      featured: true
-    - name: Hessvacio Hassan
-      company: IAC Apps
-      photo: hessvacio-hassan.jpg
-      bio: "Games are an amazing window into another world and with the progression of VR designing new worlds can now be a reality. Hessvacio has been working in VR for the past year creating prototypes and releasing Don't Look Away VR for the Gear VR. With his knowledge from the release of such a successful project, Hessvacio would like to share his insight on making a VR project in Unity and finishing it. Hessvacio is a software engineer at IAC and builds out games as the tech lead in EOS Interactive."
-      featured: true
     - name: Kevin Chen
       company: Nuclear Fishin' Software
       photo: kevin-chen.png
@@ -50,6 +40,16 @@
       company: Brilliant.org
       photo: stephanie-andrews.jpg
       bio: Stephanie is a software engineer at Brilliant.org, an enthusiastic game jammer, and one half of Jello Moat Studio.  She started programming and making games at 24, with no prior experience doing either.  At 26, she is now very experienced at being super confused but sticking with it and figuring out what it all means. She hopes to make the game development process more accessible to people like her.
+      featured: true
+    - name: Hessvacio Hassan
+      company: IAC Apps
+      photo: hessvacio-hassan.jpg
+      bio: "Games are an amazing window into another world and with the progression of VR designing new worlds can now be a reality. Hessvacio has been working in VR for the past year creating prototypes and releasing Don't Look Away VR for the Gear VR. With his knowledge from the release of such a successful project, Hessvacio would like to share his insight on making a VR project in Unity and finishing it. Hessvacio is a software engineer at IAC and builds out games as the tech lead in EOS Interactive."
+      featured: true
+    - name: Auriea Harvey
+      company: Tale of Tales
+      photo: auriea-harvey.jpg
+      bio: Auriea Harvey has been a prominent figure in independent gaming as part of Tale of Tales, her studio founded along with Michael Samyn. They released titles such as The Endless Forest, The Path, The Graveyard and Luxuria Superbia; And introduced new concepts to the scene with the Realtime Art Manifesto and notgames. After over a decade of making games Auriea radically stopped after their last release ’SUNSET’ in 2015. But the tale goes on, she feels there is abundant life after videogames.
       featured: true
 
 - title: Lunch hour - go experience Harlem!
