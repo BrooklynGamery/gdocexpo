@@ -184,3 +184,15 @@
   link: http://terrifyingjellyfish.com
   description: "nour is an experimental art game about playing with and reminiscing about the luxury that is food, in this post-soylent world."
   image: nour.jpg
+
+- title: She Dreams Elsewhere
+  team: Studio Zevere
+  link: https://studiozevere.com/games/she-dreams-elsewhere
+  description: '"She Dreams Elsewhere" is an adventure JRPG about dreams and the extent to which they mirror reality. You play as Thalia Sullivan, a comatose woman determined to defeat her nightmares in order to finally wake up. Unfortunately for her, some nightmares are harder to confront than others...'
+  image: she-dreams-elsewhere.png
+
+- title: Breakup Squad
+  team: Catt Small, Chris Algoo, Ethan Gooding, + Hillmon Ancrum
+  link: http://breakupsquadgame.com
+  description: Breakup Squad is a fast and asymmetrical team-based game for five players. Two people play as former lovers who spot each other at a party after their toxic breakup. Three players are the lovers' friends who suffer from collateral damage after each makeup and breakup session. Will the lovers be together again, or can the friends keep them apart until the party is over? Make distractions and obstacles to win the cutest breakup game ever!
+  image: breakup-squad.gif
