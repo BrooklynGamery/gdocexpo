@@ -41,9 +41,11 @@
             <img src="/assets/images/partners/2017/{{partner.logo}}" alt="{{partner.name}} logo" title="{{partner.name}}">
           </a>
         </p>
+        {% if partner.blurb %}
         <p>
           {{ partner.blurb }}
         </p>
+        {% endif %}
       </li>
       {% endfor %}
     </ul>

@@ -1,3 +1,8 @@
 - name: 'Silicon Harlem'
   logo: 'siliconharlem.png'
   link: http://siliconharlem.net
+
+- name: 'Skillshare'
+  logo: 'skillshare.png'
+  link: http://skillshare.com
+  blurb: Skillshare is an online learning community for creators with over 15k classes in design, photo, and more.

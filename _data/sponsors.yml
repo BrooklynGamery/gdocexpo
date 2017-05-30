@@ -31,3 +31,8 @@
   level: 'Emerald'
   logo: 'nyu-tandon.png'
   link: http://engineering.nyu.edu
+
+- name: 'Games for Change'
+  level: 'Emerald'
+  logo: 'games-for-change.png'
+  link: http://www.gamesforchange.org
