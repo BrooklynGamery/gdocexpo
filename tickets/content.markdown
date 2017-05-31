@@ -1,6 +1,6 @@
 # Get tickets
 
-[View tickets on Eventbrite](http://gdocexpo2017.eventbrite.com) or use the form below to buy tickets. All transactions are securely processed through Eventbrite.
+[View tickets on Eventbrite](https://gdocexpo2017.eventbrite.com/?aff=tickets) or use the form below to buy tickets. All transactions are securely processed through Eventbrite.
 
 <div style="width:100%; text-align:left;">
 <iframe src="//eventbrite.com/tickets-external?eid=31086216711&ref=etckt" frameborder="0" height="650" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" allowtransparency="true"></iframe>
