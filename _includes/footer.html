@@ -10,23 +10,77 @@
     <hr>
     {% endif %}
 
+    {% if site.data.sponsors %}
     <h2>Thanks to our sponsors!</h2>
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Pearl' %}
+    <h3>Pearl</h3>
     <ul class="col-container sponsors-container">
-      {% for sponsor in site.data.sponsors %}
+      {% for sponsor in sponsors %}
+      <li class="col-container">
+        {% if sponsor.logo %}
+        <p class="col-3">
+          <a href="{{ sponsor.link }}" target="_blank">
+            <img src="/assets/images/sponsors/2017/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
+          </a>
+        </p>
+        {% endif %}
+        <div class="col-3-2">
+          <p>
+            {{ sponsor.blurb }} <a href="{{ sponsor.link }}" target="_blank">Learn more on their website</a>.
+          </p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Silver' %}
+    <h3>Silver</h3>
+    <ul class="col-container sponsors-container">
+      {% for sponsor in sponsors %}
+      <li class="col-container">
+        {% if sponsor.logo %}
+        <p class="col-3">
+          <a href="{{ sponsor.link }}" target="_blank">
+            <img src="/assets/images/sponsors/2017/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
+          </a>
+        </p>
+        {% endif %}
+        <div class="col-3-2">
+          <p>
+            {{ sponsor.blurb }} <a href="{{ sponsor.link }}" target="_blank">Learn more on their website</a>.
+          </p>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Emerald' %}
+    <h3>Emerald</h3>
+    <ul class="col-container sponsors-container">
+      {% for sponsor in sponsors %}
       <li class="col-3">
+        {% if sponsor.logo %}
         <p>
           <a href="{{ sponsor.link }}" target="_blank">
             <img src="/assets/images/sponsors/2017/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
         </p>
-        <h3>{{sponsor.name}}</h3>
-        <h4>{{sponsor.level}} Sponsor</h4>
+        <p>
+        Learn more about {{sponsor.name}} <a href="{{ sponsor.link }}" target="_blank">on their website</a>.
+        </p>
+        {% endif %}
+        {% unless sponsor.logo %}
+        <h4>
+          {{ sponsor.name }}
+        </h4>
         <p>
           {{ sponsor.blurb }}
         </p>
+        {% endunless %}
       </li>
       {% endfor %}
     </ul>
+    {% endif %}
 
     {% if site.data.partners %}
     <hr>
