@@ -6,4 +6,4 @@ The 2017 Game Devs of Color Expo is a safe space where you can express yourself 
 
 No form of harassment or assault will be tolerated, this includes but is not limited to physical harassment, verbal harassment, and any form of sexual assault. Those who violate this policy will either be directed to leave the premises or reported to the authorities.
 
-If you feel unsafe or uncomfortable, please talk with an organizer or volunteer. If you see someone being treated with disrespect, please speak up either yourself or by getting an organizer/volunteer involved. With your help we can make sure everyone involved is being treated with respect.
+If you feel unsafe or uncomfortable, please talk with an organizer or volunteer. You can also [report a violation using this form](https://goo.gl/forms/T9SgQmkhkHQz0J7U2) if you feel more comfortable contacting us digitally. If you see someone being treated with disrespect, please speak up either yourself or by getting an organizer/volunteer involved. With your help we can make sure everyone involved is being treated with respect.
