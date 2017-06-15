@@ -26,11 +26,11 @@
   time: 12:00PM
   description: 'In this hour-long session, five game developers will share their thoughts about a variety of topics:
   <ul>
-  <li><strong>12:00–12:10PM:</strong> Retrospective of making a diverse game</li>
-  <li><strong>12:14–12:24PM:</strong> Being a cool person in games</li>
-  <li><strong>12:28–12:38PM:</strong> Launching a VR game</li>
-  <li><strong>12:42–12:52PM:</strong> Collaboration using Unity</li>
-  <li><strong>12:56–1:16PM:</strong> Artist makes games, then leaves</li>
+  <li><strong>12:00–12:10PM:</strong> Indie Game Postmortem: Four Horsemen</li>
+  <li><strong>12:14–12:24PM:</strong> REDD TO RADD: From Wannabe to Sorta-Am</li>
+  <li><strong>12:28–12:38PM:</strong> VR in Games And Beyond</li>
+  <li><strong>12:42–12:52PM:</strong> Unity, Collaboration, Inclusion: A Primer</li>
+  <li><strong>12:56–1:16PM:</strong> Life Beyond Games</li>
   </ul>'
   speakers:
     - name: Kevin Chen
