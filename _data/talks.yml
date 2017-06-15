@@ -24,7 +24,14 @@
 
 - title: Microtalks
   time: 12:00PM
-  description: In this hour-long session, four game developers will share their thoughts about a variety of topics including VR game development, crowdfunding a game about the immigrant experience, and finding your place in (or out) of the industry.
+  description: 'In this hour-long session, five game developers will share their thoughts about a variety of topics:
+  <ol>
+  <li><strong>12:00–12:10PM:</strong> Retrospective of making a diverse game</li>
+  <li><strong>12:14–12:24PM:</strong> Being a cool person in games</li>
+  <li><strong>12:28–12:38PM:</strong> Launching a VR game</li>
+  <li><strong>12:42–12:52PM:</strong> Collaboration using Unity</li>
+  <li><strong>12:56–1:16PM:</strong> Artist makes games, then leaves</li>
+  </ol>'
   speakers:
     - name: Kevin Chen
       company: Nuclear Fishin' Software
