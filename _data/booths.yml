@@ -12,3 +12,8 @@
   link: https://games.amazon.com
   description: For more information, please visit our site.  Come Play with us!
   image: amazongames.jpg
+
+- name: NYU Game Center
+  link: http://gamecenter.nyu.edu
+  description:  NYU Game Center is the department of game design in New York University’s Tisch School of the Arts. We offer a BFA and an MFA in Game Design, as well as a free "Future Game Designers" 12-week workshop intensive for NYC high school students.
+  image: nyu-game-center.jpg
