@@ -40,3 +40,8 @@
 - name: 'Ilya Zarembsky'
   level: 'Emerald'
   blurb: 'Thanks, Ilya, for your wonderful donation!'
+
+- name: 'MidBoss'
+  level: 'Emerald'
+  logo: 'midboss.png'
+  link: http://midboss.com
