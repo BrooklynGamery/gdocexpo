@@ -67,6 +67,11 @@
   time: 2:00PM
   description: This panel will feature six game developers who will share ways to get into and thrive within the game development industry as marginalized people. Topics to be covered will include how diversity can affect the game development process as well as ways to create games while navigating the industry and preserving your mental health.
   speakers:
+    - name: Cierra McDonald
+      company: Xbox
+      photo: cierra-mcdonald.jpg
+      bio: Cierra is a Senior Program Manager for Team Xbox. As the owner for Xbox Live Achievements systems on every device since the Xbox 360, she loves working on gaming platforms to help game designers and developers bring their ideas to life and to customers. She has presented at GDC and organizes Xbox's annual Blacks in Gaming GDC event. Cierra is passionate about encouraging others to embrace gaming as both a hobby and a career. She is also on a mission to increase her Gamerscore by 25,000 in 2017!
+      featured: true
     - name: Keith Jordan
       company: Independent
       photo: keith-jordan.jpg
@@ -76,11 +81,6 @@
       company: Pillow Fight Games
       photo: jo-fu.jpg
       bio: Jo founded a small company to make visual novels for nice people. She uses Twitter for cat pics, indie game screenshots, and threaded rants about being a woman in professional spaces. She ships Pharmercy, and is basic in other ways too.
-      featured: true
-    - name: Cierra McDonald
-      company: Xbox
-      photo: cierra-mcdonald.jpg
-      bio: Cierra is a Senior Program Manager for Team Xbox. As the owner for Xbox Live Achievements systems on every device since the Xbox 360, she loves working on gaming platforms to help game designers and developers bring their ideas to life and to customers. She has presented at GDC and organizes Xbox's annual Blacks in Gaming GDC event. Cierra is passionate about encouraging others to embrace gaming as both a hobby and a career. She is also on a mission to increase her Gamerscore by 25,000 in 2017!
       featured: true
     - name: Mitu Khandaker
       company: Spirit AI + NYU Game Center
