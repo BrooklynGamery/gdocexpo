@@ -45,3 +45,8 @@
   level: 'Emerald'
   logo: 'midboss.png'
   link: http://midboss.com
+
+- name: 'StickerGiant'
+  level: 'Emerald'
+  logo: 'stickergiant.png'
+  link: http://stickergiant.com
