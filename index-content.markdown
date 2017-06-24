@@ -4,9 +4,8 @@
 
 The 2017 Game Devs of Color Expo takes place on June 24, 2017 in New York City. In this day-long event at the historic Schomburg Center, we will hold panels, talks, and an arcade. Hear discussions about the game development process, representation in games, and experiences within the games industry as people from different backgrounds, then try out incredible games made by people of color.
 
-<div class="text-align-center">
-  <a href="/tickets" class="btn">Get tickets</a>
-</div>
+## Watch live
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CzCI2mCQoWM?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ----
 
