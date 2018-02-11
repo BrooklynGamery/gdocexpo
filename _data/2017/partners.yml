@@ -1,0 +1,14 @@
+- name: 'Silicon Harlem'
+  logo: 'siliconharlem.png'
+  link: http://siliconharlem.net
+  blurb: Silicon Harlem is advancing technology’s role in the transformation and sustainability of Harlem as a technology and innovation hub.
+
+- name: 'Skillshare'
+  logo: 'skillshare.png'
+  link: http://skillshare.com
+  blurb: Skillshare is an online learning community for creators with over 15k classes in design, photo, and more.
+
+- name: 'IGDA Foundation'
+  logo: 'igda.png'
+  link: http://igdafoundation.org/
+  blurb: The IGDA Foundation assists the International Game Developers Association (IGDA) in its mission to enhance and enrich the professional lives of its members.
