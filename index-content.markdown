@@ -1,11 +1,13 @@
 # Play, learn, and celebrate diversity in games.
 
-The 2017 Game Devs of Color Expo took place on June 24, 2017 in New York City. In this day-long event at the historic Schomburg Center, we held panels, talks, and an arcade. Attendees heard discussions about the game development process, representation in games, and experiences within the games industry as people from different backgrounds, then tried out incredible games made by people of color.
+We are pleased to announce the 2018 Game Devs of Color Expo! 2017’s event exceeded all expectations, and we’re going to keep that momentum going into the new year. On July 14th, the Game Devs of Color Expo returns to the historic Schomburg center for another day of great games, talks, and community. 
 
-## Watch the talks and panels
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dYa6iu2m7vo?list=PLzl9aMM-oBWQmWFXBNVw-D3yPogd_poyK&amp;showinfo=1" frameborder="0" allowfullscreen></iframe>
+An event like this can’t happen without the community. If you’ve got something to say, a game to show, or if you’d like to help us run this vital event, please fill out one of these forms. 
 
-<a href="https://drive.google.com/open?id=0B_3R82cXHe5BMnljMlRMb2xRbzg" class="btn">Read the event summary (PDF)</a>
+
+* Call for Volunteers <Link to Google Form>
+* Call for Games <Link to Google Form>
+* Call for Speakers/Panelists <Link to Google Form>
 
 ----
 
@@ -13,7 +15,7 @@ The 2017 Game Devs of Color Expo took place on June 24, 2017 in New York City. I
 
 ![](/assets/images/photos/2016/05.jpg)
 
-The 2017 Game Devs of Color Expo is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. For example, the venue is wheelchair accessibile, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
+The 2018 Game Devs of Color Expo is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. For example, the venue is wheelchair accessibile, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
 
 We want this to be a safe space to express yourself. Please let us know if there’s anything we can do to make you feel comfortable attending this event.
 
@@ -21,8 +23,34 @@ We want this to be a safe space to express yourself. Please let us know if there
 
 ----
 
-## Watch last year's recap
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1j5MAV1ge1c?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+## GDOC 2017
+The 2017 Game Devs of Color Expo took place on June 24, 2017 in New York City. In this day-long event at the historic Schomburg Center, we held panels, talks, and an arcade. Attendees heard discussions about the game development process, representation in games, and experiences within the games industry as people from different backgrounds, then tried out incredible games made by people of color. 
+
+Some quick facts about GDOC 2017:
+* 472 Attendees
+* 31 Games Shown <link to an archive page of 2017’s arcade selections>
+* 25 Speakers and Panelists <link to an archive page of 2017’s schedule>
+
+We’ve received some incredible feedback from attendees and press, and we’re working on an even better 2018 event.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/gdocexpo?src=hash&amp;ref_src=twsrc%5Etfw">#gdocexpo</a> Is the first expo I&#39;ve ever seen have the accessibility of on screen text for speakers. Fantastic thought <a href="https://t.co/hoNgBBfUpP">pic.twitter.com/hoNgBBfUpP</a></p>&mdash; Maximum Crash (@Maximum_Crash) <a href="https://twitter.com/Maximum_Crash/status/878636725274333185?ref_src=twsrc%5Etfw">June 24, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">❤️ So happy to see a black woman who makes indie tabletop games! So rare! It&#39;s all about finding your niche! <a href="https://twitter.com/Official_BGG?ref_src=twsrc%5Etfw">@Official_BGG</a> <a href="https://twitter.com/hashtag/gdocexpo?src=hash&amp;ref_src=twsrc%5Etfw">#gdocexpo</a> <a href="https://t.co/FRJC0RYkUZ">pic.twitter.com/FRJC0RYkUZ</a></p>&mdash; Shiba (@shibascream) <a href="https://twitter.com/shibascream/status/878679437356695552?ref_src=twsrc%5Etfw">June 24, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br/>
+
+Our recordings of last year’s talks and panels are all available online, including closed captions for greater accessibility.
+<br/>
+<br/>
+
+
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYa6iu2m7vo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+<a href="https://drive.google.com/open?id=0B_3R82cXHe5BMnljMlRMb2xRbzg" class="btn">Read the event summary (PDF)</a>
 
 ----
 
