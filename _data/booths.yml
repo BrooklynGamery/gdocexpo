@@ -2,18 +2,3 @@
   link: http://avalanchestudios.com/
   description: Avalanche Studios is an independent AAA developer dedicated to creating huge open worlds, full of explosive, emergent gameplay.
   image: avalanche-studios.png
-
-- name: IGDA NYC
-  link: http://igda.nyc
-  description: The NYC chapter of the International Game Developers Association (IGDA NYC) supports and celebrates local game creators through events, resources, professional development opportunities, and community outreach.
-  image: igdanyc.png
-
-- name: Amazon Game Studios
-  link: https://games.amazon.com
-  description: For more information, please visit our site.  Come Play with us!
-  image: amazongames.jpg
-
-- name: NYU Game Center
-  link: http://gamecenter.nyu.edu
-  description:  NYU Game Center is the department of game design in New York University’s Tisch School of the Arts. We offer a BFA and an MFA in Game Design, as well as a free "Future Game Designers" 12-week workshop intensive for NYC high school students.
-  image: nyu-game-center.jpg

@@ -4,47 +4,11 @@
   link: http://xbox.com
   blurb: 'Experience a new generation of games and entertainment with Xbox. The best games and entertainment on all of your devices.'
 
-- name: 'GitHub'
-  level: 'Silver'
-  logo: 'github.png'
-  link: http://github.com
-  blurb: 'GitHub is how people build software.'
-
-- name: 'GE Digital'
-  level: 'Silver'
-  logo: 'ge.png'
-  link: http://ge.com/digital
-  blurb: 'Harnessing digital technology to change the way you do business.'
-
 - name: 'Mozilla'
   level: 'Silver'
   logo: 'mozilla.png'
   link: http://mozilla.org
   blurb: 'Our mission is to ensure the Internet is open and accessible to all.'
-
-- name: 'MailChimp'
-  level: 'Emerald'
-  logo: 'mailchimp.png'
-  link: http://mailchimp.com
-
-- name: 'NYU Tandon School of Engineering'
-  level: 'Emerald'
-  logo: 'nyu-tandon.png'
-  link: http://engineering.nyu.edu
-
-- name: 'Games for Change'
-  level: 'Emerald'
-  logo: 'games-for-change.png'
-  link: http://www.gamesforchange.org
-
-- name: 'Ilya Zarembsky'
-  level: 'Emerald'
-  blurb: 'Thanks, Ilya, for your wonderful donation!'
-
-- name: 'MidBoss'
-  level: 'Emerald'
-  logo: 'midboss.png'
-  link: http://midboss.com
 
 - name: 'StickerGiant'
   level: 'Emerald'
