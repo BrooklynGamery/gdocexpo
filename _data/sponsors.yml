@@ -1,16 +1,16 @@
-- name: 'Xbox'
+- name: 'Example Pearl Sponsor'
   level: 'Pearl'
-  logo: 'xbox.png'
-  link: http://xbox.com
-  blurb: 'Experience a new generation of games and entertainment with Xbox. The best games and entertainment on all of your devices.'
+  logo: 'logo-square.png'
+  link: http://examplesponsor.com
+  blurb: 'Example sponsor blurb.'
 
-- name: 'Mozilla'
+- name: 'Example Silver Sponsor'
   level: 'Silver'
-  logo: 'mozilla.png'
-  link: http://mozilla.org
-  blurb: 'Our mission is to ensure the Internet is open and accessible to all.'
+  logo: 'logo-square.png'
+  link: http://examplesponsor.com
+  blurb: 'Example sponsor blurb.'
 
-- name: 'StickerGiant'
+- name: 'Example Emeral Sponsor'
   level: 'Emerald'
-  logo: 'stickergiant.png'
-  link: http://stickergiant.com
+  logo: 'logo-square.png'
+  link: http://examplesponsor.com
