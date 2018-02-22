@@ -23,10 +23,10 @@ We want this to be a safe space to express yourself. Please let us know if there
 
 ----
 
-## GDOC 2017
-The 2017 Game Devs of Color Expo took place on June 24, 2017 in New York City. In this day-long event at the historic Schomburg Center, we held panels, talks, and an arcade. Attendees heard discussions about the game development process, representation in games, and experiences within the games industry as people from different backgrounds, then tried out incredible games made by people of color. 
+## GDoCE 2017
+The 2017 Game Devs of Color Expo took place on June 24, 2017 in New York City. In this day-long event at the historic Schomburg Center, we held panels and talks, with an expo hall filled with unique games made by creators of color. Talks ranged from calls to action for creating games, discussions about the culture around games, the game development process, and experiences within the games industry as people from different backgrounds. 
 
-Some quick facts about GDOC 2017:
+Some quick facts about GDoCE 2017:
 * 472 Attendees
 * 31 Games Shown <link to an archive page of 2017’s arcade selections>
 * 25 Speakers and Panelists <link to an archive page of 2017’s schedule>
