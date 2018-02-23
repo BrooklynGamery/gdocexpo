@@ -1,12 +1,57 @@
-- title: Doors open
-  time: 11:00AM
+# - title: Doors open
+#   time: 11:00AM
 
-- title: Opening message
-  time: 11:30AM
-  description: The Game Devs of Color Expo Team welcomes you to the event!
-  speakers:
-    - name: Speaker Name
-      company: Speaker Company
-      photo: logo-square.png
-      bio: Speaker bio
-      featured: true
+# - title: Opening message
+#   time: 11:30AM
+#   description: The Game Devs of Color Expo Team welcomes you to the event!
+#   speakers:
+#     - name: Speaker Name
+#       company: Speaker Company
+#       photo: logo-square.png
+#       bio: Speaker bio
+#       featured: true
+
+# - title: Arcade opens
+#   time: 12:00PM
+#   description: 'Check out the <a href="/games">regularly-updated games section</a> to see what we offer!'
+
+# - title: Microtalks
+#   time: 12:00PM
+#   description: 'In this hour-long session, five game developers will share their thoughts about a variety of topics:
+#   <ul>
+#   <li><strong>12:00–12:10PM:</strong> Indie Game Postmortem: Four Horsemen</li>
+#   <li><strong>12:14–12:24PM:</strong> REDD TO RADD: From Wannabe to Sorta-Am</li>
+#   <li><strong>12:28–12:38PM:</strong> VR in Games And Beyond</li>
+#   <li><strong>12:42–12:52PM:</strong> Unity, Collaboration, Inclusion: A Primer</li>
+#   <li><strong>12:56–1:16PM:</strong> Life Beyond Games</li>
+#   </ul>'
+#   speakers:
+#     - name: Kevin Chen
+#       company: Nuclear Fishin' Software
+#       photo: kevin-chen.png
+#       bio: Nuclear Fishin' Software is a tiny independent games studio in Brooklyn, New York, founded by NYC game industry veteran Kevin Chen in 2015. They are best known for the SLG/visual novel Four Horsemen.
+#       featured: true
+#     - name: Ethan Redd
+#       company: Multimedia Designer/Developer
+#       photo: ethan-redd.jpg
+#       bio: Ethan Redd is an independent multimedia designer, artist, developer, and consultant currently based in Buffalo, NY and New York City. Forged in the fires of the aesthetics of the mid-1990s, Redd boasts a signature style sporting bold colors, sharp silhouette, and lively, life-affirming charm. A self-taught jack-of-all trades and one man juggernaut, Redd believes in the power of art and media to inspire people to reach higher and push further in their own lives.
+#       featured: true
+#     - name: Hessvacio Hassan
+#       company: IAC Apps
+#       photo: hessvacio-hassan.jpg
+#       bio: "Games are an amazing window into another world and with the progression of VR designing new worlds can now be a reality. Hessvacio has been working in VR for the past year creating prototypes and releasing Don't Look Away VR for the Gear VR. With his knowledge from the release of such a successful project, Hessvacio would like to share his insight on making a VR project in Unity and finishing it. Hessvacio is a software engineer at IAC and builds out games as the tech lead in EOS Interactive."
+#       featured: true
+#     - name: Stephanie Andrews
+#       company: Brilliant.org
+#       photo: stephanie-andrews.jpg
+#       bio: Stephanie is a software engineer at Brilliant.org, an enthusiastic game jammer, and one half of Jello Moat Studio.  She started programming and making games at 24, with no prior experience doing either.  At 26, she is now very experienced at being super confused but sticking with it and figuring out what it all means. She hopes to make the game development process more accessible to people like her.
+#       featured: true
+#     - name: Auriea Harvey
+#       company: Tale of Tales
+#       photo: auriea-harvey.jpg
+#       bio: Auriea Harvey has been a prominent figure in independent gaming as part of Tale of Tales, her studio founded along with Michael Samyn. They released titles such as The Endless Forest, The Path, The Graveyard and Luxuria Superbia; And introduced new concepts to the scene with the Realtime Art Manifesto and notgames. After over a decade of making games Auriea radically stopped after their last release ’SUNSET’ in 2015. But the tale goes on, she feels there is abundant life after videogames.
+#       featured: true
+
+# - title: Lunch time - go experience Harlem!
+#   time: 1:15PM
+#   descrip
