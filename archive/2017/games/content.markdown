@@ -24,3 +24,5 @@ Our 2017 arcade hosted a variety of games from around the world. Below are the {
   {% endfor %}
 </ul>
 <br>
+
+# {{page.title}}
