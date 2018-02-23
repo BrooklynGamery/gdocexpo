@@ -27,7 +27,7 @@ Our arcade will host a variety of games from around the world. Below are {{site.
 
 # Vendor tables
 
-Although we are no longer accepting games to showcase, we do have tables available for companies that are interested hiring game developers of color and/or sharing their products with our unique demographic. Contact us at gdocexpo@gmail.com to learn more about pricing.
+We will have tables available for companies that are interested hiring game developers of color and/or sharing their products with our unique demographic. Contact us at gdocexpo@gmail.com to learn more about pricing.
 
 Want to do more? [Sponsor the event.](/sponsor)
 
