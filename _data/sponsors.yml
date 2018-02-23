@@ -1,16 +1,16 @@
-- name: 'Example Pearl Sponsor'
-  level: 'Pearl'
-  logo: 'logo-square.png'
-  link: http://examplesponsor.com
-  blurb: 'Example sponsor blurb.'
+# - name: 'Example Pearl Sponsor'
+#   level: 'Pearl'
+#   logo: 'logo-square.png'
+#   link: http://examplesponsor.com
+#   blurb: 'Example sponsor blurb.'
 
-- name: 'Example Silver Sponsor'
-  level: 'Silver'
-  logo: 'logo-square.png'
-  link: http://examplesponsor.com
-  blurb: 'Example sponsor blurb.'
+# - name: 'Example Silver Sponsor'
+#   level: 'Silver'
+#   logo: 'logo-square.png'
+#   link: http://examplesponsor.com
+#   blurb: 'Example sponsor blurb.'
 
-- name: 'Example Emeral Sponsor'
-  level: 'Emerald'
-  logo: 'logo-square.png'
-  link: http://examplesponsor.com
+# - name: 'Example Emeral Sponsor'
+#   level: 'Emerald'
+#   logo: 'logo-square.png'
+#   link: http://examplesponsor.com
