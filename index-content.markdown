@@ -28,8 +28,8 @@ The 2017 Game Devs of Color Expo took place on June 24, 2017 in New York City. I
 
 Some quick facts about GDoCE 2017:
 * 472 Attendees
-* 31 Games Shown <link to an archive page of 2017’s arcade selections>
-* 25 Speakers and Panelists <link to an archive page of 2017’s schedule>
+* 31 Games Shown [2017 Games Archive](/archive/2017/games)
+* 25 Speakers and Panelists [2017 Schedule Archive](/archive/2017/schedule)
 
 We’ve received some incredible feedback from attendees and press, and we’re working on an even better 2018 event.
 

@@ -1,0 +1,12 @@
+---
+layout: default
+title: 2017 Games Archive
+excerpt: "This is an archive of all of the 2017 expo's arcade games from around the world."
+thumbnail: logo-square-games.png
+---
+<section class="content-container">
+  <article class="entry">
+    {% capture my-include %}{% include_relative content.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+  </article>
+</section>

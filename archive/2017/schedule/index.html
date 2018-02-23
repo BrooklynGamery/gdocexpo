@@ -1,0 +1,12 @@
+---
+layout: default
+title: 2017 Expo Schedule Archive
+excerpt: "The 2017 event was held from 11AM to 6PM, on June 24th."
+thumbnail: logo-square-schedule.png
+---
+<section class="content-container">
+  <article class="entry">
+    {% capture my-include %}{% include_relative content.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+  </article>
+</section>
