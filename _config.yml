@@ -7,14 +7,14 @@
 
 # Site settings
 title: 2018 Game Devs of Color Expo (July 14, 2018 in NYC)
-email: hello@brooklyngamery.com
+email: gdocexpo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Play games by awesome creators as well as learn and share techniques for creating your own interactive media!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gamedevsofcolorexpo.com" # the base hostname & protocol for your site
-common_username:  brooklyngamery
+common_username:  GDoCE
 company_info: >
-  Brooklyn Gamery is a team of three multitalented game-makers who who enjoy creating high-quality games. We also believe in using games as a means of social change as well as encouraging cultural change in the games industry.
+  The GDoCE Organization Team is a team individuals of various backgrounds from across the country. We also believe in using games as a means of social change as well as encouraging cultural change in the games industry.
 
 # Build settings
 markdown: kramdown
