@@ -2,9 +2,9 @@
 
 ![](/assets/images/photos/2016/13.jpg)
 
-Want to help the 2018 Game Devs of Color Expo? We are open to financial and in-kind partnerships! Interested parties can contact us at hello@brooklyngamery.com, [send us direct donations via PayPal](http://paypal.me/BrooklynGamery) (our preferred method), or use the Donation field [on the ticketing page](/tickets).
+Want to help the 2018 Game Devs of Color Expo? We are open to financial and in-kind partnerships! Interested parties can contact us at gdocexpo@gmail.com, [send us direct donations via PayPal](http://paypal.me/BrooklynGamery) (our preferred method), or use the Donation field [on the ticketing page](/tickets).
 
-<a href="http://tinyurl.com/sponsorgdocexpo2017" class="btn">View prospectus (PDF)</a>
+<a href="https://tinyurl.com/sponsorgdocexpo2018" class="btn">View prospectus</a>
 
 ----
 
@@ -22,7 +22,7 @@ The gaming population mirrors the world population, but the game development ind
 
 #### Our audience needs investment
 
-More people of color make games every year thanks to tools like Game Maker, Unreal, and Unity. However, some are unable to attend larger gaming conferences due to the prohibitive cost of ticket prices and travel. 200 people attended last year's event, and we expect 700 to attend this year (in addition to more via livestreaming).
+More people of color make games every year thanks to tools like Game Maker, Unreal, and Unity. However, some are unable to attend larger gaming conferences due to the prohibitive cost of ticket prices and travel. Over 400 people attended last year's event, and we expect 700 to attend this year (in addition to more via livestreaming).
 
 #### Our audience is creating change
 
@@ -30,7 +30,7 @@ People of color are now more powerful and necessary in games than ever. The indu
 
 ## Sponsorship levels
 
-Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](http://tinyurl.com/sponsorgdocexpo2017)
+Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](https://tinyurl.com/sponsorgdocexpo2018)
 
 <ul class="col-container">
   <li class="col-3-2 sponsorship-list-item sponsorship-list-item-featured">
@@ -62,18 +62,17 @@ Below are our basic offerings. Interested in additional opportunities such as sp
 
 <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a>
 
-Or email hello@brooklyngamery.com – we'd love to hear from you!
+Or email gdocexpo@gmail.com – we'd love to hear from you!
 
 ----
 
 ## Where the money goes
 
-Brooklyn Gamery wants to make this event the best it can be. Since we're a 3-person studio, we can't do that alone. You can help us to make the 2018 Game Devs of Color Expo a quality event worthy of attendees' time.
+The GDoCE Organization Team wants to make this event the best it can be. Since we're a small team we can't do that alone. You can help us to make the 2018 Game Devs of Color Expo a quality event worthy of attendees' time.
 
 Sponsorship and donations help us pay for the following:
 
 - Tickets for attendees in need
-- The larger venue in Manhattan
 - Meals and snacks for attendees
 - Equipment for showing games
 - Compensation for volunteers
@@ -83,4 +82,4 @@ Sponsorship and donations help us pay for the following:
 - Photography, videography, and livestreaming
 - Assistance for people with different (and awesome!) abilities
 
-We also accept in-kind donations and rentals. Please contact us at hello@brooklyngamery.com if you are interested in an in-kind partnership.
+We also accept in-kind donations and rentals. Please contact us at gdocexpo@gmail.com if you are interested in an in-kind partnership.
