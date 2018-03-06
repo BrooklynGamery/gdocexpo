@@ -27,6 +27,11 @@ Our arcade will host a variety of games from around the world. Below are {{site.
     {% endfor %}
   </ul>
   <br>
+
+{% else %}
+
+### Stay tuned for updates soon!
+
 {% endif %}
 
 # Vendor tables
@@ -56,7 +61,9 @@ Want to do more? [Sponsor the event.](/sponsor)
     </li>
     {% endfor %}
   </ul>
+ 
 {% endif %}
+
 ----
 
 More information is coming soon. Subscribe to hear when we add new games, speakers, and more! We send emails less than once per week.
