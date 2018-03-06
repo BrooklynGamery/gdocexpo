@@ -11,7 +11,7 @@ Our arcade will host a variety of games from around the world. Below are {{site.
     <li class="list-data col-container">
       <div class="col-3">
         <a href="{{game.link}}" target="_blank">
-          <img src="/assets/images/games/2017/{{game.image}}" class="list-data-photo">
+          <img src="/assets/images/games/2018/{{game.image}}" class="list-data-photo">
         </a>
       </div>
       <div class="col-3-2">
@@ -42,7 +42,7 @@ Want to do more? [Sponsor the event.](/sponsor)
     <li class="list-data col-container">
       <div class="col-3">
         <a href="{{booth.link}}" target="_blank">
-          <img src="/assets/images/sponsors/2017/{{booth.image}}" class="list-data-photo">
+          <img src="/assets/images/sponsors/2018/{{booth.image}}" class="list-data-photo">
         </a>
       </div>
       <div class="col-3-2">

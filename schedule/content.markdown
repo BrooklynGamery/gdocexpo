@@ -18,7 +18,7 @@
       {% for speaker in talk.speakers %}
         <li class="{% if speaker.featured == false %}col-3{% else %}col-container{% endif %}">
           <div class="{% if speaker.featured == true %}col-3{% endif %}">
-            <img src="/assets/images/speakers/2017/{{speaker.photo}}" class="list-data-photo">
+            <img src="/assets/images/speakers/2018/{{speaker.photo}}" class="list-data-photo">
           </div>
           <div class="{% if speaker.featured == true %} col-3-2{% endif %}">
             <h4>{{ speaker.name }}</h4>
