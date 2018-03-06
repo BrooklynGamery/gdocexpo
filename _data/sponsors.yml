@@ -14,3 +14,9 @@
 #   level: 'Emerald'
 #   logo: 'logo-square.png'
 #   link: http://examplesponsor.com
+
+- name: 'Kickstarter'
+  level: 'Pearl'
+  logo: 'kickstarter-logo-color.png'
+  link: https://www.kickstarter.com
+  blurb: 'Kickstarter helps game developers, artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality.'
