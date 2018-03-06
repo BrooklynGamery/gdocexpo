@@ -5,9 +5,9 @@ We are pleased to announce the 2018 Game Devs of Color Expo! 2017’s event exce
 An event like this can’t happen without the community. If you’ve got something to say, a game to show, or if you’d like to help us run this vital event, please fill out one of these forms. 
 
 
-* [Call for Volunteers ](https://goo.gl/forms/tKKnHHnwU5jOqz7A2)
-* [Call for Games](https://goo.gl/forms/bXugknRWMfNhnMyj2)
-* [Call for Speakers/Panelists](https://goo.gl/forms/TpPKIbplPRHlC9ar1)
+* [Call for Volunteers ](http://bit.ly/gdoc18volunteer)
+* [Call for Games](http://bit.ly/gdoc18game)
+* [Call for Speakers/Panelists](http://bit.ly/gdoc18speaker)
 
 ----
 
