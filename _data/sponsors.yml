@@ -20,3 +20,50 @@
   logo: 'kickstarter-logo-color.png'
   link: https://www.kickstarter.com
   blurb: 'Kickstarter helps game developers, artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality.'
+
+  
+- name: 'Xbox'
+  level: 'Platinum'
+  logo: 'xbox.png'
+  link: https://www.xbox.com/en-US/
+  blurb: 
+
+- name: 'MailChimp'
+  level: 'Pearl'
+  logo: 'mailchimp.png'
+  link: https://mailchimp.com/
+  blurb: 
+
+- name: 'Amazon'
+  level: 'Pearl'
+  logo: 'amazongames.jpg'
+  link: https://www.amazon.com/
+  blurb: 
+
+- name: 'G4C'
+  level: 'Emerald'
+  logo: 'games-for-change.png'
+  link: http://www.gamesforchange.org
+  blurb: 
+
+- name: 'Midboss/GaymerX'
+  level: 'Emerald'
+  logo: 'midboss.png'
+  link: https://midboss.com
+  blurb: 
+
+- name: 'Avalanche'
+  level: 'Emerald'
+  logo: 'avalanche-studios.png'
+  link: http://avalanchestudios.com
+  blurb: 
+
+- name: 'NYU'
+  level: 'Emerald'
+  logo: 'nyu-tandon.png'
+  link: http://engineering.nyu.edu/
+  blurb: 
+
+- name: 'Ilya Zarembsky'
+  level: 'Emerald'
+  logo: 'gdoc_sponsor_ilya.png' 
