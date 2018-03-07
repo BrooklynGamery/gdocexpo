@@ -1,6 +1,6 @@
 # Sponsor the event
 
-![](/assets/images/photos/2016/13.jpg)
+![](/assets/images/photos/2017/IMG_6999.jpg)
 
 Want to help the 2018 Game Devs of Color Expo? We are open to financial and in-kind partnerships! Interested parties can contact us at gdocexpo@gmail.com, [send us direct donations via PayPal](http://paypal.me/BrooklynGamery) (our preferred method), or use the Donation field [on the ticketing page](/tickets).
 

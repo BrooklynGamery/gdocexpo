@@ -13,7 +13,7 @@ An event like this can’t happen without the community. If you’ve got somethi
 
 ## All are welcome
 
-![](/assets/images/photos/2016/05.jpg)
+![](/assets/images/photos/2017/IMG_7270.jpg)
 
 The 2018 Game Devs of Color Expo is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. For example, the venue is wheelchair accessibile, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
 
