@@ -37,7 +37,7 @@
 - name: 'Amazon'
   level: 'Pearl'
   logo: 'amazongames.jpg'
-  link: https://www.amazon.com/
+  link: https://games.amazon.com/
   blurb: 
 
 - name: 'G4C'
@@ -58,10 +58,10 @@
   link: http://avalanchestudios.com
   blurb: 
 
-- name: 'NYU'
+- name: 'NYU Game Center'
   level: 'Emerald'
-  logo: 'nyu-tandon.png'
-  link: http://engineering.nyu.edu/
+  logo: 'NYU_GameCenter_Logo_Formatted.jpg'
+  link: https://gamecenter.nyu.edu
   blurb: 
 
 - name: 'Ilya Zarembsky'
