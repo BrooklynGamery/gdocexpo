@@ -36,9 +36,9 @@
 
 - name: 'Amazon'
   level: 'Pearl'
-  logo: 'amazongames.jpg'
+  logo: 'AmzGameTech_R1_LogoMod_Alpha.png'
   link: https://games.amazon.com/
-  blurb: 
+  blurb: 'Amazon Game Tech provides a wide range of products and services that flex to the needs of all game developers. Through their sponsorship of Game Developers of Color, Amazon Game Tech is committed to shaping a future that includes a diverse and international developer community.'
 
 - name: 'G4C'
   level: 'Emerald'
