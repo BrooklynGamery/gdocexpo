@@ -15,7 +15,7 @@
 #   logo: 'logo-square.png'
 #   link: http://examplesponsor.com
 
-- name: 'Xbox'
+ - name: 'Xbox'
   level: 'Platinum'
   logo: 'xbox.png'
   link: https://www.xbox.com/en-US/
@@ -27,41 +27,41 @@
   link: https://games.amazon.com/
   blurb: 'Amazon Game Tech provides a wide range of products and services that flex to the needs of all game developers. Through their sponsorship of Game Developers of Color, Amazon Game Tech is committed to shaping a future that includes a diverse and international developer community.'
 
--  name: 'Kickstarter'
+ - name: 'Kickstarter'
   level: 'Pearl'
   logo: 'kickstarter-logo-color.png'
   link: https://www.kickstarter.com
   blurb: 'Kickstarter helps game developers, artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality.'
 
-- name: 'MailChimp'
+ - name: 'MailChimp'
   level: 'Pearl'
   logo: 'mailchimp.png'
   link: https://mailchimp.com/
   blurb: 'MailChimp is the world’s largest marketing automation platform. We help millions of customers—from small e-commerce shops to big online retailers—find audiences, engage customers, and build brands.'
 
-- name: 'Avalanche Studios'
+ - name: 'Avalanche Studios'
   level: 'Emerald'
   logo: 'avalanche-studios.png'
   link: http://avalanchestudios.com
   blurb: 
 
-- name: 'G4C'
+ - name: 'G4C'
   level: 'Emerald'
   logo: 'games-for-change.png'
   link: http://www.gamesforchange.org
   blurb: 
 
-- name: 'Ilya Zarembsky'
+ - name: 'Ilya Zarembsky'
   level: 'Emerald'
   blurb: 'Thanks, Ilya, for your wonderful donation!'
   
-- name: 'Midboss/GaymerX'
+ - name: 'Midboss/GaymerX'
   level: 'Emerald'
   logo: 'midboss.png'
   link: https://midboss.com
   blurb: 
 
-- name: 'NYU Game Center'
+ - name: 'NYU Game Center'
   level: 'Emerald'
   logo: 'NYU_GameCenter_Logo_Formatted.jpg'
   link: https://gamecenter.nyu.edu
