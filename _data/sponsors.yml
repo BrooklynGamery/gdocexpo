@@ -54,13 +54,7 @@
  - name: 'Ilya Zarembsky'
    level: 'Emerald'
    blurb: 'Thanks, Ilya, for your wonderful donation!'
- 
- - name: 'Midboss/GaymerX'
-   level: 'Emerald'
-   logo: 'midboss.png'
-   link: https://midboss.com
-   blurb: 
- 
+
  - name: 'NYU Game Center'
    level: 'Emerald'
    logo: 'NYU_GameCenter_Logo_Formatted.jpg'
