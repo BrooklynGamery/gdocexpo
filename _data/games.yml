@@ -3,6 +3,12 @@
    link: http://maximumcrash.com/beckerderby
    description: Becker Derby is an intergalatic one touch homerun derby to go featuring Becker College's one and only Hank the Hawk. Players are tasked with enduring gravity bent pitches, crowds of SEEGull agents, and fighting against a dark dimensional force only known as the Void. 
    image: BeckerDerby.png
+   
+ - title: Boyfriend Dungeon
+   team: Kitfox Games
+   link: http://www.boyfrienddungeon.com/
+   description: Romance your swords! Capture the hearts of weapons to level them up in this “shack-and-slash” dungeon crawling adventure.
+   image: BoyfriendDungeon.jpg
 
  - title: Catacomb Kids
    team: FourbitFriday
@@ -10,7 +16,13 @@
    description: A very roguelike platformer based on emergent interactions and quick thinking.
    image: CatacombKids.png
 
- - title: Discord Duels
+ - title: Cede
+   team: BareHand
+   link: https://barehand.co
+   description: Cede is an Action RPG modernized by a unique mechanic called "Combat Farming". Enter Wastelands, burst monsters into seeds becoming vegetation, nurture sprouts into combative vegetation, and farm these defender or supporter plants to lead your team into victory against swarms of enemies.
+   image: Cede.png
+
+   - title: Discord Duels
    team: Jamal Woods
    link: https://discordbots.org/bot/292789588399751168
    description: Discord Duels is a text based Massively Multiplayer Online Role-playing Game that you can play straight from the comfort of your own discord server. 
