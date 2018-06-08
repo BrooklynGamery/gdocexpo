@@ -58,7 +58,7 @@
    description: Saturday Morning Games is a battle card game based off of popular Saturday Morning Cartoons! Fight over random weapons, with popular characters from multiple shows and conquer your opponent by winning all of their bowls of cereal!
    image: SaturdayMorningGames.png
 
- - title: Skate &#38; Date
+ - title: Skate <span class="text-symbol">&</span> Date
    team: Gensuta
    link: https://gensuta.itch.io/skate-and-date-
    description: Skate and Date is a roller derby rhythm ga(y)me where your rhythm game stats can affect the story.
@@ -71,13 +71,13 @@
    image: SolaceState.jpg
    
  - title: The Last Stop
-   team: Eota &amp; z04
+   team: Eota <span class="text-symbol">&</span> z04
    link: http://thelaststop.tumblr.com
-   description: The Last Stop is a Chinese-Filipino inspired Point &amp; Click 2D Adventure Game  about a college student, Christopher “Kit” Chen. After a quick nap on the train, Kit finds himself stranded on Orez Island with no money to get back home. Luckily, the island is populated with some unique residents…
+   description: The Last Stop is a Chinese-Filipino inspired Point <span class="text-symbol">&</span> Click 2D Adventure Game  about a college student, Christopher “Kit” Chen. After a quick nap on the train, Kit finds himself stranded on Orez Island with no money to get back home. Luckily, the island is populated with some unique residents…
    image: TheLastStop.png
 
  - title: The Ultimate Clap Back 
-   team: Mot &amp; Dot LLC
+   team: Mot <span class="text-symbol">&</span> Dot LLC
    link: http://www.theultimateclapback.com
    description: The Ultimate Clap Back is a fast-paced game of wordplay.  With just the right amount of sarcasm, snark, and shade, this game is bound to shock and keep you laughing for hours!
    image: TheUltimateClapBack.png
