@@ -1,17 +1,89 @@
-# - title: Example Game
-#   team: Example Team Name
-#   link: http://ExampleSite.com
-#   description: Example game description.
-#   image: logo-square-games.png
+# - title: Becker Derby
+#   team: Maximum Crash
+#   link: http://maximumcrash.com/beckerderby
+#   description: Becker Derby is an intergalatic one touch homerun derby to go featuring Becker College's one and only Hank the Hawk. Players are tasked with enduring gravity bent pitches, crowds of SEEGull agents, and fighting against a dark dimensional force only known as the Void. 
+#   image: BeckerDerby.png
 
-# - title: Example Game
-#   team: Example Team Name
-#   link: http://ExampleSite.com
-#   description: Example game description.
-#   image: logo-square-games.png
+# - title: Catacomb Kids
+#   team: FourbitFriday
+#   link: https://www.ckgame.net
+#   description: A very roguelike platformer based on emergent interactions and quick thinking.
+#   image: CatacombKids.png
 
-# - title: Example Game
-#   team: Example Team Name
-#   link: http://ExampleSite.com
-#   description: Example game description.
-#   image: logo-square-games.png
+# - title: Discord Duels
+#   team: Jamal Woods
+#   link: https://discordbots.org/bot/292789588399751168
+#   description: Discord Duels is a text based Massively Multiplayer Online Role-playing Game that you can play straight from the comfort of your own discord server. 
+#   image: DiscordDuels.png
+
+# - title: Doodle Studio 95
+#   team: Fernando Ramallo
+#   link: https://fernandoramallo.itch.io/doodle-studio-95
+#   description: DOODLE STUDIO 95 is a FUN drawing and animation tool for Unity. Doodle an animation without leaving the Editor and turn your drawings into sprites, UI elements, particles or textures, with a single click.
+#   image: DoodleStudio95.gif
+
+# - title: Final Spike
+#   team: Sean Heron
+#   link: http://seanheron.weebly.com
+#   description: Final Spike is a two-player local multiplayer game based on a classic staple of the Summer Olympic Games--beach volleyball.
+#   image: FinalSpike.png
+
+# - title: Here's How It Happened
+#   team: Team Murder Squad
+#   link: https://www.ceschiii.com/heres-how-it-happened
+#   description: Here's How It Happened is a social, storytelling card game in which a group of friends have been accused of murder! 
+#   image: HeresHowItHappened.png
+
+# - title: Museum Multiverse VR
+#   team: Made in Brooklyn Games
+#   link: http://hessvacio.com/pages/museummultiverse.html
+#   description: Museum Multiverse is a virtual reality puzzle platformer. This 3rd person experience chronicles the adventures of a child that has mysteriously awoken in an abandoned museum.
+#   image: MuseumMultiverseVR.png
+
+# - title: Neon Krieger Yamato
+#   team: LIONPLEX
+#   link: http://lionplex.net
+#   description: Relive the arcade era! Select from 8 unique characters and brawl your way to victory in Neon Krieger Yamato - solo or with a friend! 
+#   image: NeonKriegerYamato.gif
+
+# - title: Objectif
+#   team: A.M. Darke
+#   link: https://objectifgame.com/
+#   description: Objectif is a social game that facilitates dialogue about the relationship between race, gender, and standards of beauty.
+#   image: Objectif.jpg
+
+# - title: Saturday Morning Games: The Card Game
+#   team: Saturday Morning Games
+#   link: https://www.saturdaymorninggames.com/
+#   description: Saturday Morning Games is a battle card game based off of popular Saturday Morning Cartoons!
+#   image: SaturdayMorningGames.png
+
+# - title: Skate & Date
+#   team: Gensuta
+#   link: https://gensuta.itch.io/skate-and-date-
+#   description: Skate and Date is a roller derby rhythm ga(y)me where your rhythm game stats can affect the story.
+#   image: SkateDate.jpg
+
+# - title: The Last Stop
+#   team: Eota & z04
+#   link: thelaststop.tumblr.com
+#   description: The Last Stop is a Chinese-Filipino inspired Point & Click 2D Adventure Game  about a college student, Christopher “Kit” Chen. 
+#   image: TheLastStop.png
+
+# - title: The Ultimate Clap Back 
+#   team: Mot & Dot LLC
+#   link: www.theultimateclapback.com
+#   description: The Ultimate Clap Back is a fast-paced game of wordplay.  With just the right amount of sarcasm, snark, and shade, this game is bound to shock and keep you laughing for hours!
+#   image: TheUltimateClapBack.png
+
+# - title: Xob
+#   team: MrTedders
+#   link: https://mrtedders.itch.io/xob
+#   description: Xob is a puzzle game about being a box. It rocks and sometimes it talks. Occasionally to an ox but mostly to a fox.
+#   image: Xob.png
+
+# - title: Zarvot
+#   team: snowhydra games
+#   link: http://snowhydra.com
+#   description: A charming arcade shooter about cubes going banana picking
+#   image: Zarvot.png
