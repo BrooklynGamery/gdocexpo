@@ -2,7 +2,7 @@
 
 {% if site.data.games.size > 0 %}
 
-Our arcade will host a variety of games from around the world. Below are {{site.data.games.size}} of the confirmed games you will be able to play when you attend the expo.
+Our arcade will host a variety of games from around the world. Below are {{site.data.games.size}} of the confirmed games you will be able to play when you attend the expo. More games are still being announced!
 
 
   <ul class="list-unstyled">
@@ -33,7 +33,7 @@ Our arcade will host a variety of games from around the world. Below are {{site.
 ### Stay tuned for updates soon!
 
 {% endif %}
-
+<!--
 # Vendor tables
 
 We will have tables available for companies that are interested hiring game developers of color and/or sharing their products with our unique demographic. Contact us at gdocexpo@gmail.com to learn more about pricing.
@@ -63,7 +63,7 @@ Want to do more? [Sponsor the event.](/sponsor)
   </ul>
  
 {% endif %}
-
+-->
 ----
 
 More information is coming soon. Subscribe to hear when we add new games, speakers, and more! We send emails less than once per week.
