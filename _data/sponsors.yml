@@ -60,4 +60,21 @@
    logo: 'NYU_GameCenter_Logo_Formatted.jpg'
    link: https://gamecenter.nyu.edu
    blurb: 
- 
+
+ - name: 'Soylent'
+   level: 'Emerald'
+   logo: 'Soylent.png'
+   link: https://www.soylent.com
+   blurb: 
+
+ - name: 'Unity'
+   level: 'Emerald'
+   logo: 'unity-master-black.png'
+   link: https://www.unity.com
+   blurb: 
+
+ - name: 'Sonic Toad'
+   level: 'Ruby'
+   logo: 'sonicToadDigitalGraphics_mediaconsulting.jpg'
+   link: https://sonictoad.com
+   blurb:  

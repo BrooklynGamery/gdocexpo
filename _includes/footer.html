@@ -101,7 +101,36 @@
       </li>
       {% endfor %}
     </ul>
+
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Ruby' %}
+    <h3>Ruby</h3>
+    <ul class="col-container sponsors-container">
+      {% for sponsor in sponsors %}
+      <li class="col-3">
+        {% if sponsor.logo %}
+        <p>
+          <a href="{{ sponsor.link }}" target="_blank">
+            <img src="/assets/images/sponsors/2018/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
+          </a>
+        </p>
+        <p>
+        Learn more about {{sponsor.name}} <a href="{{ sponsor.link }}" target="_blank">on their website</a>.
+        </p>
+        {% endif %}
+        {% unless sponsor.logo %}
+        <h4>
+          {{ sponsor.name }}
+        </h4>
+        <p>
+          {{ sponsor.blurb }}
+        </p>
+        {% endunless %}
+      </li>
+      {% endfor %}
+    </ul>
     {% endif %}
+
+    
 
     {% if site.data.partners %}
     <hr>
