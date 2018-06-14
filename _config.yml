@@ -18,3 +18,6 @@ company_info: >
 
 # Build settings
 markdown: kramdown
+
+# paricipate temporatily added to prevent users from finding the page via google, etc.
+exclude: [participate]
