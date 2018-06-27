@@ -25,12 +25,10 @@
   </ul>'
   speakers:
     - name: Yussef Cole
-      company: yussefcole.com
       photo: YussefCole.jpg
       bio: Yussef Cole is a writer and motion designer hailing from the Bronx, NY. Much of his time is spent animating for the screen but he spends the rest of it thinking and writing about games.
       featured: true
     - name: Shana Bryant
-      company: theMushroomQueendom.com // terribleallies.com
       photo: shana_prof_pic_crop_2017_square_2880x2880.jpg
       bio: "Producer and 15-year veteran in the industry, Shana T Bryant has had a hand in crafting some
 of your favorite videogames (and might’ve even canceled a few).
@@ -56,11 +54,11 @@ For a deeper look, join her at theMushroomQueendom.com // terribleallies.com"
   speakers:
     - name: Shawn Pierre
       company: OriGaminc
-      photo: logo-square.png
+      photo: ShawnPierre.jpg
       bio: Shawn Pierre doesn’t do much. Currently, he lives in Philly, and helps run the local meetup, currently known as Philly Dev Night. He also tries to make games.
       featured: true
     - name: Pattie Umali
-      photo: logo-square.png
+      photo: PattieUmali.jpg
       bio: Pattie Umali is an international education practitioner and game designer devoted to teaching youth about contemporary cultures and peoples. Pattie is the founder of InterIntellectus NFP, a 501(c)3 not-for-profit organization that aims to prepare individuals for global citizenship and the international workplace through technology, gaming, and media. She holds an MA in Intercultural and International Communication from American University and a BA in Sociology and International Relations from Brown University. Pattie recognizes tech and gaming as an effective way to spark early interest in global education and world cultures in the K-12 age group. Her international experiences have taught her the importance of interaction with people from other cultures. Pattie is leading a development team in building InterIntellectus' first video game, a fantasy adventure role-playing game set in World War II Philippines entitled The Girl Who Sees (www.girlwhosees.com). The game's social media presence focuses on the positive representation of Filipinos and the Philippines in media and pop culture, as well as encouraging the young Filipino diaspora to rediscover their indigenous Filipino roots.
       featured: true
     - name: MaryMartha M. Dieng
@@ -85,7 +83,7 @@ For a deeper look, join her at theMushroomQueendom.com // terribleallies.com"
 In this panel we’ll hear from professionals working in game development, marketing, community organizing and more who will discuss how they’ve succeeded in this new space.'
   speakers:
     - name: Sheila Moore
-      photo: logo-square.png
+      photo: SheilaMoore.png
       bio: "Sheila “DaPurpleSharpie” Moore is a spirited selfstarter in the fighting game community. She’s built her name around high-quality streams, tournament circuits, and a single-minded determination to improve her scene. "
       featured: true
     - name: Tyriq Plummer
@@ -93,10 +91,10 @@ In this panel we’ll hear from professionals working in game development, marke
       bio: Tyriq Plummer is a Bay Area game dev currently making the roguelike platformer “Catacomb Kids”, which was successfully Kickstarted, Greenlit, and is currently wading to completion on Steam Early Access.
       featured: true
     - name: Charlene Maximum
-      photo: logo-square.png
+      photo: charleneMaximum.jpg
       featured: true
     - name: Mona Ayed
-      photo: logo-square.png
+      photo: MonaAiyed.JPG
       company: Policy Enforcement Specialist, YouTube
       bio: Hello! I’m Mona, a Policy Specialist at YouTube! I help grow and protect communities on our platform!
       featured: true
@@ -132,7 +130,7 @@ In this panel we’ll hear from professionals working in game development, marke
       bio: Dee is an events and community organizer in games with organizations such as Different Games Collective and Seattle Indies, and focuses on diversity and inclusivity. As their day job, Dee works as a web developer. Dee likes JavaScript, Waluigi, and four-leaf clovers.
       featured: true
     - name: Shawn Allen - Moderator
-      photo: logo-square.png
+      photo: shawnAllen.jpg
       bio: Shawn makes (often political) art in the way of games (both digital and non), photography, poetry, and dystopian fiction. He also writes media criticism, with a focus on race/class and representation, as well as game design critique.
       featured: true
 
@@ -195,5 +193,5 @@ In this panel we will hear from several developers who will talk about what this
 Hurray! We made it! Please join us at Babycastles (14th St. + 7th Ave.) to celebrate the 3rd annual Game Devs of Color Expo. 
 ★ Doors: 7pm // DJ: TBD
 ★ Tickets: $5 at door // FREE with your GDoC Expo badge!
-<a href="https://www.facebook.com/events/2105223959753743/">Register here!</a>
+<a href="https://www.facebook.com/events/2105223959753743/">Register here!s</a>
 '
