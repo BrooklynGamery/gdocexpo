@@ -1,57 +1,199 @@
-# - title: Doors open
-#   time: 11:00AM
+- title: Doors open
+  time: 11:00AM
 
-# - title: Opening message
-#   time: 11:30AM
-#   description: The Game Devs of Color Expo Team welcomes you to the event!
-#   speakers:
-#     - name: Speaker Name
-#       company: Speaker Company
-#       photo: logo-square.png
-#       bio: Speaker bio
-#       featured: true
+- title: Opening message
+  time: 11:20AM - 11:50AM
+  description: The Game Devs of Color Expo Team welcomes you to the event!
+  speakers:
+    - name: GDoCE Organization Team
+      featured: false
+    - name: Microsoft
+      company: Microsoft.com
+      featured: false
 
-# - title: Arcade opens
-#   time: 12:00PM
-#   description: 'Check out the <a href="/games">regularly-updated games section</a> to see what we offer!'
+- title: Arcade opens
+  time: 12:00PM
+  description: 'Check out the <a href="/games">regularly-updated games section</a> to see what we offer!'
 
-# - title: Microtalks
-#   time: 12:00PM
-#   description: 'In this hour-long session, five game developers will share their thoughts about a variety of topics:
-#   <ul>
-#   <li><strong>12:00–12:10PM:</strong> Indie Game Postmortem: Four Horsemen</li>
-#   <li><strong>12:14–12:24PM:</strong> REDD TO RADD: From Wannabe to Sorta-Am</li>
-#   <li><strong>12:28–12:38PM:</strong> VR in Games And Beyond</li>
-#   <li><strong>12:42–12:52PM:</strong> Unity, Collaboration, Inclusion: A Primer</li>
-#   <li><strong>12:56–1:16PM:</strong> Life Beyond Games</li>
-#   </ul>'
-#   speakers:
-#     - name: Kevin Chen
-#       company: Nuclear Fishin' Software
-#       photo: kevin-chen.png
-#       bio: Nuclear Fishin' Software is a tiny independent games studio in Brooklyn, New York, founded by NYC game industry veteran Kevin Chen in 2015. They are best known for the SLG/visual novel Four Horsemen.
-#       featured: true
-#     - name: Ethan Redd
-#       company: Multimedia Designer/Developer
-#       photo: ethan-redd.jpg
-#       bio: Ethan Redd is an independent multimedia designer, artist, developer, and consultant currently based in Buffalo, NY and New York City. Forged in the fires of the aesthetics of the mid-1990s, Redd boasts a signature style sporting bold colors, sharp silhouette, and lively, life-affirming charm. A self-taught jack-of-all trades and one man juggernaut, Redd believes in the power of art and media to inspire people to reach higher and push further in their own lives.
-#       featured: true
-#     - name: Hessvacio Hassan
-#       company: IAC Apps
-#       photo: hessvacio-hassan.jpg
-#       bio: "Games are an amazing window into another world and with the progression of VR designing new worlds can now be a reality. Hessvacio has been working in VR for the past year creating prototypes and releasing Don't Look Away VR for the Gear VR. With his knowledge from the release of such a successful project, Hessvacio would like to share his insight on making a VR project in Unity and finishing it. Hessvacio is a software engineer at IAC and builds out games as the tech lead in EOS Interactive."
-#       featured: true
-#     - name: Stephanie Andrews
-#       company: Brilliant.org
-#       photo: stephanie-andrews.jpg
-#       bio: Stephanie is a software engineer at Brilliant.org, an enthusiastic game jammer, and one half of Jello Moat Studio.  She started programming and making games at 24, with no prior experience doing either.  At 26, she is now very experienced at being super confused but sticking with it and figuring out what it all means. She hopes to make the game development process more accessible to people like her.
-#       featured: true
-#     - name: Auriea Harvey
-#       company: Tale of Tales
-#       photo: auriea-harvey.jpg
-#       bio: Auriea Harvey has been a prominent figure in independent gaming as part of Tale of Tales, her studio founded along with Michael Samyn. They released titles such as The Endless Forest, The Path, The Graveyard and Luxuria Superbia; And introduced new concepts to the scene with the Realtime Art Manifesto and notgames. After over a decade of making games Auriea radically stopped after their last release ’SUNSET’ in 2015. But the tale goes on, she feels there is abundant life after videogames.
-#       featured: true
+- title: Microtalks
+  time: 12:00PM - 12:35PM
+  description: 'In this session, three game developers will share their thoughts about a variety of topics:
+  <ul>
+  <li><strong></strong> The Past Present & Future of Representation in Games</li>
+  <li><strong></strong> Failure and Feedback -- Pitching your game as a POC</li>
+  <li><strong></strong> Finding Strength in the Struggle: On Creating a Social Impact Game</li>
+  </ul>'
+  speakers:
+    - name: Yussef Cole
+      company: yussefcole.com
+      photo: YussefCole.jpg
+      bio: Yussef Cole is a writer and motion designer hailing from the Bronx, NY. Much of his time is spent animating for the screen but he spends the rest of it thinking and writing about games.
+      featured: true
+    - name: Shana Bryant
+      company: theMushroomQueendom.com // terribleallies.com
+      photo: shana_prof_pic_crop_2017_square_2880x2880.jpg
+      bio: "Producer and 15-year veteran in the industry, Shana T Bryant has had a hand in crafting some
+of your favorite videogames (and might’ve even canceled a few).
+Shana speaks on everything from building teams and optimized game production to designing
+interactions for emerging tech and career management for underrepresented professionals.
+Shana is a published author, avid comic artist, and inclusive design geek, expounding ideas with
+a spoonful of charm and a touch of snark.
+For a deeper look, join her at theMushroomQueendom.com // terribleallies.com"
+      featured: true
+    - name: Tanya Kan
+      company: Vivid Foundry Corp.
+      photo: TanyaAsChloe_Sept_d.jpg
+      bio: Tanya Kan is the founder and creative of Vivid Foundry Corp. This indie studio is developing the 3D visual novel Solace State, about youth defending their rights to a better future in a deeply unequal, tyrannical society. Her company creates original, artistic interactive stories that humanize social concerns and empower civic experiences. With over five years in interactive digital media work spanning Canada and Hong Kong, Tanya Kan wears multiple hats in design, 3D and 2D art, narrative writing, and indie game business administration.
+      featured: true
 
-# - title: Lunch time - go experience Harlem!
-#   time: 1:15PM
-#   descrip
+- title: Lunch time - go experience Harlem!
+  time: 12:40PM - 1:40PM
+  description: We encourage you to spend an hour outside and explore the neighborhood. There are delicious restaurants right by the Schomburg Center!
+
+- title: The Many Faces of Game Development
+  time: 1:45PM - 2:30PM
+  description: 'Artist. Coder. Designer. Dungeon Master. Teacher. These are all names for people who facilitate game creation, whether it’s through running a game, writing the code that runs the game, making the cards and boards where the game is played, or even giving students the freedom and the knowhow to make their own. This panel is here to dispel the myth of the one right way to make games, and our panelists will discuss the various and vastly different ways in which they do so.'
+  speakers:
+    - name: Shawn Pierre
+      company: OriGaminc
+      photo: logo-square.png
+      bio: Shawn Pierre doesn’t do much. Currently, he lives in Philly, and helps run the local meetup, currently known as Philly Dev Night. He also tries to make games.
+      featured: true
+    - name: Pattie Umali
+      photo: logo-square.png
+      bio: Pattie Umali is an international education practitioner and game designer devoted to teaching youth about contemporary cultures and peoples. Pattie is the founder of InterIntellectus NFP, a 501(c)3 not-for-profit organization that aims to prepare individuals for global citizenship and the international workplace through technology, gaming, and media. She holds an MA in Intercultural and International Communication from American University and a BA in Sociology and International Relations from Brown University. Pattie recognizes tech and gaming as an effective way to spark early interest in global education and world cultures in the K-12 age group. Her international experiences have taught her the importance of interaction with people from other cultures. Pattie is leading a development team in building InterIntellectus' first video game, a fantasy adventure role-playing game set in World War II Philippines entitled The Girl Who Sees (www.girlwhosees.com). The game's social media presence focuses on the positive representation of Filipinos and the Philippines in media and pop culture, as well as encouraging the young Filipino diaspora to rediscover their indigenous Filipino roots.
+      featured: true
+    - name: MaryMartha M. Dieng
+      company: www.theultimateclapback.com
+      photo: MaryMarthaFordDiengHeadshot.png
+      bio: Losing her father at an early age and shouldered with the responsibility of caring for a disabled parent, MaryMartha is no stranger to difficult times.  She turned her pain into play by developing the card game, The Ultimate Clap Back. She’s a supporter of mental health awareness, and speaks candidly about her diagnosis of anxiety and depression. She is a two-time award winning game developer, has survived brain surgery, and encourages others to be brave, fearless, and active participants in their quest for greatness.
+      featured: true
+    - name: Yvonne Thevenot
+      photo: Yvonne.jpg
+      bio: Yvonne began her career as a Systems Programmer and volunteer who taught programming logic to physically challenged students.  She later immersed herself full time into the STEM education of underrepresented students, and, with the nonprofit Yvonne founded in 2015, STEM Kids NYC, seeks to utilize emancipatory pedagogy and culturally relevant instruction to teach kids how to code, engineer, and love Science.  Yvonne is a Zankel Fellow at Columbia Teachers College, where she is developing Culturally Relevant STEM Curriculum and is a hockey mom.
+      featured: true
+    - name: Tara Walker - Moderator
+      photo: taraw_hiRes.jpg
+      bio: "Tara is a Technical Evangelist for Amazon Web Services, dedicating her time to help developers build apps, games, and technical solutions in the AWS cloud. Tara has most recently been working on evangelizing AWS cloud computing architectures and development for various technologies like Mobile, Gaming, IoT, AI, Serverless just to name a few.
+      
+      Tara’s background is as a software engineer & developer who has worked on wide-ranging development platforms and systems while leveraging a myriad of development languages across her various technical and engineering roles. Over her 20-year career, she has been employed by various Fortune 500 companies."
+      featured: true
+
+- title: The 128 Bit Personality
+  time: 2:35PM - 3:20PM
+  description: 'In the current games space using the internet to your benefit is absolutely crucial. From twitter to to twitch, there is a large swath of opportunities out there to get noticed. At the same time many people have the same questions: How do you stand out in a sea of streamers? How do you get your videos to go viral? How can streaming benefit your game development? Should I start a twitter war with Arbys to get myself recognized?
+In this panel we’ll hear from professionals working in game development, marketing, community organizing and more who will discuss how they’ve succeeded in this new space.'
+  speakers:
+    - name: Sheila Moore
+      photo: logo-square.png
+      bio: "Sheila “DaPurpleSharpie” Moore is a spirited selfstarter in the fighting game community. She’s built her name around high-quality streams, tournament circuits, and a single-minded determination to improve her scene. "
+      featured: true
+    - name: Tyriq Plummer
+      photo: tyriq.png
+      bio: Tyriq Plummer is a Bay Area game dev currently making the roguelike platformer “Catacomb Kids”, which was successfully Kickstarted, Greenlit, and is currently wading to completion on Steam Early Access.
+      featured: true
+    - name: Charlene Maximum
+      photo: logo-square.png
+      featured: true
+    - name: Mona Ayed
+      photo: logo-square.png
+      company: Policy Enforcement Specialist, YouTube
+      bio: Hello! I’m Mona, a Policy Specialist at YouTube! I help grow and protect communities on our platform!
+      featured: true
+    - name: TJ Hughes
+      photo: teejmoic.png
+      company: Terrifying Jellyfish
+      bio: "An independent game developer and 3D artist out of St. Louis, Missouri, Tj Hughes taught himself game development in his early teens, and has since started his own company entitled “Terrifying Jellyfish”. Under this name, he intends on escaping the mundane and mediocre forever through the exorbitant use of color, playfulness, and aesthetics."
+      featured: true
+    - name: Jordan Minor
+      photo: jmheadshot.png
+      company: Senior Editor, Geek.com
+      bio: After spending four years surrounded by serious-minded journalism students, Jordan Minor enjoys using his degree to mostly write about video games, tech, entertainment, and being a big fan of the dumb internet. He’s the Senior Editor for Geek.com, so it must be working.
+      featured: true
+
+- title: "Fight the Power: Activism & Politics in Game Design"
+  time: 3:25PM - 4:10PM
+  description: 'What does it mean to make games with an activist bent? Is it possible for politics to be expressed in a game, from the written stories to the designed systems, in a way that conveys that meaning to players? These are questions that many have asked, and our panelists will explain how they work to express their activism and politics in their work, as well as the work that inspires them.'
+  speakers:
+    - name: A.M. Darke
+      photo: amdarkePink.jpg
+      bio: A.M. Darke is a conceptual artist, game designer, and activist designing games for social impact. She created the award-winning card game Objectif, which explores the intersection of race, gender, and standards of beauty.
+      featured: true
+    - name: Tim Flusk
+      photo: tim_flusk_profile.jpg
+      bio: Tim Flusk is a subaltern fighter. The term subaltern refers to the populations which - along many axes - are excluded from the hegemonic power of the environment. Tim is attempting to study and produce games that fight for the representation and upliftment of all the marginalised
+      featured: true
+    - name: Keerthik Omanakuttan
+      photo: KeerthikOmanakuttan.jpg
+      bio: Keerthik fell in love with video games playing Space Invaders on his dad’s lap at age 4. He grew up in Muscat, Oman, a podunk Middle Eastern town devoid of anything resembling a game industry. Since leaving for college at 18, he’s come to see how different places rich with gaming culture view it differently by way of Boston, San Francisco, London, Seoul and Japan. He runs a game-inspired fitness company while building a puzzle-based anti-grav racer and a board game on the side.
+      featured: true
+    - name: Dee Del Rosario
+      photo: Dee.jpg
+      bio: Dee is an events and community organizer in games with organizations such as Different Games Collective and Seattle Indies, and focuses on diversity and inclusivity. As their day job, Dee works as a web developer. Dee likes JavaScript, Waluigi, and four-leaf clovers.
+      featured: true
+    - name: Shawn Allen - Moderator
+      photo: logo-square.png
+      bio: Shawn makes (often political) art in the way of games (both digital and non), photography, poetry, and dystopian fiction. He also writes media criticism, with a focus on race/class and representation, as well as game design critique.
+      featured: true
+
+- title: For the Culture
+  time: 4:15PM - 5:00PM
+  description: 'The discussion around games as culture is still fairly young when compared to other mediums. Often designers claim their games basically mean nothing, despite being heavy handed with metaphors while appropriating from numerous cultures all at once. Conversely, what if we took a step back and instead focused on working with our own culture, our beliefs, and our identities to give our work a distinct flavor that only we can? 
+In this panel we will hear from several developers who will talk about what this means to them, and how this approach can be used to make games better. 
+'
+  speakers:
+    - name: Sandra Honigman - Moderator
+      photo: SandraHonigman.png
+      bio: Sandra is a Peruvian-American game developer currently working at Dots. There she is a game designer on Two Dots. She graduated from New York University with a BFA in Game Design and Dramatic Writing in 2016. She’s a sometimes cosplayer and a Sanrio enthusiast.
+      featured: true
+    - name: Emperatriz Ung
+      photo: Emperatriz Ung.png
+      bio: Emperatriz is a Chinese-Colombian writer and game designer from Southern California’s Inland Empire. In 2015 she was a fellow at the Lannan Center for Poetics & Social Justice where she won a 2016 University & College Poetry Prize from the Academy of American Poets. She is pursuing her MFA in game design at NYU.
+      featured: true
+    - name: Elaine Gomez
+      photo: ElaineGomez_headshot.jpg
+      bio: Elaine Gomez is a game designer at E-Line Media, independent Unity developer and games educator. Elaine earned an MFA in Interactive Media and Games from University of Southern California in 2016. Her interests include the use of games and interactive media to preserve indigenous cultures, experimental game design, and methods for youth education in game development and computer programming. Elaine teaches game design at Rutgers University and at E-Line Media’s youth game studio initiative, Make Room.
+      featured: true
+    - name: Anthony Torres
+      photo: AnthonyTorres.jpg
+      bio: Anthony Torres is a freelance game designer, Independent Unreal Engine developer, and Visual Concept Artist. Anthony earned a Bachelor’s Degree of Science in Game Art and Design from The Art Institute of Pittsburgh in 2016. His skills include the use of combining realistic and fantasy elements together in games, using unique programs to create vast environments, character building, as well as using different cultures, beliefs and ideas to create story settings for games.
+      featured: true
+
+- title: Microtalks 
+  time: 5:05PM - 5:35PM
+  description: "In this session, three game developers will share their thoughts about a variety of topics:
+  <ul>
+  <li><strong></strong> Whaaat! PoC Don't Get Depression.c</li>
+  <li><strong></strong> Roleplaying Romancec</li>
+  <li><strong></strong>Developing a community, miles away from home</li>
+  </ul>"
+  speakers:
+    - name: Bahiyya Khan
+      photo: BahiyyaKahn.png
+      bio: Watsup I’m Bahiyya and I’m a Muslim game developer from Johannesburg, South Africa. I’m currently doing my Masters in Experimental Narrative. I love pop-punk and indie music and reading stuff that blows my mind in a good way. I write poems and I make video games that I think are important and ought to exist outside of just my head. I do this so that people like me feel better understood and because I want to tell marginalised people’s stories. I love bread and trees.
+      featured: true
+    - name: Sharang Biswas
+      photo: SharangHappyPhoto.jpg
+      bio: "Sharang is an award-winning, internationally-published game designer, writer, and artist. He has exhibited games at the Institute of Contemporary Art in Philadelphia, PioneerWorks in Brooklyn, and The Denny Gallery in Manhattan. His RPG Feast, won the IndieCade Dark Horse Award, and his boardgame Mad Science Foundation, was published in 2016 by Crypotzoic Entertainment. He regularly speaks at universities, conferences and museums, and writes for various magazines. Sharang holds a Masters from ITP at NYU-Tisch, and a Bachelors of Engineering from Dartmouth. He is the experience designer at The Medici Group, a strategy consulting firm focusing on diversity and innovation."
+      featured: true
+    - name: "Juan Alejandro Rodriguez Morais"
+      photo: JuanAlejandro.jpg
+      bio: "Juan moved to New Zealand to pursue his dream: Becoming a game developer. Throughout his journey, he has been able to work on numerous projects, acquire valuable life experiences and surround himself with great peers, all of whom have taught him great things. With support from friends and acquaintances, he co-founded the Panama Game Jam, a collective that hosts events with the game development community of Panama: Game Jams, workshops, meetups, talks. He is also the site organiser for the Global Game Jam in Panama."
+      featured: true
+
+- title: Closing message
+  time: 5:35PM - 5:55PM 
+  description: "<br/><br/>"
+
+- title: Doors close
+  time: 6:00PM 
+  description: "<br/><br/>"
+
+- title: GDoC Expo Afterparty AT Babycastles
+  time: 7:00PM - 11:00PM
+  description: '｡･:*:･ﾟ★,｡･:*:･ﾟ☆ the official afterparty for GDoC Expo ☆
+Hurray! We made it! Please join us at Babycastles (14th St. + 7th Ave.) to celebrate the 3rd annual Game Devs of Color Expo. 
+★ Doors: 7pm // DJ: TBD
+★ Tickets: $5 at door // FREE with your GDoC Expo badge!
+<a href="https://www.facebook.com/events/2105223959753743/">Register here!</a>
+'
