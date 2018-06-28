@@ -1,19 +1,10 @@
 - title: Doors open
   time: 11:00AM
+  description: 'Our games expo hosts a variety of games from around the world. Check out all 3 floors of the expo! See the <a href="/games">games section</a> for full descriptions and links.'
 
 - title: Opening message
   time: 11:20AM - 11:50AM
   description: The Game Devs of Color Expo Team welcomes you to the event!
-  speakers:
-    - name: GDoCE Organization Team
-      featured: false
-    - name: Microsoft
-      company: Microsoft.com
-      featured: false
-
-- title: Arcade opens
-  time: 12:00PM
-  description: 'Check out the <a href="/games">regularly-updated games section</a> to see what we offer!'
 
 - title: Microtalks
   time: 12:00PM - 12:35PM
@@ -94,7 +85,7 @@ In this panel we’ll hear from professionals working in game development, marke
       photo: charleneMaximum.jpg
       bio: "natasha charlene. mulatto hipster queer. Olympia Tekken Queen. a6 boss bitch. prob stoned. #JOYLANCER+#CardWitch+ #DesperadoJourney artist&designer."
       featured: true
-    - name: Mona Ayed
+    - name: Mona Aiyed
       photo: MonaAiyed.JPG
       company: Policy Enforcement Specialist, YouTube
       bio: Hello! I’m Mona, a Policy Specialist at YouTube! I help grow and protect communities on our platform!
@@ -104,13 +95,13 @@ In this panel we’ll hear from professionals working in game development, marke
       company: Terrifying Jellyfish
       bio: "An independent game developer and 3D artist out of St. Louis, Missouri, Tj Hughes taught himself game development in his early teens, and has since started his own company entitled “Terrifying Jellyfish”. Under this name, he intends on escaping the mundane and mediocre forever through the exorbitant use of color, playfulness, and aesthetics."
       featured: true
-    - name: Jordan Minor
+    - name: Jordan Minor - Moderator
       photo: jmheadshot.png
       company: Senior Editor, Geek.com
       bio: After spending four years surrounded by serious-minded journalism students, Jordan Minor enjoys using his degree to mostly write about video games, tech, entertainment, and being a big fan of the dumb internet. He’s the Senior Editor for Geek.com, so it must be working.
       featured: true
 
-- title: "Fight the Power: Activism & Politics in Game Design"
+- title: "Fight the Power: Activism + Politics in Game Design"
   time: 3:25PM - 4:10PM
   description: 'What does it mean to make games with an activist bent? Is it possible for politics to be expressed in a game, from the written stories to the designed systems, in a way that conveys that meaning to players? These are questions that many have asked, and our panelists will explain how they work to express their activism and politics in their work, as well as the work that inspires them.'
   speakers:
@@ -162,8 +153,8 @@ In this panel we will hear from several developers who will talk about what this
   time: 5:05PM - 5:35PM
   description: "In this session, three game developers will share their thoughts about a variety of topics:
   <ul>
-  <li><strong></strong> Whaaat! PoC Don't Get Depression.c</li>
-  <li><strong></strong> Roleplaying Romancec</li>
+  <li><strong></strong> Whaaat! PoC Don't Get Depression.</li>
+  <li><strong></strong> Roleplaying Romance</li>
   <li><strong></strong>Developing a community, miles away from home</li>
   </ul>"
   speakers:
@@ -190,9 +181,6 @@ In this panel we will hear from several developers who will talk about what this
 
 - title: GDoC Expo Afterparty AT Babycastles
   time: 7:00PM - 11:00PM
-  description: '｡･:*:･ﾟ★,｡･:*:･ﾟ☆ the official afterparty for GDoC Expo ☆
-Hurray! We made it! Please join us at Babycastles (14th St. + 7th Ave.) to celebrate the 3rd annual Game Devs of Color Expo. 
-★ Doors: 7pm // DJ: TBD
-★ Tickets: $5 at door // FREE with your GDoC Expo badge!
-<a href="https://www.facebook.com/events/2105223959753743/">Register here!s</a>
+  description: 'The official afterparty for GDoC Expo! Please join us at Babycastles (145 W 14th St., New York) to celebrate. Entry is FREE with your GDoC Expo badge (otherwise $5).
+<a href="https://www.facebook.com/events/2105223959753743/">More info here.</a>
 '
