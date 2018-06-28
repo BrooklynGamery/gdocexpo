@@ -3,11 +3,11 @@
   description: 'Our games expo hosts a variety of games from around the world. Check out all 3 floors of the expo! See the <a href="/games">games section</a> for full descriptions and links.'
 
 - title: Opening message
-  time: 11:20AM - 11:50AM
+  time: 11:20AM
   description: The Game Devs of Color Expo Team welcomes you to the event!
 
 - title: Microtalks
-  time: 12:00PM - 12:35PM
+  time: 12:00PM
   description: 'In this session, three game developers will share their thoughts about a variety of topics:
   <ul>
   <li><strong></strong> The Past Present & Future of Representation in Games</li>
@@ -36,11 +36,11 @@ For a deeper look, join her at theMushroomQueendom.com // terribleallies.com"
       featured: true
 
 - title: Lunch time - go experience Harlem!
-  time: 12:40PM - 1:40PM
+  time: 12:40PM
   description: We encourage you to spend an hour outside and explore the neighborhood. There are delicious restaurants right by the Schomburg Center!
 
 - title: The Many Faces of Game Development
-  time: 1:45PM - 2:30PM
+  time: 1:45PM
   description: 'Artist. Coder. Designer. Dungeon Master. Teacher. These are all names for people who facilitate game creation, whether it’s through running a game, writing the code that runs the game, making the cards and boards where the game is played, or even giving students the freedom and the knowhow to make their own. This panel is here to dispel the myth of the one right way to make games, and our panelists will discuss the various and vastly different ways in which they do so.'
   speakers:
     - name: Shawn Pierre
@@ -69,7 +69,7 @@ For a deeper look, join her at theMushroomQueendom.com // terribleallies.com"
       featured: true
 
 - title: The 128 Bit Personality
-  time: 2:35PM - 3:20PM
+  time: 2:35PM
   description: 'In the current games space using the internet to your benefit is absolutely crucial. From twitter to to twitch, there is a large swath of opportunities out there to get noticed. At the same time many people have the same questions: How do you stand out in a sea of streamers? How do you get your videos to go viral? How can streaming benefit your game development? Should I start a twitter war with Arbys to get myself recognized?
 In this panel we’ll hear from professionals working in game development, marketing, community organizing and more who will discuss how they’ve succeeded in this new space.'
   speakers:
@@ -102,7 +102,7 @@ In this panel we’ll hear from professionals working in game development, marke
       featured: true
 
 - title: "Fight the Power: Activism + Politics in Game Design"
-  time: 3:25PM - 4:10PM
+  time: 3:25PM
   description: 'What does it mean to make games with an activist bent? Is it possible for politics to be expressed in a game, from the written stories to the designed systems, in a way that conveys that meaning to players? These are questions that many have asked, and our panelists will explain how they work to express their activism and politics in their work, as well as the work that inspires them.'
   speakers:
     - name: A.M. Darke
@@ -127,7 +127,7 @@ In this panel we’ll hear from professionals working in game development, marke
       featured: true
 
 - title: For the Culture
-  time: 4:15PM - 5:00PM
+  time: 4:15PM
   description: 'The discussion around games as culture is still fairly young when compared to other mediums. Often designers claim their games basically mean nothing, despite being heavy handed with metaphors while appropriating from numerous cultures all at once. Conversely, what if we took a step back and instead focused on working with our own culture, our beliefs, and our identities to give our work a distinct flavor that only we can? 
 In this panel we will hear from several developers who will talk about what this means to them, and how this approach can be used to make games better. 
 '
@@ -150,7 +150,7 @@ In this panel we will hear from several developers who will talk about what this
       featured: true
 
 - title: Microtalks 
-  time: 5:05PM - 5:35PM
+  time: 5:05PM
   description: "In this session, three game developers will share their thoughts about a variety of topics:
   <ul>
   <li><strong></strong> Whaaat! PoC Don't Get Depression.</li>
@@ -172,7 +172,7 @@ In this panel we will hear from several developers who will talk about what this
       featured: true
 
 - title: Closing message
-  time: 5:35PM - 5:55PM 
+  time: 5:35PM
   description: "<br/><br/>"
 
 - title: Doors close
