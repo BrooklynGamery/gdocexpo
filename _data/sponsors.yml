@@ -45,6 +45,12 @@
    link: https://www.nintendo.com
    blurb: 'Bring Smiles to All!'
 
+- name: 'Nintendo'
+   level: 'Silver'
+   logo: 'TwoSigma.png'
+   link: http://www.twosigma.com
+   blurb: 'Two Sigma is a technology driven investment manager based in SoHo NY.'
+
  - name: 'Avalanche Studios'
    level: 'Emerald'
    logo: 'avalanche-studios.png'
