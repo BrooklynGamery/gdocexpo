@@ -52,6 +52,12 @@
    link: https://fernandoramallo.itch.io/doodle-studio-95
    description: DOODLE STUDIO 95 is a FUN drawing and animation tool for Unity. Doodle an animation without leaving the Editor and turn your drawings into sprites, UI elements, particles or textures, with a single click.
    image: DoodleStudio95.gif
+   
+ - title: EXPOSURE, a game of camouflage
+   team: The Sheep's Meow
+   link: https://www.thesheepsmeow.com/games/exposure
+   description: "You are a tiny creature in a dangerous world. Lead your defenseless children to safety. Adapt to new predators each level … until you evolve into a different species. Survive in an evolving environment by morphing between light & dark forms to camouflage from your predators. But be careful: you won’t be able to see yourself either. Lose the ability to see where you are, and learn to feel & know where you’re going."
+   image: EXPOSURE.gif
 
  - title: Final Spike
    team: Sean Heron
@@ -106,6 +112,12 @@
    link: http://www.solacestategame.com
    description: Solace State is a 3D visual novel set in near-future surveillance state, where hacking identities can mean the difference between unifying resistance or enacting reluctant acceptance of an unjust fate. As Chloe, an activist whose hacking affects psychological perception, the player reads story text that is embedded into the 3D environment, negotiate and engage with characters, and make choices that impact the game’s final outcome. From nebulous secrets to coming-of-age friendships and romances, there are no easy answers on the path to build hope and righting past wounds.
    image: SolaceState.jpg
+
+ - title: SwimSanity!
+   team: Decoy Games
+   link:  http://www.decoygames.com
+   description: SwimSanity is a 4 player underwater party shooter that allows you and to control a Mooba, an aquatic hero. Moobas can use a variety of different power ups and weapons, but most importantly when fully powered up they can “Unleash SwimSanity” - a powerful super move with devastating effects. 
+   image: Swimsanity.png  
    
  - title: The Last Stop
    team: ota <span class="text-symbol">&</span> z04
