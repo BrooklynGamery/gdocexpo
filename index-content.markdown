@@ -10,9 +10,7 @@ We are pleased to announce the 2018 Game Devs of Color Expo! 2017’s event exce
 
 ## Watch Live!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vLaBsMsWSdQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-The 2018 Game Devs of Color Expo is is happening now! If you aren't able to join us in person join the live stream and experience all the talks online.
+The 2018 Game Devs of Color Expo is is happening now! If you aren't able to join us in person join the live stream and experience all the <a href="https://www.youtube.com/watch?v=vLaBsMsWSdQ"> talks online</a>!
 
 ----
 
