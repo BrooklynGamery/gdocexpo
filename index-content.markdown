@@ -8,9 +8,9 @@ We are pleased to announce the 2018 Game Devs of Color Expo! 2017’s event exce
 * [Call for Volunteers ](http://bit.ly/gdoc18volunteer) -->
 ----
 
-## Watch Live!
+## Watch the talks!
 
-The 2018 Game Devs of Color Expo is is happening now! If you aren't able to join us in person join the live stream and experience all the <a href="https://www.youtube.com/watch?v=vLaBsMsWSdQ"> talks online</a>!
+Thank you for helping make the 2018 Game Devs of Color Expo a resounding success. If you weren't able to join in person you can experience all the <a href="https://www.youtube.com/watch?v=vLaBsMsWSdQ"> talks online</a>!
 
 ----
 
