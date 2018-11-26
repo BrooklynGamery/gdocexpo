@@ -1,4 +1,5 @@
 <!--  # Play, learn, and celebrate diversity in games. -->
+![](/assets/images/photos/2018/2018GDoCE.jpg)
 
 We are pleased to announce the 2018 Game Devs of Color Expo! 2017’s event exceeded all expectations, and we’re going to keep that momentum going into the new year. On July 14th, the Game Devs of Color Expo returns to the historic Schomburg center for another day of great games, talks, and community. 
 
