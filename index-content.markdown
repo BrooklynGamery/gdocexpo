@@ -21,7 +21,7 @@ Subscribe to hear from the Game Devs of Color Expo team as we share opportunitie
 
 Thank you for helping make the 2018 Game Devs of Color Expo a resounding success. If you weren't able to join in person you can experience all the <a href="https://www.youtube.com/watch?v=vLaBsMsWSdQ"> talks online</a>!
 
-Want to watch talkes from 2017? Check out the [Archive](/archive)
+Want to watch talks from 2017? Check out the [Archive](/archive)
 
 ----
 
