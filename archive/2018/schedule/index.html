@@ -1,0 +1,12 @@
+---
+layout: default
+title: Schedule
+excerpt: "The event will be held from 11AM to 6PM. Learn more about when certain talks and panels will occur."
+thumbnail: logo-square-schedule.png
+---
+<section class="content-container">
+  <article class="entry">
+    {% capture my-include %}{% include_relative content.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+  </article>
+</section>
