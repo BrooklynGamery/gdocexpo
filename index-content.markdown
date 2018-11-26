@@ -6,11 +6,22 @@ We are pleased to announce the 2018 Game Devs of Color Expo! 2017’s event exce
 
 
 * [Call for Volunteers ](http://bit.ly/gdoc18volunteer) -->
+
+----
+
+## Join our mailing list
+
+Subscribe to hear from the Game Devs of Color Expo team as we share opportunities, event updates, and more! Emails are infrequent.
+
+{% include mailchimp-form.html %}
+
 ----
 
 ## Watch the talks!
 
 Thank you for helping make the 2018 Game Devs of Color Expo a resounding success. If you weren't able to join in person you can experience all the <a href="https://www.youtube.com/watch?v=vLaBsMsWSdQ"> talks online</a>!
+
+Want to watch talkes from 2017? Check out the [Archive](/archive)
 
 ----
 
@@ -26,6 +37,7 @@ We want this to be a safe space to express yourself. Please let us know if there
 
 ----
 
+<!--
 ## GDoCE 2017
 The 2017 Game Devs of Color Expo took place on June 24, 2017 in New York City. In this day-long event at the historic Schomburg Center, we held panels and talks, with an expo hall filled with unique games made by creators of color. Talks ranged from calls to action for creating games, discussions about the culture around games, the game development process, and experiences within the games industry as people from different backgrounds. 
 
@@ -49,16 +61,8 @@ Our recordings of last year’s talks and panels are all available online, inclu
 <br/>
 
 
-
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYa6iu2m7vo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 <a href="https://drive.google.com/open?id=0B_3R82cXHe5BMnljMlRMb2xRbzg" class="btn">Read the event summary (PDF)</a>
-
-----
-
-## Be in the know
-
-Subscribe to hear from the Game Devs of Color Expo when we add new games, speakers, and more! We send emails less than once per week.
-
-{% include mailchimp-form.html %}
+-->
