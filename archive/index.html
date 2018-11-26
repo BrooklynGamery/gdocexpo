@@ -1,0 +1,12 @@
+---
+layout: default
+title: Past event schedule and games exhibited
+excerpt: "Check out the past event!"
+thumbnail: logo-square-games.png
+---
+<section class="content-container">
+  <article class="entry">
+    {% capture my-include %}{% include_relative content.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+  </article>
+</section>
