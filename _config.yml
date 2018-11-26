@@ -6,15 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 2018 Game Devs of Color Expo (July 14, 2018 in NYC)
+title: Game Devs of Color Expo (Summer 2019 in NYC)
 email: gdocexpo@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Play games by awesome creators as well as learn and share techniques for creating your own interactive media!
+  GDoCExpo is an inclusive games expo and conference that features creators from across a spectrum of backgrounds showing off their games, building culture, and pushing games forward as an artform.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://gamedevsofcolorexpo.com" # the base hostname & protocol for your site
 common_username:  GDoCE
 company_info: >
-  The GDoCE Organization Team is a team individuals of various backgrounds from across the country. We also believe in using games as a means of social change as well as encouraging cultural change in the games industry.
+  The GDoCE Organization Team is a team individuals of various backgrounds from across the country. We believe in using games as a means of social change as well as encouraging cultural change in the games industry.
 
 # Build settings
 markdown: kramdown
