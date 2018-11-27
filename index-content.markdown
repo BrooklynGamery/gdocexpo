@@ -1,10 +1,7 @@
 <!--  # Play, learn, and celebrate diversity in games. -->
 ![](/assets/images/photos/2018/2018GDoCE.jpg)
 
-The Game Devs of Color Expo is a games will be returning in July 2019. 
-
-We are pleased to announce the 2019 Game Devs of Color Expo! 2018’s event exceeded all expectations, and we’re going to keep that momentum going into the new year. This summer, the Game Devs of Color Expo returns to the historic Schomburg center for another day of great games, talks, and community.
-
+The 4th annual Game Devs of Color Expo will be held at the Schomburg Center in Harlem, New York in July 2019. After an amazing 2018 event, which included 17% attendance growth from 2017, the conference organizers are working on making an even bigger splash in 2019! 
 
 <!-- An event like this can’t happen without the community. If you’d like to help us run this vital event, please fill out the form. 
 
@@ -23,19 +20,18 @@ Subscribe to hear from the Game Devs of Color Expo team as we share opportunitie
 
 ## Watch the talks!
 
-Thank you for helping make the 2018 Game Devs of Color Expo a resounding success. If you weren't able to join in person you can experience all the <a href="https://www.youtube.com/watch?v=vLaBsMsWSdQ"> talks online</a>!
-
-Want to watch talks from 2017? Check out the [Archive](/archive)
+While we work toward the launch of the 2019 GDoCE, you can watch all of our talks from [2017](/https://www.youtube.com/watch?v=dYa6iu2m7vo&list=PLzl9aMM-oBWQmWFXBNVw-D3yPogd_poyK & [2018](/https://www.youtube.com/watch?v=vLaBsMsWSdQ on [YouTube](https://www.youtube.com/channel/UCIS7FqAWOiXPZ7F9WLdWiTg)!
 
 ----
 
-## All are welcome
+## All are encouraged to attend!
 
 ![](/assets/images/photos/2017/IMG_7270.jpg)
 
-The Game Devs of Color Expo is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. For example, the venue is wheelchair accessibile, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
+The Game Devs of Color Expo is a space meant to enlighten and unite, and is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. The venue is wheelchair accessible, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
 
-We want this to be a safe space to express yourself. Please let us know if there’s anything we can do to make you feel comfortable attending this event.
+We want this to be a safe space. Please let us know if there’s anything we can do to make you feel comfortable attending this event.
+
 
 [Read our full Code of Conduct](/codeofconduct)
 
