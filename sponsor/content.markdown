@@ -29,7 +29,9 @@ More people of color make games every year thanks to tools like Game Maker, Unre
 People of color are now more powerful and necessary in games than ever. The industry is only improved by those who are willing to push it forward, and the games shown at this event are not only high quality but also new and different.
 
 ## Sponsorship levels
+2019 sponsorship offerings coming soon!
 
+<!--
 Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](https://tinyurl.com/sponsorgdocexpo2018)
 
 <ul class="col-container">
@@ -59,6 +61,7 @@ Below are our basic offerings. Interested in additional opportunities such as sp
     <p class="text-smaller">Get a special mention on Twitter and 1 event ticket.</p>
   </li>
 </ul>
+-->
 
 <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a>
 
