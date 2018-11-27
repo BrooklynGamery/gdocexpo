@@ -25,7 +25,7 @@ Subscribe to hear from the Game Devs of Color Expo team as we share opportunitie
 
 ## Watch the talks!
 
-While we work toward the launch of the 2019 GDoCE, you can watch all of our talks from [2017](/https://www.youtube.com/watch?v=dYa6iu2m7vo&list=PLzl9aMM-oBWQmWFXBNVw-D3yPogd_poyK & [2018](/https://www.youtube.com/watch?v=vLaBsMsWSdQ on [YouTube](https://www.youtube.com/channel/UCIS7FqAWOiXPZ7F9WLdWiTg)!
+While we work toward the launch of the 2019 GDoCE, you can watch all of our talks from [2017](https://www.youtube.com/watch?v=dYa6iu2m7vo&list=PLzl9aMM-oBWQmWFXBNVw-D3yPogd_poyK & [2018](https://www.youtube.com/watch?v=vLaBsMsWSdQ on [YouTube](https://www.youtube.com/channel/UCIS7FqAWOiXPZ7F9WLdWiTg)!
 
 ----
 
