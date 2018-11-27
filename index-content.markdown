@@ -10,6 +10,11 @@ The 4th annual Game Devs of Color Expo will be held at the Schomburg Center in H
 
 ----
 
+## What is the Game Devs of Color Expo?
+The GDoC Expo is a games expo and conference pushing to create a new normal in games; putting creators of color at the forefront, showing off their games, creating conversations, and overall pushing games forward as an artform. 
+
+----
+
 ## Join our mailing list
 
 Subscribe to hear from the Game Devs of Color Expo team as we share opportunities, event updates, and more! Emails are infrequent.
