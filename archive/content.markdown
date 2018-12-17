@@ -1,9 +1,9 @@
 # {{page.title}}
 
+The Game Devs of Color Expo takes place at the historic Schomburg Center. Our events feature panels and talks, with an expo hall filled with unique games made by creators of color. Check out the past talks linked below!
+
 ## GDoCE 2018
 <!-- The 2017 Game Devs of Color Expo took place on July 14, 2018 in New York City. In this day-long event at the historic Schomburg Center, we held panels and talks, with an expo hall filled with unique games made by creators of color. Talks ranged from calls to action for creating games, discussions about the culture around games, the game development process, and experiences within the games industry as people from different backgrounds. -->
-
-The Game Devs of Color Expo takes place at the historic Schomburg Center. Our events feature panels and talks, with an expo hall filled with unique games made by creators of color. Check out the past talks linked below!
 
 Some quick facts about GDoCE 2018:
 
