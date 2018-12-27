@@ -1,6 +1,6 @@
 # {{page.title}}
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="rtl">
 Now there's an event specifically designed to help generate excitement for new voices.
 </p>&mdash; <a href="https://www.npr.org/2018/07/19/630589400/how-video-games-can-help-us-explore-ideas-about-race">NPR</a></blockquote>
 
