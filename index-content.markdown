@@ -17,6 +17,11 @@ The GDoC Expo is a games expo and conference pushing to create a new normal in g
 It’s an event focused on inclusivity that goes beyond just talking about it: Game Devs of Color makes the changes it wishes to see.
 </p>&mdash; <a href="https://www.polygon.com/2018/7/16/17574386/game-devs-of-color-expo-2018">Polygon</a></blockquote>
 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">
+Giving developers of color the space to speak about anything but their own marginalization shouldn’t be a grand gesture, but in the gaming industry it feels like an exemplary move
+</p>&mdash; <a href="https://motherboard.vice.com/en_us/article/5943vb/the-game-developers-of-color-expo-was-a-respite-from-the-hostile-gaming-scene">Motherboard</a></blockquote>
+
 ----
 
 ## Join our mailing list
