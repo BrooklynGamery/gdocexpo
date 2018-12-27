@@ -1,12 +1,10 @@
 # {{page.title}}
 
+The Game Devs of Color Expo takes place at the historic Schomburg Center. Our events feature panels and talks, with an expo hall filled with unique games made by creators of color. Check out the past talks linked below!
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">
 Now there's an event specifically designed to help generate excitement for new voices.
 </p>&mdash; <a href="https://www.npr.org/2018/07/19/630589400/how-video-games-can-help-us-explore-ideas-about-race">NPR</a></blockquote>
-
-<br/>
-
-The Game Devs of Color Expo takes place at the historic Schomburg Center. Our events feature panels and talks, with an expo hall filled with unique games made by creators of color. Check out the past talks linked below!
 
 ----
 
