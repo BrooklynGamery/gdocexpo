@@ -1,10 +1,10 @@
 # Sponsor the event
 
-![](/assets/images/photos/2017/IMG_6999.jpg)
+![](/assets/images/photos/2018/2018GDoCE_2.jpg)
 
-Want to help the 2018 Game Devs of Color Expo? We are open to financial and in-kind partnerships! Interested parties can contact us at gdocexpo@gmail.com, [send us direct donations via PayPal](http://paypal.me/BrooklynGamery) (our preferred method), or use the Donation field [on the ticketing page](/tickets).
+Want to help the 2019 Game Devs of Color Expo? We are open to financial and in-kind partnerships! Interested parties can contact us at gdocexpo@gmail.com, [send us direct donations via PayPal](http://paypal.me/BrooklynGamery) (our preferred method), or use the Donation field [on the ticketing page](/tickets).
 
-<a href="https://tinyurl.com/sponsorgdocexpo2018" class="btn">View prospectus</a>
+<a href="http://bit.ly/gdocexpo2019sponsorship" class="btn">2019 Sponsorship Deck</a>
 
 ----
 
@@ -29,7 +29,7 @@ More people of color make games every year thanks to tools like Game Maker, Unre
 People of color are now more powerful and necessary in games than ever. The industry is only improved by those who are willing to push it forward, and the games shown at this event are not only high quality but also new and different.
 
 ## Sponsorship levels
-2019 sponsorship offerings coming soon!
+<a href="http://bit.ly/gdocexpo2019sponsorship" class="btn">2019 Sponsorship Deck</a>
 
 <!--
 Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](https://tinyurl.com/sponsorgdocexpo2018)
@@ -63,7 +63,7 @@ Below are our basic offerings. Interested in additional opportunities such as sp
 </ul>
 -->
 
-<a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a>
+<!-- <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a> -->
 
 Or email gdocexpo@gmail.com – we'd love to hear from you!
 
@@ -71,7 +71,7 @@ Or email gdocexpo@gmail.com – we'd love to hear from you!
 
 ## Where the money goes
 
-The GDoCE Organization Team wants to make this event the best it can be. Since we're a small team we can't do that alone. You can help us to make the 2018 Game Devs of Color Expo a quality event worthy of attendees' time.
+The GDoCE Organization Team wants to make this event the best it can be. Since we're a small team we can't do that alone. You can help us to make the 2019 Game Devs of Color Expo a quality event worthy of attendees' time.
 
 Sponsorship and donations help us pay for the following:
 
