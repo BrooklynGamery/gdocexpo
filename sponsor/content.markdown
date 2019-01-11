@@ -28,6 +28,8 @@ More people of color make games every year thanks to tools like Game Maker, Unre
 
 People of color are now more powerful and necessary in games than ever. The industry is only improved by those who are willing to push it forward, and the games shown at this event are not only high quality but also new and different.
 
+----
+
 ## Sponsorship levels
 <a href="http://bit.ly/gdocexpo2019sponsorship" class="btn">2019 Sponsorship Deck</a>
 
