@@ -15,12 +15,12 @@ Blurb about scholars.
         </a>
       </div>
       <div class="col-3-2">
-        <a href="{{scholar.link}}" target="_blank">
-          <h2 class="list-data-title">{{scholar.title}}</h2>
+        <a href="{{game.link}}" target="_blank">
+          <h2 class="list-data-title">{{game.title}}</h2>
         </a>
-        <h3 class="list-data-title">{{scholar.team}}</h3>
-        {% if scholar.description %}
-        <p class="list-data-description text-smaller">{{ scholar.description }}</p>
+        <h3 class="list-data-title">{{game.team}}</h3>
+        {% if game.description %}
+        <p class="list-data-description text-smaller">{{ game.description }}</p>
         {% endif %}
       </div>
     </li>
