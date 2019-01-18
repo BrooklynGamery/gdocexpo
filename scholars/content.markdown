@@ -18,9 +18,9 @@ Blurb about scholars.
         <a href="{{game.link}}" target="_blank">
           <h2 class="list-data-title">{{game.title}}</h2>
         </a>
-        <h3 class="list-data-title">{{game.team}}</h3>
-        {% if game.description %}
-        <p class="list-data-description text-smaller">{{ game.description }}</p>
+        <h3 class="list-data-title">{{scholars.team}}</h3>
+        {% if scholars.description %}
+        <p class="list-data-description text-smaller">{{ scholars.description }}</p>
         {% endif %}
       </div>
     </li>
