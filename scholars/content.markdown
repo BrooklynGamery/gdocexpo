@@ -30,12 +30,17 @@ Blurb about scholars.
 
 {% else %}
 
-### We'll be announcing our 2019 GDC Scholar soon. Stay tuned!
+### We'll be announcing our 2019 GDC Scholars soon. Stay tuned!
 
 {% endif %}
+
+----
+
+### Sponsor info
 
 ----
 
 Interesting in applying for our GDC Scholar Program next year? Sign up for our mailing list for news and announcements!
 
 {% include mailchimp-form.html %}
+
