@@ -40,7 +40,10 @@ Blurb about scholars.
 
 ----
 
-Interesting in applying for our GDC Scholar Program next year? Sign up for our mailing list for news and announcements!
+### Scholarship committee info
+
+----
+
+Interesting in applying to our GDC Scholar Program next year? Sign up for our mailing list for news and announcements!
 
 {% include mailchimp-form.html %}
-
