@@ -7,7 +7,6 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 <br/>
 <br/>
 
-
   <ul class="list-unstyled">
     {% assign sorted_scholars = site.data.scholars | sort:"title" %}
     {% for game in sorted_scholars %}
@@ -42,6 +41,7 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 ### Sponsor info
 
 
+<a href="http://www.wadjeteyegames.com/" target="_blank">Wadjet Eye Games</a>
 
 ----
 
