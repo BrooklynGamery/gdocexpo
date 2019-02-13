@@ -2,7 +2,7 @@
 
 {% if site.data.scholars.size > 0 %}
 
-Game Devs of Color Expo is excited to partner with the Game Developers Conference! We're running a scholarship program to help bring some amazing creators of color to GDC. GDC can be a career-defining conference, but tickets, travel, and lodging prices can place it out of reach for many developers. We've provided Conference  Summits passes and financial assistance when needed to these amazing scholars!
+Game Devs of Color Expo is excited to partner with the Game Developers Conference! We're running a scholarship program to help bring some amazing creators of color to GDC. GDC can be a career-defining conference, but tickets, travel, and lodging prices can place it out of reach for many developers. We've provided Conference and Summits passes and financial assistance when needed to these amazing scholars!
 
 <br/>
 <br/>
@@ -41,7 +41,10 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 ### Sponsor info
 
 
-<a href="http://www.wadjeteyegames.com/" target="_blank">Wadjet Eye Games</a>
+<h4>Wadjet Eye Games</h4>
+<p>
+Learn more about Wadjet Eye Games <a href="http://www.wadjeteyegames.com/" target="_blank">on their website.</a>
+</p>
 
 ----
 
