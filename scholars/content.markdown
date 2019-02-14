@@ -67,13 +67,13 @@ Learn more <a href="http://www.wadjeteyegames.com/" target="_blank">on their web
 
 ----
 
-### Scholarship Committee
+## Scholarship Committee
 
 <ul class="col-container sponsors-container">
 <li class="col-3">
 <p>
 <img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
-Chris Algoo
+Chris Algoo<br/>
 <a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
 </p>
 </li>
@@ -81,7 +81,7 @@ Chris Algoo
 <li class="col-3">
 <p>
 <img src="/assets/images/scholars/2019/ShawnAllen.jpg">
-Shawn Allen
+Shawn Allen<br/>
 <a href="https://twitter.com/aNuChallenger" target="_blank">@aNuChallenger</a>
 </p>
 </li>
@@ -89,7 +89,7 @@ Shawn Allen
 <li class="col-3">
 <p>
 <img src="/assets/images/scholars/2019/RachelBazelais.JPG">
-Rachél Bazelais
+Rachél Bazelais<br/>
 <a href="https://twitter.com/Popular_Pixels" target="_blank">@Popular_Pixels</a>
 </p>
 </li>
@@ -99,7 +99,7 @@ Rachél Bazelais
 <li class="col-3">
 <p>
 <img src="/assets/images/scholars/2019/BrianSChung.jpg">
-Brian S. Chung
+Brian S. Chung<br/>
 <a href="https://twitter.com/BrianSChung" target="_blank">@BrianSChung</a>
 </p>
 </li>
@@ -107,7 +107,7 @@ Brian S. Chung
 <li class="col-3">
 <p>
 <img src="/assets/images/scholars/2019/GJLee.jpg">
-GJ Lee
+GJ Lee<br/>
 <a href="https://twitter.com/whereisgj" target="_blank">@whereisgj</a>
 </p>
 </li>
@@ -115,7 +115,7 @@ GJ Lee
 <li class="col-3">
 <p>
 <img src="/assets/images/scholars/2019/ReynaldoVargas.JPG">
-Reynaldo Vargas
+Reynaldo Vargas<br/>
 <a href="https://twitter.com/reymakes" target="_blank">@reymakes</a>
 </p>
 </li>
