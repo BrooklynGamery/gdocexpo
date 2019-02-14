@@ -57,6 +57,8 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 </li>
 </ul>
 
+<br/>
+
 <h4>Wadjet Eye Games</h4>
 <p>
 Learn more <a href="http://www.wadjeteyegames.com/" target="_blank">on their website.</a>
