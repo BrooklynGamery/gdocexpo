@@ -40,6 +40,20 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 
 ### Sponsor info
 
+<ul class="col-container sponsors-container">
+<li class="col-3">
+<p>
+<a href="http://www.capybaragames.com" target="_blank">
+<img src="/assets/images/scholars/2019/CapybaraGames_logo.png">
+</a>
+		  
+<a href="https://subsetgames.com/" target="_blank">
+<img src="/assets/images/scholars/2019/SubsetGames_logo.png">
+</a>
+</p>
+
+</ul>
+
 
 <h4>Wadjet Eye Games</h4>
 <p>
