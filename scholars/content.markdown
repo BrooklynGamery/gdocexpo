@@ -37,7 +37,7 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 
 ----
 
-### Our GDoCExpo’s GDC Sponsors
+## Our GDoCExpo’s GDC Sponsors
 
 <ul class="col-container sponsors-container">
 <li class="col-3">
@@ -80,17 +80,17 @@ Chris Algoo
 
 <li class="col-3">
 <p>
-<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
-Chris Algoo
-<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+<img src="/assets/images/scholars/2019/ShawnAllen.jpg">
+Shawn Allen
+<a href="https://twitter.com/aNuChallenger" target="_blank">@aNuChallenger</a>
 </p>
 </li>
 
 <li class="col-3">
 <p>
-<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
-Chris Algoo
-<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+<img src="/assets/images/scholars/2019/RachelBazelais.JPG">
+Rachél Bazelais
+<a href="https://twitter.com/Popular_Pixels" target="_blank">@Popular_Pixels</a>
 </p>
 </li>
 </ul>
@@ -98,25 +98,25 @@ Chris Algoo
 <ul class="col-container sponsors-container">
 <li class="col-3">
 <p>
-<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
-Chris Algoo
-<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+<img src="/assets/images/scholars/2019/BrianSChung.jpg">
+Brian S. Chung
+<a href="https://twitter.com/BrianSChung" target="_blank">@BrianSChung</a>
 </p>
 </li>
 
 <li class="col-3">
 <p>
-<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
-Chris Algoo
-<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+<img src="/assets/images/scholars/2019/GJLee.jpg">
+GJ Lee
+<a href="https://twitter.com/whereisgj" target="_blank">@whereisgj</a>
 </p>
 </li>
 
 <li class="col-3">
 <p>
-<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
-Chris Algoo
-<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+<img src="/assets/images/scholars/2019/ReynaldoVargas.JPG">
+Reynaldo Vargas
+<a href="https://twitter.com/reymakes" target="_blank">@reymakes</a>
 </p>
 </li>
 </ul>
