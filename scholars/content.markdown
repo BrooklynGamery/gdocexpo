@@ -5,7 +5,6 @@
 Game Devs of Color Expo is excited to partner with the Game Developers Conference! We're running a scholarship program to help bring some amazing creators of color to GDC. GDC can be a career-defining conference, but tickets, travel, and lodging prices can place it out of reach for many developers. We've provided Conference and Summits passes and financial assistance when needed to these amazing scholars!
 
 <br/>
-<br/>
 
   <ul class="list-unstyled">
     {% assign sorted_scholars = site.data.scholars | sort:"title" %}
@@ -50,6 +49,8 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 </li>
 <li class="col-3">
 <p>
+<br/>
+<br/>
 <a href="https://subsetgames.com/" target="_blank">
 <img src="/assets/images/scholars/2019/SubsetGames_logo.png">
 </a>
