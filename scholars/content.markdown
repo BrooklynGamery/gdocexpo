@@ -46,12 +46,12 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 <a href="http://www.capybaragames.com" target="_blank">
 <img src="/assets/images/scholars/2019/CapybaraGames_logo.png">
 </a>
-		  
+ 
 <a href="https://subsetgames.com/" target="_blank">
 <img src="/assets/images/scholars/2019/SubsetGames_logo.png">
 </a>
 </p>
-
+</li>
 </ul>
 
 
