@@ -37,7 +37,7 @@ Game Devs of Color Expo is excited to partner with the Game Developers Conferenc
 
 ----
 
-### Sponsor info
+### Our GDoCExpo’s GDC Sponsors
 
 <ul class="col-container sponsors-container">
 <li class="col-3">
@@ -67,7 +67,59 @@ Learn more <a href="http://www.wadjeteyegames.com/" target="_blank">on their web
 
 ----
 
-### Scholarship committee info
+### Scholarship Committee
+
+<ul class="col-container sponsors-container">
+<li class="col-3">
+<p>
+<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
+Chris Algoo
+<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
+<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
+Chris Algoo
+<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
+<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
+Chris Algoo
+<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+</p>
+</li>
+</ul>
+
+<ul class="col-container sponsors-container">
+<li class="col-3">
+<p>
+<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
+Chris Algoo
+<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
+<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
+Chris Algoo
+<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
+<img src="/assets/images/scholars/2019/ChrisAlgoo.jpg">
+Chris Algoo
+<a href="https://twitter.com/chrisalgoo?lang=en" target="_blank">@ChrisAlgoo</a>
+</p>
+</li>
+</ul>
 
 ----
 
