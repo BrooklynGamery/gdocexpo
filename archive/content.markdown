@@ -14,8 +14,8 @@ Now there's an event specifically designed to help generate excitement for new v
 Some quick facts:
 
 * 545 Attendees
-* 30 Games Shown [2018 Games Archive](/archive/2018/games)
-* 25 Speakers and Panelists [2018 Schedule Archive](/archive/2018/schedule)
+* 30 Games Shown - [2018 Games Archive](/archive/2018/games)
+* 25 Speakers and Panelists - [2018 Schedule Archive](/archive/2018/schedule)
 
 <br/>
 <br/>
@@ -28,8 +28,8 @@ Some quick facts:
 
 Some quick facts:
 * 472 Attendees
-* 31 Games Shown [2017 Games Archive](/archive/2017/games)
-* 25 Speakers and Panelists [2017 Schedule Archive](/archive/2017/schedule)
+* 31 Games Shown - [2017 Games Archive](/archive/2017/games)
+* 25 Speakers and Panelists - [2017 Schedule Archive](/archive/2017/schedule)
 
 <br/>
 <br/>
