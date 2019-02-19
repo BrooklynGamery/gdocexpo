@@ -12,6 +12,8 @@ We're running a scholarship program to help bring some amazing creators of color
 For these amazing scholars we've provided Conference and Summits passes. Through our Scholar Program's sponsors, we're able to provide travel and lodging assistance!
 </p>
 
+<br/>
+
   <ul class="list-unstyled">
     {% assign sorted_scholars = site.data.scholars | sort:"title" %}
     {% for game in sorted_scholars %}
