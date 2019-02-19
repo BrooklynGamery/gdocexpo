@@ -8,10 +8,10 @@ Now there's an event specifically designed to help generate excitement for new v
 
 ----
 
-## GDoCE 2018
+## Game Devs of Color Expo 2018
 <!-- The 2017 Game Devs of Color Expo took place on July 14, 2018 in New York City. In this day-long event at the historic Schomburg Center, we held panels and talks, with an expo hall filled with unique games made by creators of color. Talks ranged from calls to action for creating games, discussions about the culture around games, the game development process, and experiences within the games industry as people from different backgrounds. -->
 
-Some quick facts about GDoCE 2018:
+Some quick facts:
 
 * 545 Attendees
 * 30 Games Shown [2018 Games Archive](/archive/2018/games)
@@ -24,9 +24,9 @@ Some quick facts about GDoCE 2018:
 
 ----
 
-## GDoCE 2017
+## Game Devs of Color Expo 2017
 
-Some quick facts about GDoCE 2017:
+Some quick facts:
 * 472 Attendees
 * 31 Games Shown [2017 Games Archive](/archive/2017/games)
 * 25 Speakers and Panelists [2017 Schedule Archive](/archive/2017/schedule)
