@@ -9,16 +9,16 @@ After an amazing 2018 event, which included 17% attendance growth from 2017, the
 
 
 ## Join the event!
-
 <a href="https://gamedevsofcolorexpo.com/tickets/" class="btn">Get your tickets today!</a>
 
-[Apply to show your work! ](http://bit.ly/gdoc19game") 
+#### Apply to showcase your work!
+[Games submission form ](http://bit.ly/gdoc19game") 
 
-[Apply to share a talk! ]() - Form opening soon!
+#### Our audience is unique and diverse
+*Speaker submission form opening soon!*
 
-An event like this can’t happen without the community. If you’d like to help us run this vital event, please fill out the form. 
-
-[Call for Volunteers ](http://bit.ly/gdoc19volunteer) 
+#### An event like this can’t happen without the community 
+[Volunteer submission form ](http://bit.ly/gdoc19volunteer) 
 
 ----
 
