@@ -5,22 +5,24 @@ The 4th annual Game Devs of Color Expo returns to the Schomburg Center in Harlem
 
 After an amazing 2018 event, which included 17% attendance growth from 2017, the conference organizers are working on making an even bigger splash in 2019!
 
+<center><a href="https://gamedevsofcolorexpo.com/tickets/" class="btn">Get your tickets today!</a></center>
+
 ---
 
-
 ## Join the event!
-<a href="https://gamedevsofcolorexpo.com/tickets/" class="btn">Get your tickets today!</a>
 
-
-#### Apply to showcase your work!
-[Games submission form ](http://bit.ly/gdoc19game") 
+#### Games Expo
+[Game submissions are open! ](http://bit.ly/gdoc19game") 
 <br/>
 
-#### Apply to share a talk!
+#### Conference
 *Speaker submission form opening soon!*
 <br/>
 
-#### An event like this can’t happen without the community 
+#### Press? Streamer? YouTuber?
+[Press application form ](http://bit.ly/gdoc19volunteer) 
+
+#### Want to help with the event?
 [Volunteer submission form ](http://bit.ly/gdoc19volunteer) 
 
 ----
