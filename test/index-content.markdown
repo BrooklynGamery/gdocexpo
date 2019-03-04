@@ -23,7 +23,7 @@ After an amazing 2018 event, which included 17% attendance growth from 2017, the
 [Press application form ](http://bit.ly/gdoc19press) 
 
 #### Want to help with the event?
-[Volunteer submission form ](http://bit.ly/gdoc19volunteer) 
+[Volunteer application form ](http://bit.ly/gdoc19volunteer) 
 
 ----
 
