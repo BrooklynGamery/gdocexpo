@@ -12,15 +12,15 @@ After an amazing 2018 event, which included 17% attendance growth from 2017, the
 ## Join the event!
 
 #### Games Expo
-[Game submissions are open! ](http://bit.ly/gdoc19game") 
+[Game application open! ](http://bit.ly/gdoc19game) 
 <br/>
 
 #### Conference
-*Speaker submission form opening soon!*
+*Speaker application form opening soon!*
 <br/>
 
 #### Press? Streamer? YouTuber?
-[Press application form ](http://bit.ly/gdoc19volunteer) 
+[Press application form ](http://bit.ly/gdoc19press) 
 
 #### Want to help with the event?
 [Volunteer submission form ](http://bit.ly/gdoc19volunteer) 
