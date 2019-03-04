@@ -11,7 +11,6 @@ After an amazing 2018 event, which included 17% attendance growth from 2017, the
 
 ## Join the event!
 
-<li class="col-3">
 #### Games Expo
 [Game submissions are open! ](http://bit.ly/gdoc19game") 
 <br/>
@@ -25,9 +24,7 @@ After an amazing 2018 event, which included 17% attendance growth from 2017, the
 
 #### Want to help with the event?
 [Volunteer submission form ](http://bit.ly/gdoc19volunteer) 
-</li>
 
-</div>
 ----
 
 ## What is the Game Devs of Color Expo?
