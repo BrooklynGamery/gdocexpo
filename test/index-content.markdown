@@ -57,6 +57,10 @@ We want this to be a safe space. Please let us know if there’s anything we can
 
 ---
 
+## Sponsor the event
+
+This is just a test, the bottom table will be on the [sponsor page](/sponsor)
+
 Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](http://bit.ly/gdocexpo2019sponsorship)
 
 <ul class="col-container">
