@@ -68,7 +68,7 @@ Below are our basic offerings. Interested in additional opportunities such as sp
   <li class="col-3 sponsorship-list-item">
     <h4>Collaborating Sponsor</h4>
     <p class="sponsorship-price">$10,000</p>
-    <p class="text-smaller">You want to be an active partner with the Game Devs of Color Expo 2019!</p>
+    <p class="text-smaller">Your company’s brand will be well represented in all of our communications and you’ll  have a table in order to engage with our audience. </p>
   </li>
   <li class="col-3 sponsorship-list-item">
     <h4>Premium Sponsor</h4>
