@@ -55,4 +55,40 @@ We want this to be a safe space. Please let us know if there’s anything we can
 
 [Read our full Code of Conduct](/codeofconduct)
 
+---
+
+Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](http://bit.ly/gdocexpo2019sponsorship)
+
+<ul class="col-container">
+  <li class="col-3-2 sponsorship-list-item sponsorship-list-item-featured">
+    <h4>Sustaining Sponsor</h4>
+    <p class="sponsorship-price">$20,000</p>
+    <p>This partnership opportunity is exclusive and your company will be featured at the forefront of the Game Devs of Color Expo 2019. </p>
+  </li>
+  <li class="col-3 sponsorship-list-item">
+    <h4>Collaborating Sponsor</h4>
+    <p class="sponsorship-price">$10,000</p>
+    <p class="text-smaller">You want to be an active partner with the Game Devs of Color Expo 2019!</p>
+  </li>
+  <li class="col-3 sponsorship-list-item">
+    <h4>Premium Sponsor</h4>
+    <p class="sponsorship-price">$5,000</p>
+    <p class="text-smaller">You want to be recognized as supporting the Game Devs of Color Expo 2019!</p>
+  </li>
+  <li class="col-3 sponsorship-list-item">
+    <h4>Friend Sponsor</h4>
+    <p class="sponsorship-price">$2,500</p>
+    <p class="text-smaller">You want to be an active participant in the Game Devs of Color Expo 2019!</p>
+  </li>
+  <li class="col-3 sponsorship-list-item">
+    <h4>Community Sponsor</h4>
+    <p class="sponsorship-price">$1000</p>
+    <p class="text-smaller">You want to show your support for the Game Devs of Color Expo 2019!</p>
+  </li>
+</ul>
+
+<a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a>
+
+Or email gdocexpo@gmail.com – we'd love to hear from you!
+
 ----
