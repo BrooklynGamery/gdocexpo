@@ -23,7 +23,7 @@
 
  - name: 'Humble'
    level: 'Premium'
-   logo: 'humble-bundle-red-flat.png'
+   logo: 'humble-bundle-red.svg'
    link: https://www.humblebundle.com/
    blurb: '-'
 
@@ -43,5 +43,5 @@
  - name: 'Brace Yourself Games'
    level: 'Community'
    logo: 'BYG-Brand-Full-Colour.png'
-   link: https://www.unity.com
+   link: https://braceyourselfgames.com
    blurb: 
