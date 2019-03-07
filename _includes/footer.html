@@ -110,7 +110,9 @@
 
       <li class="col-container">
         {% if sponsor.logo %}
-        <p class="col-3">
+      <li class="col-3">
+        {% if sponsor.logo %}
+        <p>
           <a href="{{ sponsor.link }}" target="_blank">
             <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
