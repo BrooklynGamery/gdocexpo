@@ -33,37 +33,37 @@ People of color are now more powerful and necessary in games than ever. The indu
 ## Sponsorship levels
 <a href="http://bit.ly/gdocexpo2019sponsorship" class="btn">2019 Sponsorship Deck</a>
 
-<!--
-Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](https://tinyurl.com/sponsorgdocexpo2018)
+
+Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](http://bit.ly/gdocexpo2019sponsorship)
 
 <ul class="col-container">
   <li class="col-3-2 sponsorship-list-item sponsorship-list-item-featured">
-    <h4>Platinum</h4>
+    <h4>Sustaining Sponsor</h4>
+    <p class="sponsorship-price">$20,000</p>
+    <p>This partnership opportunity is exclusive and your company will be featured at the forefront of the Game Devs of Color Expo 2019. </p>
+  </li>
+  <li class="col-3 sponsorship-list-item">
+    <h4>Collaborating Sponsor</h4>
     <p class="sponsorship-price">$10,000</p>
-    <p>Get a special mention on Twitter, the event websites, and during the event. Plus, you'll receive 8 complimentary tickets to the event, your logo in pre-event emails with a 50-word blurb. At the event, we'll hand out your branded promo items, put your logo on handouts and signage. Additionally, you will have a table in the arcade and be allowed to present during our keynote.</p>
+    <p class="text-smaller">Your company’s brand will be well represented in all of our communications and you’ll  have a table in order to engage with our audience. </p>
   </li>
   <li class="col-3 sponsorship-list-item">
-    <h4>Pearl</h4>
+    <h4>Premium Sponsor</h4>
     <p class="sponsorship-price">$5,000</p>
-    <p class="text-smaller">Get a special mention on Twitter, the event websites, and during the event. Plus, get 5 tickets to the event and your logo in pre-event emails with a 25-word blurb. Your logo will be on event materials.</p>
+    <p class="text-smaller">You want to be recognized as supporting the Game Devs of Color Expo 2019!</p>
   </li>
   <li class="col-3 sponsorship-list-item">
-    <h4>Silver</h4>
+    <h4>Friend Sponsor</h4>
     <p class="sponsorship-price">$2,500</p>
-    <p class="text-smaller">Get a special mention on Twitter, the event websites, and during the event. Plus, 3 event tickets and your logo in pre-event emails with a 10-word blurb.</p>
+    <p class="text-smaller">You want to be an active participant in the Game Devs of Color Expo 2019!</p>
   </li>
   <li class="col-3 sponsorship-list-item">
-    <h4>Emerald</h4>
-    <p class="sponsorship-price">$1,000</p>
-    <p class="text-smaller">Get a special mention on Twitter and the event websites. Plus, get 2 event tickets and your logo in pre-event emails.</p>
-  </li>
-  <li class="col-3 sponsorship-list-item">
-    <h4>Ruby</h4>
-    <p class="sponsorship-price">$500</p>
-    <p class="text-smaller">Get a special mention on Twitter and 1 event ticket.</p>
+    <h4>Community Sponsor</h4>
+    <p class="sponsorship-price">$1000</p>
+    <p class="text-smaller">You want to show your support for the Game Devs of Color Expo 2019!</p>
   </li>
 </ul>
--->
+
 
 <!-- <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a> -->
 
