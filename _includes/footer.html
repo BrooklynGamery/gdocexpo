@@ -79,6 +79,7 @@
     <h3>Friend Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
+	  
       <li class="col-container">
         {% if sponsor.logo %}
         <p>
@@ -109,21 +110,28 @@
 
       <li class="col-container">
         {% if sponsor.logo %}
-        <p class="col-3">
+        <p>
           <a href="{{ sponsor.link }}" target="_blank">
             <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
-
+        </p>
+        <p>
+        Learn more about {{sponsor.name}} <a href="{{ sponsor.link }}" target="_blank">on their website</a>.
         </p>
         {% endif %}
-        <div class="col-3-2">
-          <p>
-            {{ sponsor.blurb }} <a href="{{ sponsor.link }}" target="_blank">Learn more on their website</a>.
-          </p>
-        </div>
+        {% unless sponsor.logo %}
+        <h4>
+          {{ sponsor.name }}
+        </h4>
+        <p>
+          {{ sponsor.blurb }}
+        </p>
+        {% endunless %}
       </li>
       {% endfor %}
     </ul>
+	
+	
     {% endif %}
 
     
