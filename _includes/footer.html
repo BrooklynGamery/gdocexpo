@@ -12,7 +12,7 @@
 
     {% if site.data.sponsors %}
     <h2>Thanks to our 2019 sponsors!</h2>
-    {% assign sponsors = site.data.sponsors | where: 'level', 'Sustaining Sponsor' %}
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Sustaining' %}
     <h3>Sustaining Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
@@ -33,7 +33,7 @@
       {% endfor %}
     </ul>
 
-    {% assign sponsors = site.data.sponsors | where: 'level', 'Collaborating Sponsor' %}
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Collaborating' %}
     <h3>Collaborating Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
@@ -54,7 +54,7 @@
       {% endfor %}
     </ul>
 
-    {% assign sponsors = site.data.sponsors | where: 'level', 'Premium Sponsor' %}
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Premium' %}
     <h3>Premium Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
@@ -75,7 +75,7 @@
       {% endfor %}
     </ul>
 
-    {% assign sponsors = site.data.sponsors | where: 'level', 'Friend Sponsor' %}
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Friend' %}
     <h3>Friend Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
@@ -102,7 +102,7 @@
       {% endfor %}
     </ul>
 
-    {% assign sponsors = site.data.sponsors | where: 'level', 'Community Sponsor' %}
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Community' %}
     <h3>Community Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
