@@ -65,7 +65,7 @@ Below are our basic offerings. Interested in additional opportunities such as sp
 </ul>
 
 
-<!-- <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a> -->
+<a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a> 
 
 Or email gdocexpo@gmail.com – we'd love to hear from you!
 
