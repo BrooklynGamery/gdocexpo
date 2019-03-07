@@ -15,78 +15,33 @@
 #   logo: 'logo-square.png'
 #   link: http://examplesponsor.com
 
- - name: 'Xbox'
-   level: 'Platinum'
-   logo: 'xbox.png'
-   link: https://www.xbox.com/en-US/
-   blurb: 'Experience a new generation of games and entertainment with Xbox. The best games and entertainment on all of your devices.'
- 
- - name: 'Amazon'
-   level: 'Pearl'
-   logo: 'AmzGameTech_R1_LogoMod_Alpha.png'
-   link: https://games.amazon.com/
-   blurb: 'Amazon Game Tech provides a wide range of products and services that flex to the needs of all game developers.'
- 
  - name: 'Kickstarter'
-   level: 'Pearl'
+   level: 'Premium'
    logo: 'kickstarter-logo-color.png'
    link: https://www.kickstarter.com
    blurb: 'Kickstarter helps game developers, artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality.'
+
+ - name: 'Humble'
+   level: 'Premium'
+   logo: 'humble.svg'
+   link: https://www.humblebundle.com/
+   blurb: '-'
+
  
  - name: 'MailChimp'
-   level: 'Pearl'
-   logo: 'mailchimp.png'
+   level: 'Premium'
+   logo: 'Mailchimp_Logo-Horizontal_Black.png'
    link: https://mailchimp.com/
    blurb: 'MailChimp is the world’s largest marketing automation platform. We help millions of customers—from small e-commerce shops to big online retailers—find audiences, engage customers, and build brands.'
 
- - name: 'Nintendo'
-   level: 'Silver'
-   logo: 'NintendoOfficialLogo.jpg'
-   link: https://www.nintendo.com
-   blurb: 'Bring Smiles to All!'
-
- - name: 'Two Sigma'
-   level: 'Silver'
-   logo: 'TwoSigma.png'
-   link: http://www.twosigma.com
-   blurb: 'Two Sigma is a technology driven investment manager based in SoHo NY.'
-
- - name: 'Avalanche Studios'
-   level: 'Emerald'
-   logo: 'avalanche-studios.png'
-   link: http://avalanchestudios.com
-   blurb: 
- 
- - name: 'G4C'
-   level: 'Emerald'
-   logo: 'games-for-change.png'
-   link: http://www.gamesforchange.org
-   blurb: 
- 
- - name: 'Ilya Zarembsky'
-   level: 'Emerald'
-   blurb: 'Thanks, Ilya, for your wonderful donation!'
-
- - name: 'NYU Game Center'
-   level: 'Emerald'
-   logo: 'NYU_GameCenter_Logo_Formatted.jpg'
-   link: https://gamecenter.nyu.edu
-   blurb: 
-
- - name: 'Soylent'
-   level: 'Emerald'
-   logo: 'Soylent.png'
-   link: https://www.soylent.com
-   blurb: 
-
  - name: 'Unity'
-   level: 'Emerald'
+   level: 'Community'
    logo: 'unity-master-black.png'
    link: https://www.unity.com
    blurb: 
 
- - name: 'Sonic Toad'
-   level: 'Ruby'
-   logo: 
-   link: https://sonictoad.com
-   blurb:  
+ - name: 'Brace Yourself Games'
+   level: 'Community'
+   logo: 'BYG-Brand-Full-Colour.png'
+   link: https://www.unity.com
+   blurb: 
