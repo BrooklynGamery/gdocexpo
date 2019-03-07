@@ -115,17 +115,6 @@
           </a>
 =======
       <li class="col-3">
-	    {% if sponsor.logo %}
-        <p>
-          <a href="{{ sponsor.link }}" target="_blank">
-            <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
-          </a>
-        </p>
-        <p>
-        Learn more about {{sponsor.name}} <a href="{{ sponsor.link }}" target="_blank">on their website</a>.
-        </p>
-        {% endif %}
-        {% unless sponsor.logo %}
         <h4>
           {{ sponsor.name }}
         </h4>
