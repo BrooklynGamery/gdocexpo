@@ -11,16 +11,16 @@
     {% endif %}
 
     {% if site.data.sponsors %}
-    <h2>Thanks to our 2018 sponsors!</h2>
+    <h2>Thanks to our 2019 sponsors!</h2>
     {% assign sponsors = site.data.sponsors | where: 'level', 'Platinum' %}
-    <h3>Platinum</h3>
+    <h3>Sustaining Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
       <li class="col-container">
         {% if sponsor.logo %}
         <p class="col-3">
           <a href="{{ sponsor.link }}" target="_blank">
-            <img src="/assets/images/sponsors/2018/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
+            <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
         </p>
         {% endif %}
@@ -34,14 +34,14 @@
     </ul>
 
     {% assign sponsors = site.data.sponsors | where: 'level', 'Pearl' %}
-    <h3>Pearl</h3>
+    <h3>Collaborating Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
       <li class="col-container">
         {% if sponsor.logo %}
         <p class="col-3">
           <a href="{{ sponsor.link }}" target="_blank">
-            <img src="/assets/images/sponsors/2018/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
+            <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
         </p>
         {% endif %}
@@ -55,14 +55,14 @@
     </ul>
 
     {% assign sponsors = site.data.sponsors | where: 'level', 'Silver' %}
-    <h3>Silver</h3>
+    <h3>Premium Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
       <li class="col-container">
         {% if sponsor.logo %}
         <p class="col-3">
           <a href="{{ sponsor.link }}" target="_blank">
-            <img src="/assets/images/sponsors/2018/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
+            <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
         </p>
         {% endif %}
@@ -76,14 +76,14 @@
     </ul>
 
     {% assign sponsors = site.data.sponsors | where: 'level', 'Emerald' %}
-    <h3>Emerald</h3>
+    <h3>Friend Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
       <li class="col-3">
         {% if sponsor.logo %}
         <p>
           <a href="{{ sponsor.link }}" target="_blank">
-            <img src="/assets/images/sponsors/2018/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
+            <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
         </p>
         <p>
@@ -103,7 +103,7 @@
     </ul>
 
     {% assign sponsors = site.data.sponsors | where: 'level', 'Ruby' %}
-    <h3>Ruby</h3>
+    <h3>Community Sponsor</h3>
     <ul class="col-container sponsors-container">
       {% for sponsor in sponsors %}
       <li class="col-3">
@@ -133,7 +133,7 @@
       <li class="col-3">
         <p>
           <a href="{{ partner.link }}" target="_blank">
-            <img src="/assets/images/partners/2018/{{partner.logo}}" alt="{{partner.name}} logo" title="{{partner.name}}">
+            <img src="/assets/images/partners/2019/{{partner.logo}}" alt="{{partner.name}} logo" title="{{partner.name}}">
           </a>
         </p>
         {% if partner.blurb %}
