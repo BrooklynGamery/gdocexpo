@@ -81,27 +81,6 @@
       {% for sponsor in sponsors %}
       <li class="col-3">
         {% if sponsor.logo %}
-        <p class="col-3">
-          <a href="{{ sponsor.link }}" target="_blank">
-            <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
-          </a>
-        </p>
-        {% endif %}
-        <div class="col-3-2">
-          <p>
-            {{ sponsor.blurb }} <a href="{{ sponsor.link }}" target="_blank">Learn more on their website</a>.
-          </p>
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
-
-    {% assign sponsors = site.data.sponsors | where: 'level', 'Community' %}
-    <h3>Community Sponsor</h3>
-    <ul class="col-container sponsors-container">
-      {% for sponsor in sponsors %}
-      <li class="col-3">
-	    {% if sponsor.logo %}
         <p>
           <a href="{{ sponsor.link }}" target="_blank">
             <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
@@ -115,6 +94,25 @@
         <h4>
           {{ sponsor.name }}
         </h4>
+        <p>
+          {{ sponsor.blurb }}
+        </p>
+        {% endunless %}
+      </li>
+      {% endfor %}
+    </ul>
+
+    {% assign sponsors = site.data.sponsors | where: 'level', 'Community' %}
+    <h3>Community Sponsor</h3>
+    <ul class="col-container sponsors-container">
+      {% for sponsor in sponsors %}
+      <li class="col-3">
+        <h4>
+          {{ sponsor.name }}
+        </h4>
+        <p>
+        Learn more about {{sponsor.name}} <a href="{{ sponsor.link }}" target="_blank">on their website</a>.
+        </p>
         <p>
           {{ sponsor.blurb }}
         </p>
