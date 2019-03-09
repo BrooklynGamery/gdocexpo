@@ -51,6 +51,8 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 
 <li class="col-3">
 <p>
+<br/>
+<br/>
 <a href="https://subsetgames.com/" target="_blank">
 <img src="/assets/images/scholars/2019/SubsetGames_logo.png">
 <br/>
@@ -63,6 +65,7 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 <ul class="col-container sponsors-container">
 <li class="col-3">
 <p>
+<br/>
 <a href="http://www.capybaragames.com" target="_blank">
 <img src="/assets/images/scholars/2019/CapybaraGames_logo.png">
 </a>
