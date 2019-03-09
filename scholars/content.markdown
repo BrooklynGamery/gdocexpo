@@ -56,8 +56,9 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 </a>
 </p>
 </li>
-<br/>
+</ul>
 
+<ul class="col-container sponsors-container">
 <li class="col-3">
 <p>
 <a href="http://www.capybaragames.com" target="_blank">
@@ -65,7 +66,6 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 </a>
 </p>
 </li>
-<br/>
 
 <li class="col-3">
 <p>
