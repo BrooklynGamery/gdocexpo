@@ -48,6 +48,7 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 ## Thanks to our Game Devs of Color Expo's GDC Sponsors
 
 <ul class="col-container sponsors-container">
+
 <li class="col-3">
 <p>
 <a href="http://www.capybaragames.com" target="_blank">
@@ -64,6 +65,15 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 </a>
 </p>
 </li>
+<li class="col-3">
+<p>
+
+<a href="http://dreamfeel.org/" target="_blank">
+<img src="/assets/images/scholars/2019/dreamfeel_logo.png">
+</a>
+</p>
+</li>
+
 </ul>
 
 <br/>
