@@ -49,7 +49,7 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 
 <ul class="col-container sponsors-container">
 
-<li class="col-3">
+<li class="col-3-2">
 <p>
 <br/>
 <br/>
