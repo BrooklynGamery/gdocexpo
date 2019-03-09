@@ -51,23 +51,24 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 
 <li class="col-3">
 <p>
-<a href="http://www.capybaragames.com" target="_blank">
-<img src="/assets/images/scholars/2019/CapybaraGames_logo.png">
-</a>
-</p>
-</li>
-<li class="col-3">
-<p>
-<br/>
-<br/>
 <a href="https://subsetgames.com/" target="_blank">
 <img src="/assets/images/scholars/2019/SubsetGames_logo.png">
 </a>
 </p>
 </li>
+<br/>
+
 <li class="col-3">
 <p>
+<a href="http://www.capybaragames.com" target="_blank">
+<img src="/assets/images/scholars/2019/CapybaraGames_logo.png">
+</a>
+</p>
+</li>
+<br/>
 
+<li class="col-3">
+<p>
 <a href="http://dreamfeel.org/" target="_blank">
 <img src="/assets/images/scholars/2019/dreamfeel_logo.png">
 </a>
@@ -76,12 +77,12 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 
 </ul>
 
-<br/>
-
 <h4>Wadjet Eye Games</h4>
 <p>
 Learn more <a href="http://www.wadjeteyegames.com/" target="_blank">on their website.</a>
 </p>
+
+<a href="/sponsor/2019GDoCExpo_GDCScholarship_Sponsorship.pdf" class="btn">2019 GDC Scholarship Sponsorship Deck</a>
 
 ----
 
