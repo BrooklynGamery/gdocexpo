@@ -53,6 +53,8 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 <p>
 <a href="https://subsetgames.com/" target="_blank">
 <img src="/assets/images/scholars/2019/SubsetGames_logo.png">
+<br/>
+<br/>
 </a>
 </p>
 </li>
