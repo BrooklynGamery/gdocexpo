@@ -1,12 +1,29 @@
 <!--  # Play, learn, and celebrate diversity in games. -->
 ![](/assets/images/photos/2018/2018GDoCE.jpg)
 
-The 4th annual Game Devs of Color Expo will be held at the Schomburg Center in Harlem, New York in July 2019. After an amazing 2018 event, which included 17% attendance growth from 2017, the conference organizers are working on making an even bigger splash in 2019! 
+Game Devs of Color Expo returns to the Schomburg Center in Harlem, New York on July 27, 2019! 
 
-<!-- An event like this can’t happen without the community. If you’d like to help us run this vital event, please fill out the form. 
+Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and conference creating a new normal in games by putting creators of color at the forefront, showing off their games, building conversations, and pushing games forward as an artform. [#GDoCExpo] (https://twitter.com/GDoCExpo 
 
+<center><a href="https://gamedevsofcolorexpo.com/tickets/" class="btn">Get your tickets today!</a></center>
 
-* [Call for Volunteers ](http://bit.ly/gdoc18volunteer) -->
+---
+
+## Join the event!
+
+#### Games Expo
+[Game application open! ](http://bit.ly/gdoc19game) 
+<br/>
+
+#### Conference
+*Speaker application form opening soon!*
+<br/>
+
+#### Press? Streamer? YouTuber?
+[Press application form ](http://bit.ly/gdoc19press) 
+
+#### Want to help with the event?
+[Volunteer application form ](http://bit.ly/gdoc19volunteer) 
 
 ----
 
