@@ -30,7 +30,7 @@ Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and
     });
 </script>
 
---
+---
 
 ## Join the event!
 
