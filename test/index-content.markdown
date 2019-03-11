@@ -3,9 +3,7 @@
 
 Game Devs of Color Expo returns to the Schomburg Center in Harlem, New York on July 27, 2019! 
 
-Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and conference creating a new normal in games by putting creators of color at the forefront, showing off their games, building conversations, and pushing games forward as an artform. #GDoCExpo
-
-After an amazing 2018 event, which included 17% attendance growth from 2017, the conference organizers are working on making an even bigger splash in 2019!
+Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and conference creating a new normal in games by putting creators of color at the forefront, showing off their games, building conversations, and pushing games forward as an artform. [#GDoCExpo] (https://twitter.com/GDoCExpo 
 
 <center><a href="https://gamedevsofcolorexpo.com/tickets/" class="btn">Get your tickets today!</a></center>
 
