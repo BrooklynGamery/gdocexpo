@@ -2,8 +2,26 @@
 
 [View tickets on Eventbrite](https://gdocexpo.eventbrite.com) or use the form below to buy tickets. All transactions are securely processed through Eventbrite.
 
-<iframe src="https://eventbrite.com/tickets-external?eid=43637268244&ref=etckt" frameborder="0" height="650" width="100%" vspace="0" hspace="0" marginheight="5" marginwidth="5" scrolling="auto" allowtransparency="true"></iframe>
+<div id="eventbrite-widget-container-57396620838"></div>
 
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '57396620838',
+        iframeContainerId: 'eventbrite-widget-container-57396620838',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
 ## At-the-door tickets
 
