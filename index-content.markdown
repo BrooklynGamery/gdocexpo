@@ -50,7 +50,7 @@ While we work toward the launch of the 2019 GDoCE, you can watch all of our talk
 
 ----
 
-## All are encouraged to attend!
+## All are welcome
 
 ![](/assets/images/photos/2018/2018GDoCE_1.jpg)
 
