@@ -20,7 +20,7 @@ Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and
 <br/>
 
 #### Press? Streamer? YouTuber?
-[Press application form ](http://bit.ly/gdoc19press) 
+[Press application form ](http://bit.ly/gdoc19pressapp) 
 
 #### Want to help with the event?
 [Volunteer application form ](http://bit.ly/gdoc19volunteer) 
