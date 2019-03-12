@@ -11,8 +11,10 @@ Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and
 
 ## Join the event!
 
+Everyone is welcome at GDoC Expo, and an event like this can’t happen without the community. Want to play a bigger role in the event? Apply here:
+
 #### Games Expo
-[Game application open! ](http://bit.ly/gdoc19game) 
+[Game Application - apply by 5/14](http://bit.ly/gdoc19game) 
 <br/>
 
 #### Conference
@@ -20,10 +22,10 @@ Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and
 <br/>
 
 #### Press? Streamer? YouTuber?
-[Press application form ](http://bit.ly/gdoc19pressapp) 
+[Press Application - for press, influencers, content creators, etc.](http://bit.ly/gdoc19pressapp) 
 
 #### Want to help with the event?
-[Volunteer application form ](http://bit.ly/gdoc19volunteer) 
+[Volunteer Application - apply by 6/11](http://bit.ly/gdoc19volunteer) 
 
 ----
 
