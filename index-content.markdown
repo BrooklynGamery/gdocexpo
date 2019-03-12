@@ -56,8 +56,7 @@ While we work toward the launch of the 2019 GDoCE, you can watch all of our talk
 
 The Game Devs of Color Expo is a space meant to enlighten and unite, and is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. The venue is wheelchair accessible, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
 
-We want this to be a safe space. Please let us know if there’s anything we can do to make you feel comfortable attending this event.
-
+Please let us know if there’s anything we can do to make you feel comfortable attending this event.
 
 [Read our full Code of Conduct](/codeofconduct)
 
