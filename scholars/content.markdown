@@ -4,6 +4,7 @@
 
 <p>
 <img src="/assets/images/scholars/2019_GDC_scholars.jpg">
+<br/>
 Game Devs of Color Expo partnered with the Game Developers Conference! 
 </p>
 <p>
