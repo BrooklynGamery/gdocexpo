@@ -18,7 +18,7 @@ Everyone is welcome at GDoC Expo, and an event like this can’t happen without 
 <br/>
 
 #### Conference
-[Speaker Application - apply by 5/17](http://bit.ly/gdoc19game) 
+[Speaker Application - apply by 5/17](http://bit.ly/gdoc19speaker) 
 <br/>
 
 #### Press? Streamer? YouTuber?
