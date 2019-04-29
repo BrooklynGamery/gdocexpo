@@ -39,13 +39,13 @@
       {% for sponsor in sponsors %}
       <li class="col-container">
         {% if sponsor.logo %}
-        <p class="col-3">
+        <p class="footer-col">
           <a href="{{ sponsor.link }}" target="_blank">
             <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
         </p>
         {% endif %}
-        <div class="col-3-2">
+        <div class="footer-col">
           <p>
             {{ sponsor.blurb }} <a href="{{ sponsor.link }}" target="_blank">Learn more on their website</a>.
           </p>
@@ -87,7 +87,7 @@
             <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
         </p>
-        <p class="col-3">
+        <p class="col-3-2">
         Learn more about {{sponsor.name}} <a href="{{ sponsor.link }}" target="_blank">on their website</a>.
         </p>
         {% endif %}
@@ -115,7 +115,7 @@
             <img src="/assets/images/sponsors/2019/{{sponsor.logo}}" alt="{{sponsor.name}} logo" title="{{sponsor.name}}">
           </a>
         </p>
-        <p class="col-3">
+        <p class="col-3-2">
         Learn more about {{sponsor.name}} <a href="{{ sponsor.link }}" target="_blank">on their website</a>.
         </p>
         {% endif %}
