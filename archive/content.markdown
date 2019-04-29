@@ -8,6 +8,12 @@ Now there's an event specifically designed to help generate excitement for new v
 
 ----
 
+## Game Devs of Color Expo on itch.io
+We have a growing library of games made by past developers and speakers.
+* Support the devs: [gdocexpo.itch.io](https://gdocexpo.itch.io/)
+
+----
+
 ## Game Devs of Color Expo 2018
 <!-- The 2017 Game Devs of Color Expo took place on July 14, 2018 in New York City. In this day-long event at the historic Schomburg Center, we held panels and talks, with an expo hall filled with unique games made by creators of color. Talks ranged from calls to action for creating games, discussions about the culture around games, the game development process, and experiences within the games industry as people from different backgrounds. -->
 
