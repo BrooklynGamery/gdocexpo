@@ -64,6 +64,13 @@
   logo: 'mozilla-logo-bw-rgb.png'
   link: https://www.mozilla.org/
   blurb: 'Mozilla creates people-centric web technologies for everyone.'
+  
+- name: 'Unity'
+  level: 'Friend'
+  logo: 'unity-master-black.png'
+  link: https://www.unity.com
+  blurb: 'Thank you, GDoCExpo! Unity's success is rooted in our community.'
+
    
 #  Community Sponsors ($1000+)
    
@@ -95,11 +102,6 @@
   blurb: 
    
    
-- name: 'Unity'
-  level: 'Community'
-  logo: 'unity-master-black.png'
-  link: https://www.unity.com
-  blurb: 
 
 - name: 'Code Liberation'
   level: 'Community'
