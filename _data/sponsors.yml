@@ -2,13 +2,13 @@
 #   level: 'Pearl'
 #   logo: 'logo-square.png'
 #   link: http://examplesponsor.com
-#   blurb: 'Example sponsor blurb.'
+#   blurb: "Example sponsor blurb."
 
 # - name: 'Example Silver Sponsor'
 #   level: 'Silver'
 #   logo: 'logo-square.png'
 #   link: http://examplesponsor.com
-#   blurb: 'Example sponsor blurb.'
+#   blurb: "Example sponsor blurb."
 
 # - name: 'Example Emeral Sponsor'
 #   level: 'Emerald'
@@ -21,7 +21,7 @@
   level: 'Collaborating'
   logo: 'xbox.png'
   link: https://www.kickstarter.com
-  blurb: 'Experience a new generation of games and entertainment with Xbox. The best games and entertainment on all of your devices. ' 
+  blurb: "Experience a new generation of games and entertainment with Xbox. The best games and entertainment on all of your devices." 
 
 #  Premium Sponsors ($5000+)   
 
@@ -29,31 +29,31 @@
   level: 'Premium'
   logo: 'kickstarter-logo-color.png'
   link: https://www.kickstarter.com
-  blurb: 'Kickstarter helps game developers, artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality.'
+  blurb: "Kickstarter helps game developers, artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality."
 
 - name: 'Humble'
   level: 'Premium'
   logo: 'humble-bundle-red-flat.png'
   link: https://www.humblebundle.com/
-  blurb: 'Humble Bundle sells games, ebooks, software, and other digital content. Our mission is to support charity while providing awesome content to customers at great prices.'
+  blurb: "Humble Bundle sells games, ebooks, software, and other digital content. Our mission is to support charity while providing awesome content to customers at great prices."
  
 - name: 'MailChimp'
   level: 'Premium'
   logo: 'Mailchimp_Logo-Horizontal_Black.png'
   link: https://mailchimp.com/
-  blurb: 'Mailchimp is an always-on marketing platform for small businesses. We make innovative, beautiful products that empower those businesses to find more customers.'
+  blurb: "Mailchimp is an always-on marketing platform for small businesses. We make innovative, beautiful products that empower those businesses to find more customers."
    
 - name: 'Nintendo'
   level: 'Premium'
   logo: 'NintendoOfficialLogo.jpg'
   link: https://www.nintendo.com
-  blurb: 'Join us in putting smiles on the faces of millions around the world. We’re welcoming, approachable and respectful – we’re Nintendo. All characters welcome!'
+  blurb: "Join us in putting smiles on the faces of millions around the world. We’re welcoming, approachable and respectful – we’re Nintendo. All characters welcome!"
 
 - name: 'Twilio'
   level: 'Premium'
   logo: 'twilio-logo-red.png'
   link: https://www.twilio.com
-  blurb: 'Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software.'
+  blurb: "Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software."
    
    
    
@@ -63,13 +63,13 @@
   level: 'Friend'
   logo: 'mozilla-logo-bw-rgb.png'
   link: https://www.mozilla.org/
-  blurb: 'Mozilla creates people-centric web technologies for everyone.'
+  blurb: "Mozilla creates people-centric web technologies for everyone."
   
 - name: 'Unity'
   level: 'Friend'
   logo: 'unity-master-black.png'
   link: https://www.unity.com
-  blurb: 'Thank you, GDoCExpo! Unity's success is rooted in our community.'
+  blurb: "Thank you, GDoCExpo! Unity's success is rooted in our community."
 
    
 #  Community Sponsors ($1000+)
