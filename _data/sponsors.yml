@@ -23,6 +23,13 @@
   link: https://www.kickstarter.com
   blurb: "Experience a new generation of games and entertainment with Xbox. The best games and entertainment on all of your devices." 
 
+- name: 'Nintendo'
+  level: 'Collaborating'
+  logo: 'NintendoOfficialLogo.jpg'
+  link: https://www.nintendo.com
+  blurb: "Join us in putting smiles on the faces of millions around the world. We’re welcoming, approachable and respectful – we’re Nintendo. All characters welcome!"
+
+
 #  Premium Sponsors ($5000+)   
 
 - name: 'Kickstarter'
@@ -43,12 +50,6 @@
   link: https://mailchimp.com/
   blurb: "Mailchimp is an always-on marketing platform for small businesses. We make innovative, beautiful products that empower those businesses to find more customers."
    
-- name: 'Nintendo'
-  level: 'Premium'
-  logo: 'NintendoOfficialLogo.jpg'
-  link: https://www.nintendo.com
-  blurb: "Join us in putting smiles on the faces of millions around the world. We’re welcoming, approachable and respectful – we’re Nintendo. All characters welcome!"
-
 - name: 'Twilio'
   level: 'Premium'
   logo: 'twilio-logo-red.png'
@@ -65,11 +66,19 @@
   link: https://www.mozilla.org/
   blurb: "Mozilla creates people-centric web technologies for everyone."
   
+- name: 'NYU Game Center'
+  level: 'Friend'
+  logo: 'nyu-game-center.jpg'
+  link: https://gamecenter.nyu.edu/
+  blurb: "Learn how to make video games at New York University."
+  
 - name: 'Unity'
   level: 'Friend'
   logo: 'unity-master-black.png'
   link: https://www.unity.com
   blurb: "Thank you, GDoCExpo! Unity's success is rooted in our community."
+  
+
 
    
 #  Community Sponsors ($1000+)
