@@ -28,6 +28,13 @@
   logo: 'NintendoOfficialLogo.jpg'
   link: https://www.nintendo.com
   blurb: "Join us in putting smiles on the faces of millions around the world. We’re welcoming, approachable and respectful – we’re Nintendo. All characters welcome!"
+  
+- name: 'Panic'
+  level: 'Collaborating'
+  logo: 'playdate.png'
+  link: https://play.date/dev
+  blurb: "Playdate is a brand-new handheld game system, shipping next year.  Our small, yellow console-with-a-crank is the perfect platform for indie games of all kinds, made by people of all kinds.  Sign up to be a developer today and let us help you tell your story!"
+
 
 
 #  Premium Sponsors ($5000+)   
