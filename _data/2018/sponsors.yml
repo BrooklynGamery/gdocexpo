@@ -1,0 +1,126 @@
+# - name: 'Example Pearl Sponsor'
+#   level: 'Pearl'
+#   logo: 'logo-square.png'
+#   link: http://examplesponsor.com
+#   blurb: "Example sponsor blurb."
+
+# - name: 'Example Silver Sponsor'
+#   level: 'Silver'
+#   logo: 'logo-square.png'
+#   link: http://examplesponsor.com
+#   blurb: "Example sponsor blurb."
+
+# - name: 'Example Emeral Sponsor'
+#   level: 'Emerald'
+#   logo: 'logo-square.png'
+#   link: http://examplesponsor.com
+
+#  Collaborating Sponsors ($10,000+)  
+
+- name: 'Xbox'
+  level: 'Collaborating'
+  logo: 'xbox.png'
+  link: https://www.kickstarter.com
+  blurb: "Experience a new generation of games and entertainment with Xbox. The best games and entertainment on all of your devices." 
+
+- name: 'Nintendo'
+  level: 'Collaborating'
+  logo: 'NintendoOfficialLogo.jpg'
+  link: https://www.nintendo.com
+  blurb: "Join us in putting smiles on the faces of millions around the world. We’re welcoming, approachable and respectful – we’re Nintendo. All characters welcome!"
+  
+- name: 'Panic'
+  level: 'Collaborating'
+  logo: 'playdate.PNG'
+  link: https://play.date/dev
+  blurb: "Playdate is a brand-new handheld game system, shipping next year.  Our small, yellow console-with-a-crank is the perfect platform for indie games of all kinds, made by people of all kinds.  Sign up to be a developer today and let us help you tell your story!"
+
+
+
+#  Premium Sponsors ($5000+)   
+
+- name: 'Kickstarter'
+  level: 'Premium'
+  logo: 'kickstarter-logo-color.png'
+  link: https://www.kickstarter.com
+  blurb: "Kickstarter helps game developers, artists, musicians, filmmakers, designers, and other creators find the resources and support they need to make their ideas a reality."
+
+- name: 'Humble'
+  level: 'Premium'
+  logo: 'humble-bundle-red-flat.png'
+  link: https://www.humblebundle.com/
+  blurb: "Humble Bundle sells games, ebooks, software, and other digital content. Our mission is to support charity while providing awesome content to customers at great prices."
+ 
+- name: 'MailChimp'
+  level: 'Premium'
+  logo: 'Mailchimp_Logo-Horizontal_Black.png'
+  link: https://mailchimp.com/
+  blurb: "Mailchimp is an always-on marketing platform for small businesses. We make innovative, beautiful products that empower those businesses to find more customers."
+   
+- name: 'Twilio'
+  level: 'Premium'
+  logo: 'twilio-logo-red.png'
+  link: https://www.twilio.com
+  blurb: "Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software."
+   
+   
+   
+#  Friend Sponsors ($2500+)   
+   
+- name: 'Mozilla'
+  level: 'Friend'
+  logo: 'mozilla-logo-bw-rgb.png'
+  link: https://www.mozilla.org/
+  blurb: "Mozilla creates people-centric web technologies for everyone."
+  
+- name: 'NYU Game Center'
+  level: 'Friend'
+  logo: 'nyu-game-center.jpg'
+  link: https://gamecenter.nyu.edu/
+  blurb: "Learn how to make video games at New York University."
+  
+- name: 'Unity'
+  level: 'Friend'
+  logo: 'unity-master-black.png'
+  link: https://www.unity.com
+  blurb: "Thank you, GDoCExpo! Unity's success is rooted in our community."
+  
+
+
+   
+#  Community Sponsors ($1000+)
+   
+- name: 'Brace Yourself Games'
+  level: 'Community'
+  logo: 'BYG-Brand-Full-Colour.png'
+  link: https://braceyourselfgames.com
+  blurb: 
+   
+- name: 'Codecademy'
+  level: 'Community'
+  logo: 'codecademy_logo_black.png'
+  link: http://www.gamesforchange.org
+  blurb: 
+   
+
+   
+- name: 'Games for Change'
+  level: 'Community'
+  logo: 'games-for-change.png'
+  link: http://www.gamesforchange.org
+  blurb: 
+   
+   
+- name: 'Maximum Crash'
+  level: 'Community'
+  logo: 'mxmcrash_logo.png'
+  link: https://rejontaylor.com
+  blurb: 
+   
+   
+
+- name: 'Code Liberation'
+  level: 'Community'
+  logo: 'code_liberation_wide.png'
+  link: http://codeliberation.org
+  blurb: 

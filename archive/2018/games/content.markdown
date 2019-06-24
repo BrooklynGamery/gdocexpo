@@ -1,12 +1,12 @@
 # {{page.title}}
 
-{% if site.data.games.size > 0 %}
+{% if site.data.2018.games.size > 0 %}
 
-Our arcade will host a variety of games from around the world. Below are {{site.data.games.size}} of the confirmed games you will be able to play when you attend the expo. More games are still being announced!
+Our 2018 arcade hosted a variety of games from around the world.
 
 
   <ul class="list-unstyled">
-    {% assign sorted_games = site.data.games | sort:"title" %}
+    {% assign sorted_games = site.data.2018.games | sort:"title" %}
     {% for game in sorted_games %}
     <li class="list-data col-container">
       <div class="col-3">
