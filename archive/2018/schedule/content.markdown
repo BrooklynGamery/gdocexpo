@@ -1,7 +1,7 @@
 # {{page.title}}
 All times in EST
 <ul class="list-unstyled">
-  {% for talk in site.data.talks %}
+  {% for talk in site.data.2018.talks %}
   <li class="list-data">
     <div class="list-data-header">
       <span class="list-data-time">{{talk.time}}</span>
