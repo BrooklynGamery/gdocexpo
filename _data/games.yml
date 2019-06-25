@@ -128,25 +128,25 @@
   description: "World of Ether is a decentralized crypto collectible video game on the Ethereum blockchain. Players can breed, battle and sell digital monsters."
   image: WorldOfEther.png
   
-#- title: Operation Kanshi
-#  team: Amanda Siswojo & Emperatriz Ung
-#  link: http://www.operationkanshi.com
-#  description: "November 1949. The Kanshi Party just won the Mihong Civil War. Taomin Party members fled east to Mareu Island. Major hostilities between the two parties has ceased. 
-#
-#  Your assignment as an Intel Operative is to take encrypted orders from your commanding officer via radio transmission and wiretap phone lines for the Ministry of Order & Stability. Follow the case of Vera & Poppy Song as the sisters find themselves aligned with opposing political parties after the war."
-#  image: OperationKanshi.png
+- title: Operation Kanshi
+  team: Amanda Siswojo And Emperatriz Ung
+  link: http://www.operationkanshi.com
+  description: "November 1949. The Kanshi Party just won the Mihong Civil War. Taomin Party members fled east to Mareu Island. Major hostilities between the two parties has ceased. 
+
+  Your assignment as an Intel Operative is to take encrypted orders from your commanding officer via radio transmission and wiretap phone lines for the Ministry of Order & Stability. Follow the case of Vera & Poppy Song as the sisters find themselves aligned with opposing political parties after the war."
+  image: OperationKanshi.png
    
-#- title: Phantom
-#  team: Temitope Olujobi & Rachel Moeller
-#  link: 
-#  description: "Phantom is a sinister, comedic single player 3D exploration puzzle game for PC and console. You play as the ghost of a former actor haunting the theatre you died in. As a ghost, you have no physical form to walk around in. Instead, you must exact your revenge on the cast and crew responsible for your death by possessing props and objects backstage. Wield the items you inhabit to kill your targets in unique puzzles."
-#  image: Phantom.png
+- title: Phantom
+  team: Temitope Olujobi And Rachel Moeller
+  link: 
+  description: "Phantom is a sinister, comedic single player 3D exploration puzzle game for PC and console. You play as the ghost of a former actor haunting the theatre you died in. As a ghost, you have no physical form to walk around in. Instead, you must exact your revenge on the cast and crew responsible for your death by possessing props and objects backstage. Wield the items you inhabit to kill your targets in unique puzzles."
+  image: Phantom.png
    
-#- title: We Should Talk
-#  team: Team We Should Talk
-#  link: http://weshouldtalkgame.com
-#  description: "We Should Talk is a narrative game in which players choose how to handle a failing relationship. Through in-person conversations with patrons at a favorite bar and text conversations with their partner, players make conversational choices that lead to one of several possible relationship outcomes by the end the night. A unique combinatorial choice mechanic gives players the freedom to express themselves and engage in nuanced conversations about life, love, and relationships."
-#  image: WeShouldTalk.png
+- title: We Should Talk
+  team: Team We Should Talk
+  link: http://weshouldtalkgame.com
+  description: "We Should Talk is a narrative game in which players choose how to handle a failing relationship. Through in-person conversations with patrons at a favorite bar and text conversations with their partner, players make conversational choices that lead to one of several possible relationship outcomes by the end the night. A unique combinatorial choice mechanic gives players the freedom to express themselves and engage in nuanced conversations about life, love, and relationships."
+  image: WeShouldTalk.png
    
 #- title: Mim
 #  team: Team Mim
