@@ -10,14 +10,23 @@ Our arcade will host a variety of games from around the world. Below are {{site.
     {% for game in sorted_games %}
     <li class="list-data col-container">
       <div class="col-3">
-        <a href="{{game.link}}" target="_blank">
-          <img src="/assets/images/games/2018/{{game.image}}" class="list-data-photo">
-        </a>
+{% if game.link %}
+	  <a href="{{game.link}}" target="_blank">
+  {% endif%}      
+		<img src="/assets/images/games/2019/{{game.image}}" class="list-data-photo">
+        
+		{% if game.link %}
+		</a>
+		{% endif game.link %}
       </div>
       <div class="col-3-2">
-        <a href="{{game.link}}" target="_blank">
+{% if game.link %}
+	  <a href="{{game.link}}" target="_blank">
+  {% endif%} 
           <h2 class="list-data-title">{{game.title}}</h2>
+		  {% if game.link %}
         </a>
+		{% endif game.link %}
         <h3 class="list-data-title">{{game.team}}</h3>
         {% if game.description %}
         <p class="list-data-description text-smaller">{{ game.description }}</p>
@@ -47,7 +56,7 @@ Want to do more? [Sponsor the event.](/sponsor)
     <li class="list-data col-container">
       <div class="col-3">
         <a href="{{booth.link}}" target="_blank">
-          <img src="/assets/images/sponsors/2018/{{booth.image}}" class="list-data-photo">
+          <img src="/assets/images/sponsors/2019/{{booth.image}}" class="list-data-photo">
         </a>
       </div>
       <div class="col-3-2">

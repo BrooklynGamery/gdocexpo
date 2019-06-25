@@ -18,7 +18,7 @@ All times in EST
       {% for speaker in talk.speakers %}
         <li class="{% if speaker.featured == false %}col-3{% else %}col-container{% endif %}">
           <div class="{% if speaker.featured == true %}col-3{% endif %}">
-            {% if speaker.photo %}<img src="/assets/images/speakers/2018/{{speaker.photo}}" class="list-data-photo">{% endif %}
+            {% if speaker.photo %}<img src="/assets/images/speakers/2019/{{speaker.photo}}" class="list-data-photo">{% endif %}
           </div>
           <div class="{% if speaker.featured == true %} col-3-2{% endif %}">
             <h4>{{ speaker.name }}</h4>

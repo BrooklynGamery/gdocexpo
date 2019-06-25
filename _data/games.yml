@@ -1,173 +1,161 @@
- - title: After HOURS
-   team: Bahiyya Khan
-   link: https://bahiyya.itch.io
-   description: "after HOURS is a vignette, FMV game, that allows players a glimpse into the life of Lilith Gray – a young woman who was molested as a child and suffers from Borderline Personality Disorder as a result. By spending a night alone with Lilith in her bedroom and subsequently, her head, players learn Lilith’s story by adopting a double gaze: that of the player witnessing Lilith’s story and piecing together why she behaves and responds as she does and to an extent, the gaze of Lilith herself. This is achieved by having access to the voices in her head and the thoughts that respond to those voices. Hand drawn animations over the film serve to provide a more visceral experience of the game."
-   image: afterHours.png
-
- - title: Becker Derby
-   team: Maximum Crash
-   link: http://maximumcrash.com/beckerderby
-   description: Becker Derby is an intergalatic one touch homerun derby to go featuring Becker College's one and only Hank the Hawk. Players are tasked with enduring gravity bent pitches, crowds of SEEGull agents, and fighting against a dark dimensional force only known as the Void. 
-   image: BeckerDerby.png
-
- - title: Belle Tower
-   team: Red Limes Games
-   link: https://redlimesgames.itch.io/belle-tower
-   description: Once upon a time... There lived a dragon. It was very strong but very lonely. To rid itself of loneliness, the dragon kidnapped a single Prince from a neighboring kingdom and held him in a tower. This prince gave the Dragon great happiness and in time became its most guarded treasure. Although the Prince was miserable and although the dragon did not like this misery, it couldn't help itself from wanting more treasures. So it took another prince. And another. The land can no longer turn a blind eye, and three princesses from bystander kingdoms have left on a quest to retrieve the lost Princes. Now the dragon must find a way to protect its hoard...
-   image: BelleTower.png
+- title: Can Androids Pray
+  team: "Xalavier Nelson Jr., Natalie Clayton, and Priscilla Snow"
+  link: 
+  description: "Can Androids Pray is a shortform narrative game about angry femme mechs at the end of the world, and God. Coming Fall 2019! 
+  CW: Suicide"
+  image: CanAndroidsPray.png
+   
+- title: Chaos Tavern
+  team: DragonBear Studios
+  link: https://chaostavern.com/
+  description: "Can you survive running a magical tavern in a fantasy world? Play as four underdog adventurers as they race to pay off their mortgage and break the curse of an enchanted tavern. This couch co-op adventure is about communicating with your friends as you cook food, serve potions and pacify monsters.  
+  Designed for accessible play, our game is a great social activity to bring people together, stimulate teamwork, create dialogue and master new skills in a mysterious and enchanting world."
+  image: ChaosTavern.png
+   
+- title: Chrono Ghost
+  team: Kelly Thomas Davis
+  link: http://www.nitetimestudios.com
+  description: "You are the Chrono Ghost, you must progress through challenging levels using your newly acquired abilities. As you progress, your adventure becomes considerably more demanding. There are many secrets to discover on your journey. Go forth and find them. hurry, time is running out!"
+  image: ChronoGhost.png
+   
+- title: Fallen Angel
+  team: Matrioshka Games
+  link: http://matrioshkagames.com/
+  description: "Fallen Angel is an Hack and Slash RPG in which you take the role of Lucifer and explore a twisted version of heaven. Find and defeat the Archangels who banished you from the realm of the divine."
+  image: FallenAngel.png
+   
+- title: FictionSphere
+  team: Team Einherjar 
+  link: https://www.teameinherjar.net
+  description: "FictionSphere is a 2-D Technical Pl​atformer, an action game that will test your reactions, dexterity, timing, and how stylish you can be. Combining various classic mechanics from arcade games, platformers, and light RPG systems , a new adventure awaits to test your skill."
+  image: FictionSphere.webp
   
- - title: Boyfriend Dungeon
-   team: Kitfox Games
-   link: http://www.boyfrienddungeon.com/
-   description: Romance your swords! Capture the hearts of weapons to level them up in this “shack-and-slash” dungeon crawling adventure.
-   image: BoyfriendDungeon.jpg
-
- - title: Catacomb Kids
-   team: FourbitFriday
-   link: https://www.ckgame.net
-   description: A very roguelike platformer based on emergent interactions and quick thinking.
-   image: CatacombKids.png
-
- - title: Cede
-   team: BareHand
-   link: https://barehand.co
-   description: Cede is an Action RPG modernized by a unique mechanic called "Combat Farming". Enter Wastelands, burst monsters into seeds becoming vegetation, nurture sprouts into combative vegetation, and farm these defender or supporter plants to lead your team into victory against swarms of enemies.
-   image: Cede.png
-
- - title: Code Romantic
-   team: Pretty Smart Games
-   link: http://www.coderomantic.com
-   description: "Code Romantic is a computer science puzzle game wrapped in a sci-fi love story. Join the Human Defense Department's last ditch effort to save the world by: teaching the brightest students in the nation how to hack and scramble the brains of the enemy. Follow the journey of Mina Lovelace as she seeks to prove herself worthy of following in her mother's footsteps, and tries not to embarrass herself in front of her childhood crush in the process! No prior programming experience is necessary; we use real code to teach you roughly the equivalent of an entry level computer science course."
-   image: Romantic1-8.gif
-
- - title: Discord Duels
-   team: Jamal Woods
-   link: https://discordbots.org/bot/292789588399751168
-   description: Discord Duels is a text based Massively Multiplayer Online Role-playing Game that you can play straight from the comfort of your own discord server. 
-   image: DiscordDuels.png
-
- - title: Doodle Studio 95
-   team: Fernando Ramallo
-   link: https://fernandoramallo.itch.io/doodle-studio-95
-   description: DOODLE STUDIO 95 is a FUN drawing and animation tool for Unity. Doodle an animation without leaving the Editor and turn your drawings into sprites, UI elements, particles or textures, with a single click.
-   image: DoodleStudio95.gif
+- title: Half
+  team: Emma Kidwell
+  link: https://emmkid.itch.io/half
+  description: '"Half" is a series of vignettes detailing the experience of being on the fringe of two identities and the invisible toll it takes. Pulled from memories both good and bad, the game is a love letter to all mixed-race folks who always felt a little out of place.'
+  image: Half.jpg
    
- - title: EXPOSURE, a game of camouflage
-   team: The Sheep's Meow
-   link: https://www.thesheepsmeow.com/games/exposure
-   description: "You are a tiny creature in a dangerous world. Lead your defenseless children to safety. Adapt to new predators each level … until you evolve into a different species. Survive in an evolving environment by morphing between light & dark forms to camouflage from your predators. But be careful: you won’t be able to see yourself either. Lose the ability to see where you are, and learn to feel & know where you’re going."
-   image: EXPOSURE.gif
-
- - title: Final Spike
-   team: Sean Heron
-   link: http://seanheron.weebly.com
-   description: Final Spike is a two-player local multiplayer game based on a classic staple of the Summer Olympic Games--beach volleyball. Players compete against each other to see who can score the most points, using sets, slides, spikes, fastfalls, and the powerful Final Spike technique to take whatever advantage they can get to win!
-   image: FinalSpike.png
-
- - title: Here's How It Happened
-   team: Team Murder Squad
-   link: https://www.ceschiii.com/heres-how-it-happened
-   description: Here's How It Happened is a social, storytelling card game in which a group of friends have been accused of murder! Tell the most convincing cover up story to prove yourself innocent by any means necessary, even if it means throwing your friends under the bus! But you would never ACTUALLY throw someone under a bus, because you're not a murderer..... right?
-   image: HeresHowItHappened.png
-
- - title: Museum Multiverse VR
-   team: Made in Brooklyn Games
-   link: http://hessvacio.com/pages/museummultiverse.html
-   description: Museum Multiverse is a virtual reality puzzle platformer. This 3rd person experience chronicles the adventures of a child that has mysteriously awoken in an abandoned museum. He must traverse the various worlds that exist within the art pieces within the depths of the cursed museum in order to find a way to escape. The museum has been abandoned and sealed off, a microcosm of society's diminished view of minority artists, and history's selective amnesia toward contributions of people of color.
-   image: MuseumMultiverseVR.png
-
- - title: Neon Krieger Yamato
-   team: LIONPLEX
-   link: http://lionplex.net
-   description: Relive the arcade era! Select from 8 unique characters and brawl your way to victory in Neon Krieger Yamato - solo or with a friend!  A genre mashup of Japanese 90s gaming, its goal is to capture a mix of stylish combos, sidescrolling action, and twitch combat puzzles, presented in a pixel art cyberpunk world harkening to the days of 16 bit. 
-   image: NeonKriegerYamato.gif
-
- - title: NYU Game Center, A Memoir Blue
-   team: Shelley Chen and Kevin Zeng
-   link: https://memoirblue.weebly.com
-   description: "A Memoir Blue is a single player magical realist narrative told through the transformative movement of water. Players solve dreamlike click-and-drag interactions that bend reality as they help Miriam relive a mysterious journey she took with her mother and uncover emotions long buried beneath the shifting waves of time."
-   image: AMemoirBlue.PNG
-
- - title: NYU Game Center, Anyball
-   team: Anyone
-   link: https://www.anyball.info/
-   description: "Inspired by games kids make up on the fly, Anyball is a multiplayer game about procedurally generated sports. Each round is made of random rules that are created and combined together. Every rule draws from a huge pool of sports and toy objects which are used in the competition. Players know that they have to score points but not necessarily how to, so the main activity is exploring the rules and figuring out the objectives."
-   image: Anyball.png
+- title: HyperDot
+  team: "Charles McGregor // Tribe Games"
+  link: https://www.hyperdotgame.com 
+  description: "Dodge Everything. HyperDot is an action arcade game rooted in minimalist design, maximum challenge, and infinite flexibility. Evade enemies and test your skills in over 100 trials in the campaign mode, outlast your friends in multiplayer battles, or build custom challenges with the level editor."
+  image: HyperDot.jpg
    
- - title: NYU Game Center, Omino
-   team: Ben Costrell, Chris Williams, Edanur Kuntman, Jack Schlesinger
-   link: https://gamecenter.nyu.edu/projects/omino/
-   description: "Omino is a digital board game that delivers a condensed and potent strategy game experience in 4 minutes. In Omino players place tetrominoes to pave their way across the map using them to claim territory, defend, boost their economies, or all three at once!"
-   image: Omino.PNG
-
- - title: NYU Game Center, Stress Express
-   team: Pornsima Duangratana
-   link: http://stressexpress.company/
-   description: "Stress Express is a humorous party game that mimics a busy, overworked, and overwhelmed modern lifestyle. It’s a 2 to 8 players game where players compete with each other to complete the most tasks while laughing upon the absurdity of a chaotic life."
-   image: StressExpress.PNG
+- title: Portal Tamers
+  team: SkyReach Studio
+  link: https://www.portaltamers.com
+  description: "Portal Tamers is a fantasy adventure RPG that follows a naive and innocent farm girl named Luna on a journey to save her world from the evil corruption of the dark force named “The Abyss”. Using the powers given to her by a mysterious being she can summon creatures from the portal realms to be her allies in the battle against this great evil. Adventure awaits, only with the power of the Tamer can you stop the abyss, it is your destiny."
+  image: PortalTamers.jpg
    
- - title: Objectif
-   team: A.M. Darke
-   link: https://objectifgame.com/
-   description: Objectif is a social game that facilitates dialogue about the relationship between race, gender, and standards of beauty. Each round, players compete to place the most attractive card according to a judge. The judge must explain their reason for choosing one person over the others, giving players an opportunity to influence, argue, and persuade their way to victory. Objectif is a response to the Psychology Today article “Why Black Women Are Less Physically Attractive Than Other Races?"
-   image: Objectif.jpg
-
- - title: Robot Island Prologue
-   team: New Beings
-   link: http://newbeings.com/robotisland  
-   description: "Robot Island Prologue is a narrative-driven game where you play as a robotic flight attendant on an interstellar transport, meeting your newly assigned pilot for the very first time. Together, you go on a lonely mission to a distant planet."
-   image: RobotIsland.PNG
+- title: Pre-Shave
+  team: Saam Pahlavan
+  link: https://saampahlavan.itch.io/pre-shave
+  description: "Pre-Shave is a quirky personal game about dealing with the physical anxieties that come with being a brown man. Oh also lots of body hair...like a lot."
+  image: PreShave.png
    
- - title: Saturday Morning Games - The Card Game
-   team: Saturday Morning Games
-   link: https://www.saturdaymorninggames.com/
-   description: Saturday Morning Games is a battle card game based off of popular Saturday Morning Cartoons! Fight over random weapons, with popular characters from multiple shows and conquer your opponent by winning all of their bowls of cereal!
-   image: SaturdayMorningGames.png
-
- - title: Skate <span class="text-symbol">&</span> Date
-   team: Gensuta
-   link: https://gensuta.itch.io/skate-and-date-
-   description: Skate and Date is a roller derby rhythm ga(y)me where your rhythm game stats can affect the story.
-   image: SkateDate.jpg
+- title: Queering Spacetime
+  team: Joyce Lin
+  link: https://jowlin.wixsite.com/queeringspacetime
+  description: "In Queering Spacetime, roleplay girls with big queer crushes on each other, destined lovers across the whole of space and time. Create a series of enjoyable dates in the slightly magical in-between spaces of life, like a playground in full moonlight"
+  image: QueeringSpacetime.jpg_large
    
- - title: So obscure;
-   team: STARDUST★SODA
-   link: https://stardust-soda.itch.io/so-obscure
-   description: "Share your hopes, insecurities, and favourite albums as you navigate an online friendship between two teenagers living in 2005 Hong Kong. so obscure; is a visual novel about high school, cultural identity, and honesty, played through a series of chat conversations."
-   image: soObscure.gif
-
- - title: Solace State
-   team: Vivid Foundry
-   link: http://www.solacestategame.com
-   description: Solace State is a 3D visual novel set in near-future surveillance state, where hacking identities can mean the difference between unifying resistance or enacting reluctant acceptance of an unjust fate. As Chloe, an activist whose hacking affects psychological perception, the player reads story text that is embedded into the 3D environment, negotiate and engage with characters, and make choices that impact the game’s final outcome. From nebulous secrets to coming-of-age friendships and romances, there are no easy answers on the path to build hope and righting past wounds.
-   image: SolaceState.jpg
-
- - title: SwimSanity!
-   team: Decoy Games
-   link:  http://www.decoygames.com
-   description: SwimSanity! is a 4-player, underwater party shooter that allows you to control a Mooba, an aquatic hero. Moobas can use a variety of different power ups and weapons but most importantly when fully powered up they can “Unleash SwimSanity” - a powerful super move with devastating effects. 
-   image: Swimsanity.png  
+- title: Rap Godz
+  team: Omari Akil
+  link: http://www.rapgodzboardgame.com
+  description: "Rap Godz is a modern board game that puts you in the role of an up and coming hip-hop artist on your path to greatness. The gameplay is a mix of strategy and storytelling as you play cards that represent events in your emcee's career and life. You have three albums to prove your self as you up your swag, build your skills, earn street cred, start beef, grab goals, and takeover cities. "
+  image: RapGodz.png
    
- - title: The Last Stop
-   team: ota <span class="text-symbol">&</span> z04
-   link: http://thelaststop.tumblr.com
-   description: The Last Stop is a Chinese-Filipino inspired Point <span class="text-symbol">&</span> Click 2D Adventure Game  about a college student, Christopher “Kit” Chen. After a quick nap on the train, Kit finds himself stranded on Orez Island with no money to get back home. Luckily, the island is populated with some unique residents…
-   image: TheLastStop.png
+- title: Robot Slow Dance
+  team: Squinky
+  link: https://squinky.me/2019/03/14/robot-slow-dance/
+  description: "A two-player animatronic diorama game contained entirely inside of a briefcase. Players control a pair of robots who, rather than fighting, dance with and talk to each other, in an exploration of awkwardness, intimacy, and queer relationships."
+  image: RobotSlowDance.png
+   
+- title: Salamender
+  team: Izel Moctezuma
+  link: http://www.izelmoctezuma.com/salamender
+  description: "Grab a friend and get cooking in this whimsical VR/PC co-op game! With only La Tia's old recipe book and some hints from her trusty pet grub Basurita to guide you, work together to harness the magic of the land and heal people's souls with your delicious empanadas. Will your baking live up to the family name or will chaos reign supreme?"
+  image: Salamender.jpg
+   
+- title: Sashimi Slammers
+  team: Furious Fish Friends
+  link: https://zmackerel.itch.io/sashimi-slammers
+  description: "Sashimi Slammers is an alternative controller game where fish are destined to die, duke it out to see who is more honorable. Two players slam on plastic fish controllers which control what two fish do on screen, they try to push their opponent into the deep fryer before they can get pushed in themselves."
+  image: SashimiSlammers.png
+   
+- title: Saturday Morning Games
+  team: Plausible Studio
+  link: https://www.plausible.studio/
+  description: "Saturday Morning Games is a battle table-top game based off of popular Saturday Morning Cartoons! Fight over random weapons, with popular characters from multiple shows and conquer your opponent by winning all of their bowls of cereal!"
+  image: SaturdayMorningGames.jpg
+   
+- title: She Dreams Elsewhere
+  team: Studio Zevere
+  link: https://studiozevere.com/
+  description: "SHE DREAMS ELSEWHERE is a surreal adventure RPG about dreams and the extent to which they mirror reality. You are Thalia Sullivan, a high strung, anxiety-ridden, comatose woman on a journey to defeat the nightmares preventing her awakening all while finding out how exactly this mess happened in the first place. Unfortunately, some nightmares are harder to confront than others…"
+  image: SheDreamsElsewhere.png
+   
+- title: "Skate And Date"
+  team: Gensuta
+  link: https://gensuta.itch.io/skate-and-date
+  description: "Skate & Date is a roller derby rhythm ga(y)me where you play as Maggie, the lead jammer of the Rockin Rollergirls!
+  She has a bit of a crush on Patricia – one of the opponents on the rival team.
+  Your objective: to impress her with your sick roller derby skills!"
+  image: SkateAndDate.png
+   
+- title: SweetXheart
+  team: Catt Small
+  link: https://cattsmall.itch.io/sweetxheart
+  description: "Can you get through a week in the life of a modern black woman? SweetXheart (pronounced “sweetheart”) is a slice-of-life visual novel about microagressions, race, and gender. The game shares creative technologist Catt Small's perspective on being a Black woman seeking success in life, school, and her career. Players act as Kara, a 19-year-old girl from the Bronx who attends an art college and interns at a tech company."
+  image: SweetXHeart.png
+   
+- title: Swimsanity!
+  team: Decoy Games
+  link: http://www.decoygames.com
+  description: "Swimsanity! is a multiplayer underwater shooter with action-packed Co-Op and Versus game modes, all supported by online and local play. You play as our hero Mooba, who uses a variety of unique power ups and weapons to survive in this aquatic world."
+  image: Swimsanity.png
+   
+- title: The Lighthouse
+  team: Shadow Knights Studio
+  link: https://www.thelighthousegame.com/
+  description: "The Lighthouse is a uniquely crafted thriller with glimpses into psychotic, alternate dimensions. Private Investigator James Irvine finds himself lured into a haunting, neo-noir world in search of a missing young woman, named Lily Beaumont. Traverse the abandoned property of Maine’s wealthiest family, the Wescotts, as you search for the truth."
+  image: TheLighthouse.jpg
 
- - title: The Ultimate Clap Back 
-   team: Mot <span class="text-symbol">&</span> Dot LLC
-   link: http://www.theultimateclapback.com
-   description: The Ultimate Clap Back is a fast-paced game of wordplay.  With just the right amount of sarcasm, snark, and shade, this game is bound to shock and keep you laughing for hours!
-   image: TheUltimateClapBack.png
-
- - title: Xob
-   team: MrTedders
-   link: https://mrtedders.itch.io/xob
-   description: Xob is a puzzle game about being a box. It rocks and sometimes it talks. Occasionally to an ox but mostly to a fox.
-   image: Xob.png
-
- - title: Zarvot
-   team: snowhydra games
-   link: http://snowhydra.com
-   description: A charming arcade shooter about cubes going banana picking.
-   image: Zarvot.png
+- title: World of Ether
+  team: Solidity Studios
+  link: https://worldofether.com
+  description: "World of Ether is a decentralized crypto collectible video game on the Ethereum blockchain. Players can breed, battle and sell digital monsters."
+  image: WorldOfEther.png
+  
+#- title: Operation Kanshi
+#  team: Amanda Siswojo & Emperatriz Ung
+#  link: http://www.operationkanshi.com
+#  description: "November 1949. The Kanshi Party just won the Mihong Civil War. Taomin Party members fled east to Mareu Island. Major hostilities between the two parties has ceased. 
+#
+#  Your assignment as an Intel Operative is to take encrypted orders from your commanding officer via radio transmission and wiretap phone lines for the Ministry of Order & Stability. Follow the case of Vera & Poppy Song as the sisters find themselves aligned with opposing political parties after the war."
+#  image: OperationKanshi.png
+   
+#- title: Phantom
+#  team: Temitope Olujobi & Rachel Moeller
+#  link: 
+#  description: "Phantom is a sinister, comedic single player 3D exploration puzzle game for PC and console. You play as the ghost of a former actor haunting the theatre you died in. As a ghost, you have no physical form to walk around in. Instead, you must exact your revenge on the cast and crew responsible for your death by possessing props and objects backstage. Wield the items you inhabit to kill your targets in unique puzzles."
+#  image: Phantom.png
+   
+#- title: We Should Talk
+#  team: Team We Should Talk
+#  link: http://weshouldtalkgame.com
+#  description: "We Should Talk is a narrative game in which players choose how to handle a failing relationship. Through in-person conversations with patrons at a favorite bar and text conversations with their partner, players make conversational choices that lead to one of several possible relationship outcomes by the end the night. A unique combinatorial choice mechanic gives players the freedom to express themselves and engage in nuanced conversations about life, love, and relationships."
+#  image: WeShouldTalk.png
+   
+#- title: Mim
+#  team: Team Mim
+#  link: http://savemim.com
+#  description: "Mim is a 2D adventure platformer game where a young lost seedling journeys through a dark, mystical underground world to find her mother with the use of the the magical light of Mim’s first leaves."
+#  image: Mim.png
+   
+#- title: Yumi's Home
+#  team: Amanda E. Siswojo, Emperatriz Ung, Maria Mishurenko, Poe Sriwatanathamma, Shak'ar Mujukian, Xiaoxun Yu
+#  link: https://ung.itch.io/yumis-home
+#  description: "Yumi’s Home is a first person 2D narrative game about depression, familial obligation, and isolation. Poetic text and visuals give players insight to Yumi’s mood and emotions as they change over time."
+#  image: YumisHome.png
