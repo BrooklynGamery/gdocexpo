@@ -1,0 +1,12 @@
+---
+layout: default
+title: Speakers
+excerpt: "Learn more about this year's speakers and panelists!"
+thumbnail: logo-square-schedule.png
+---
+<section class="content-container">
+  <article class="entry">
+    {% capture my-include %}{% include_relative content.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+  </article>
+</section>
