@@ -1,5 +1,9 @@
 # {{page.title}}
 
+
+<img src="/assets/images/games/2019/games_header.jpg"/>
+
+
 {% if site.data.games.size > 0 %}
 
 Our arcade will host a variety of games from around the world. Below are {{site.data.games.size}} of the confirmed games you will be able to play when you attend the expo. More games are still being announced!

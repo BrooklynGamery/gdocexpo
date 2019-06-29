@@ -144,15 +144,10 @@
   time: 5:05PM
   description: "In this session, three game developers will share their thoughts about a variety of topics:
   <ul>
-  <li>An Unconventional Path to Game Dev</li>
   <li>Unicorn Game Design: Embracing the Experimental and Unlikely.</li>
   <li>Portraying personal experiences through Systems</li>
   </ul>"
   speakers:
-    - name: "Elie Abraham"
-      photo: ElieAbraham.jpg
-      bio: "Elie Abraham is a queer activist, stand-up comedian, games writer, and audio developer who holds the world record for number of games soundtracked at a single game jam. They host the first and only live game dev stand-up comedy show “Funny = TRUE,” were awarded the 2018 Jamtivist by the Finnish Game Jam organization, and DJ game events under the name Meduusa."
-      featured: true
     - name: Ashley Christman
       photo: AshleyChristman.png
       bio: "With a background in healthcare and quality, Ashley seemed an unlikely partner for a game developer. But her passion for games makes it a perfect match. When not creating games, she can be found playing them (with a preference for simulator type games) with her husband, reading a prolific amount of books, or running after a toddler with incredible speed (the toddler, not her). 
@@ -177,5 +172,5 @@
   description: "<br/><br/>"
 
 - title: Afterparty TBD
-  time: 7:00PM - 11:00PM
+  time: 7:00PM
   description:

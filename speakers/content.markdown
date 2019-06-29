@@ -1,4 +1,7 @@
 # {{page.title}}
+
+<img src="/assets/images/speakers/2019/speakers_header.png"/>
+
 All times in EST
 <ul class="list-unstyled">
   {% for talk in site.data.talks %}
