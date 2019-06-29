@@ -1,7 +1,7 @@
 # {{page.title}}
 
 
-<img src="/assets/images/speakers/2019/speakers_header.png"/>
+<img src="/assets/images/speakers/2019/speakers_header.jpg"/>
 
 
 All times in EST

@@ -26,7 +26,7 @@ In the expo hall, be prepared to play <strong>20+ titles</strong> including the 
 
 <h1>Speakers and Panels</h1>
 
-<img src="/assets/images/speakers/2019/speakers_header.png"/>
+<img src="/assets/images/speakers/2019/speakers_header.jpg"/>
 
 One of our marquee panels <strong>"Hip Hop and Video Games"</strong> features 3 amazing rappers - <strong>Open Mike Eagle, co-host of The New Negroes on Comedy Central</strong>, Sammus, and Mega Ran, in discussion with 2 game developers, Davionne Gooden and Shawn Alexander Allen. Together, they will explore the complicated relationship between the two art forms over their parallel growth.
 
