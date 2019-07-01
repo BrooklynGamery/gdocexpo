@@ -20,7 +20,7 @@ Giving developers of color the space to speak about anything but their own margi
 
 In the expo hall, be prepared to play <strong>20+ titles</strong> including the super stylish <strong>HyperDot</strong> which was just featured as part of the Xbox Experience at E3, <strong>Sashimi Slammers</strong>, a fish fighting game where the controller is literally a fish (can't make this stuff up,) and <strong>Can Androids Pray</strong>, a shortform narrative game about angry femme mechs at the end of the world. 
 
-<a class="page-link" href="/schedule">View our full list of talks and panels</a>
+<a class="page-link" href="/games">View our full list of games</a>
 
 ----
 
@@ -30,7 +30,7 @@ In the expo hall, be prepared to play <strong>20+ titles</strong> including the 
 
 One of our marquee panels <strong>"Hip Hop and Video Games"</strong> features 3 amazing rappers - <strong>Open Mike Eagle, co-host of The New Negroes on Comedy Central</strong>, Sammus, and Mega Ran, in discussion with 2 game developers, Davionne Gooden and Shawn Alexander Allen. Together, they will explore the complicated relationship between the two art forms over their parallel growth.
 
-<a class="page-link" href="/games">View our full list of games</a>
+<a class="page-link" href="/schedule">View our full list of talks and panels</a>
 
 ----
 
