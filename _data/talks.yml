@@ -143,8 +143,9 @@
   time: 5:05PM
   description: "In this session, three game developers will share their thoughts about a variety of topics:
   <ul>
-  <li>Unicorn Game Design: Embracing the Experimental and Unlikely.</li>
+  <li>Unicorn Game Design: Embracing the Experimental and Unlikely</li>
   <li>Portraying personal experiences through Systems</li>
+  <li>Designing and Building an Emotionally Impactful Web Game</li>
   </ul>"
   speakers:
     - name: Ashley Christman
@@ -155,6 +156,10 @@
     - name: "Ben Wilson"
       photo: Ben Wilson.jpeg
       bio: "Ben Wilson is a game developer based in the UK, currently working at Sumo Digital. He also makes small non-commercial games exploring themes of dyspraxia, and co-organizes the biannual Idle Thumbs community game jam. He’s currently thinking a lot about the concept of games as expressive systems."
+      featured: true
+    - name: "Catt Small"
+      photo: CattSmall.jpg
+      bio: "Catt is a product designer, game maker, and developer. She is currently making awesome things at Etsy. She started programming interactive games around the age of 10 and has been going ever since. In her spare time, Catt makes video games with Brooklyn Gamery, writes, and draws comics. She is also an editorial board member for Rosenfeld Media. You can follow her @cattsmall on Twitter and view her work at www.cattsmall.com."
       featured: true
 
 - title: Closing message
