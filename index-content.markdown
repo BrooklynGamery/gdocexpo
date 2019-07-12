@@ -4,7 +4,13 @@ Game Devs of Color Expo returns to the Schomburg Center in Harlem, New York on J
 
 Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and conference creating a new normal in games by putting creators of color at the forefront, showing off their games, building conversations, and pushing games forward as an artform. [#GDoCExpo](https://twitter.com/GDoCExpo) 
 
-<center><a href="https://gamedevsofcolorexpo.com/tickets/" class="btn">Get your tickets today!</a></center>
+<center><a href="https://gamedevsofcolorexpo.com/tickets/" class="btn">Get your tickets today!</a>
+<br />
+<br />
+Are you a member of the press, influencer, or a Twitch / YouTube content creator?<br />
+<a href="http://bit.ly/gdoc19pressapp" target="_blank"> Apply for your Press Pass!</a>
+
+</center>
 
 ---
 
