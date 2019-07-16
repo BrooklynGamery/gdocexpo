@@ -147,19 +147,19 @@
   image: WeShouldTalk.png
   
 - title: Despelote
-  team: "Julian Cordero and Sebastian Velbuena"
+  team: "Julián Cordero & Sebastián Velbuena"
   link: https://solimporta.com/despelote
   description: "‘despelote’ is a single player, first person, semi-autobiographical narrative where players use a soccer ball to interact socially with the world and its characters. Throughout the game, the player will be exposed to the social ramifications of soccer. The game intends to separate itself from soccer as commonly seen on TV, instead, placing its focus on the sociopolitical context of soccer around the world, where it is played in streets and parks, and how it bleeds into many aspects of society."
   image: Despelote.jpg
-   
-#- title: Mim
-#  team: Team Mim
-#  link: http://savemim.com
-#  description: "Mim is a 2D adventure platformer game where a young lost seedling journeys through a dark, mystical underground world to find her mother with the use of the the magical light of Mim’s first leaves."
-#  image: Mim.png
-   
-#- title: Yumi's Home
-#  team: Amanda E. Siswojo, Emperatriz Ung, Maria Mishurenko, Poe Sriwatanathamma, Shak'ar Mujukian, Xiaoxun Yu
-#  link: https://ung.itch.io/yumis-home
-#  description: "Yumi’s Home is a first person 2D narrative game about depression, familial obligation, and isolation. Poetic text and visuals give players insight to Yumi’s mood and emotions as they change over time."
-#  image: YumisHome.png
+  
+ - title: Super Space Club
+  team: GrahamOfLegend
+  link: http://superspaceclub.com
+  description: "Super Space Club is an arcade-styled space shooting game about pilots defending the galaxy. Setting out to be the top-ranked club in the galaxy, the player controls a group of pilots known as the 'Super Space Club.' The player's objective is to complete missions and defeat as many enemies as possible while ensuring to not deplete all of their ship's energy, sending them back to their beginning base."
+  image: SuperSpaceClub.png
+  
+- title: Into The Dark
+  team: Orc Punk
+  link: http://orcpunk.com/games/into-the-dark-narakan
+  description: "Lost in the heart of a mysterious forest filled with fearsome creatures intent on killing you, you search the darkness for the child who calls your name.  Find the Child. Defy the Foe. Escape the Forest. Conquer the Fear. INTO THE DARK : Narakan is a top-down turn-based adventure/strategy game with a clean minimalist style and a dark ambient mood. "
+  image: IntoTheDark.png
