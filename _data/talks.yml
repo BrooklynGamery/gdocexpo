@@ -143,16 +143,10 @@
   time: 5:05PM
   description: "In this session, three game developers will share their thoughts about a variety of topics:
   <ul>
-  <li>Unicorn Game Design: Embracing the Experimental and Unlikely</li>
   <li>Portraying personal experiences through Systems</li>
   <li>Designing and Building an Emotionally Impactful Web Game</li>
   </ul>"
   speakers:
-    - name: Ashley Christman
-      photo: AshleyChristman.png
-      bio: "With a background in healthcare and quality, Ashley seemed an unlikely partner for a game developer. But her passion for games makes it a perfect match. When not creating games, she can be found playing them (with a preference for simulator type games) with her husband, reading a prolific amount of books, or running after a toddler with incredible speed (the toddler, not her). 
-      Not one to be idle, she is a founding board member for Sprite Tech Labs, a community organization whose aim is to encourage the next generation of game developers with a STEAM-based curriculum; and also serves as part of the board for Sac Dev Collectives. She is the co-founder and Chief Executive Officer at SacTown Interactive."
-      featured: true
     - name: "Ben Wilson"
       photo: Ben Wilson.jpeg
       bio: "Ben Wilson is a game developer based in the UK, currently working at Sumo Digital. He also makes small non-commercial games exploring themes of dyspraxia, and co-organizes the biannual Idle Thumbs community game jam. He’s currently thinking a lot about the concept of games as expressive systems."

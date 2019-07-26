@@ -1,7 +1,7 @@
 # {{page.title}}
 
 
-<img src="/assets/images/games/2019/games_header.jpg"/>
+<p align="center"><img src="/assets/images/games/2019/games_header.jpg"/></p>
 
 
 {% if site.data.games.size > 0 %}

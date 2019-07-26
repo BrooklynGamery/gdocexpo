@@ -1,10 +1,10 @@
 # {{page.title}}
 
 
-<img src="/assets/images/speakers/2019/speakers_header.jpg"/>
+<p align="center"><img src="/assets/images/speakers/2019/speakers_header.jpg"/></p>
 
 
-All times in EST
+All times in EDT
 <ul class="list-unstyled">
   {% for talk in site.data.talks %}
   <li class="list-data">
