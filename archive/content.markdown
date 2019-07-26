@@ -15,7 +15,8 @@ We have a growing library of games made by past developers and speakers.
 ----
 
 ## Game Devs of Color Expo 2018
-<!-- The 2017 Game Devs of Color Expo took place on July 14, 2018 in New York City. In this day-long event at the historic Schomburg Center, we held panels and talks, with an expo hall filled with unique games made by creators of color. Talks ranged from calls to action for creating games, discussions about the culture around games, the game development process, and experiences within the games industry as people from different backgrounds. -->
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/vLaBsMsWSdQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Some quick facts:
 
@@ -24,13 +25,15 @@ Some quick facts:
 * 25 Speakers and Panelists - [Schedule Archive](/archive/2018/schedule)
 
 <br/>
-<br/>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vLaBsMsWSdQ?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 ----
 
 ## Game Devs of Color Expo 2017
+
+<iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/dYa6iu2m7vo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Some quick facts:
 * 472 Attendees
@@ -38,9 +41,7 @@ Some quick facts:
 * 25 Speakers and Panelists - [Schedule Archive](/archive/2017/schedule)
 
 <br/>
-<br/>
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dYa6iu2m7vo?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ----
 
