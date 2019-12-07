@@ -1,16 +1,10 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_h7DTK_5RKk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0_JhDNCc9sNu9fOEs-7hJKGuv2sEhlID&listType=playlist" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center"> Click "Playlist" in the upper right to see all of our 2019 talks!</p>
 
-Game Devs of Color Expo returns to the Schomburg Center in Harlem, New York on July 27, 2019! 
+Game Devs of Color Expo returned to the Schomburg Center in Harlem, New York on July 27, 2019! 
 
-Join us for the 4th annual Game Devs of Color Expo - an inclusive games expo and conference creating a new normal in games by putting creators of color at the forefront, showing off their games, building conversations, and pushing games forward as an artform. [#GDoCExpo](https://twitter.com/GDoCExpo) 
+The 4th annual Game Devs of Color Expo was an inclusive games expo and conference creating a new normal in games by putting creators of color at the forefront, showing off their games, building conversations, and pushing games forward as an artform. [#GDoCExpo](https://twitter.com/GDoCExpo) 
 
-<center><a href="https://gamedevsofcolorexpo.com/tickets/" class="btn">Get your tickets today!</a>
-<br />
-<br />
-Are you a member of the press, influencer, or a Twitch / YouTube content creator?<br />
-<a href="http://bit.ly/gdoc19pressapp" target="_blank"> Apply for your Press Pass!</a>
-
-</center>
 
 ---
 
@@ -24,7 +18,7 @@ Giving developers of color the space to speak about anything but their own margi
 
 <p align="center"><img src="/assets/images/games/2019/games_header.jpg"/></p>
 
-In the expo hall, be prepared to play <strong>20+ titles</strong> including the super stylish <strong>HyperDot</strong> which was just featured as part of the Xbox Experience at E3, <strong>Sashimi Slammers</strong>, a fish fighting game where the controller is literally a fish (can't make this stuff up,) and <strong>Can Androids Pray</strong>, a shortform narrative game about angry femme mechs at the end of the world. 
+In the expo hall, we played <strong>20+ titles</strong> including the super stylish <strong>HyperDot</strong> which was just featured as part of the Xbox Experience at E3, <strong>Sashimi Slammers</strong>, a fish fighting game where the controller is literally a fish (can't make this stuff up,) and <strong>Can Androids Pray</strong>, a shortform narrative game about angry femme mechs at the end of the world. 
 
 <a class="page-link" href="/games">View our full list of games</a>
 
