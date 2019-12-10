@@ -1,9 +1,17 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0_JhDNCc9sNu9fOEs-7hJKGuv2sEhlID&listType=playlist" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <p align="center"> Click "Playlist" in the upper right to see all of our 2019 talks!</p>
 
-Game Devs of Color Expo returned to the Schomburg Center in Harlem, New York on July 27, 2019! 
+## Thank you!
 
-The 4th annual Game Devs of Color Expo was an inclusive games expo and conference creating a new normal in games by putting creators of color at the forefront, showing off their games, building conversations, and pushing games forward as an artform. [#GDoCExpo](https://twitter.com/GDoCExpo) 
+Our 2019 Game Devs of Color Expo was our biggest and best yet. We had a massive turnout, and folks sure had good times. This event means a lot to you and all of us organizers, as it is one of the few events that leaves us more invigorated than exhausted.
+
+The Game Devs of Color Expo team is honored to be making a positive impact in the lives of our fellow game developers of color. We hope to continue doing so in the years to come—the future of the industry depends on efforts like this. 
+
+While we work toward 2020, you can get some good vibes with the photos in our [Facebook album](https://www.facebook.com/GDoCExpo/photos/?tab=album&album_id=370727226958855).
+
+We also have a growing library of games made by past developers and speakers. Support the devs and check out their games! [gdocexpo.itch.io](https://gdocexpo.itch.io/)
+
+The Game Devs of Color Expo is an inclusive games expo and conference creating a new normal in games by putting creators of color at the forefront, showing off their games, building conversations, and pushing games forward as an artform. [#GDoCExpo](https://twitter.com/GDoCExpo) 
 
 
 ---
@@ -14,6 +22,7 @@ Giving developers of color the space to speak about anything but their own margi
 
 ----
 
+<!--
 <h1>Games</h1>
 
 <p align="center"><img src="/assets/images/games/2019/games_header.jpg"/></p>
@@ -31,6 +40,18 @@ In the expo hall, we played <strong>20+ titles</strong> including the super styl
 One of our marquee panels <strong>"Hip Hop and Video Games"</strong> features 3 amazing rappers - <strong>Open Mike Eagle, co-host of The New Negroes on Comedy Central</strong>, Sammus, and Mega Ran, in discussion with 2 game developers, Davionne Gooden and Shawn Alexander Allen. Together, they will explore the complicated relationship between the two art forms over their parallel growth.
 
 <a class="page-link" href="/schedule">View our full list of talks and panels</a>
+
+---- 
+-->
+
+## Humble Bundle Game Creators of Color Award winner
+
+<p align="center"><img src="/assets/images/speakers/2017/ethan-redd.jpg" width="300"></p>
+
+Congratulations to Ethan Redd, winner of the first-ever Humble Bundle Game Creators of Color Award! He won development funds to make a game that will be distributed by Humble Bundle. 
+
+Follow him on [Twitter](https://twitter.com/ethanredd) and [Instagram](https://www.instagram.com/kiddradd/) to see development progress on this game as well as his other work!
+
 
 ----
 

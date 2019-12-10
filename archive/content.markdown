@@ -1,16 +1,25 @@
 # {{page.title}}
 
-The Game Devs of Color Expo takes place at the historic Schomburg Center. Our events feature panels and talks, with an expo hall filled with unique games made by creators of color. Check out the past talks linked below!
+The Game Devs of Color Expo takes place at the historic Schomburg Center. Our events feature panels and talks, with an expo hall filled with unique games made by creators of color. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">
-Now there's an event specifically designed to help generate excitement for new voices.
-</p>&mdash; <a href="https://www.npr.org/2018/07/19/630589400/how-video-games-can-help-us-explore-ideas-about-race">NPR</a></blockquote>
+Check out the past talks linked below!
+
 
 ----
 
-## Game Devs of Color Expo on itch.io
-We have a growing library of games made by past developers and speakers.
-* Support the devs: [gdocexpo.itch.io](https://gdocexpo.itch.io/)
+
+## Game Devs of Color Expo 2019
+
+<iframe width="896" height="504" src="https://www.youtube.com/embed/X2FBnW-zqv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Some quick facts:
+
+* 700 Attendees
+* 27 Games Shown - [Games Archive](/archive/2019/games)
+* 23 Speakers and Panelists - [Schedule Archive](/archive/2019/schedule)
+
+<br/>
+
 
 ----
 
