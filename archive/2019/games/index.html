@@ -1,0 +1,12 @@
+---
+layout: default
+title: Games
+excerpt: "The expo's arcade will host a variety of games from around the world."
+thumbnail: logo-square-games.png
+---
+<section class="content-container">
+  <article class="entry">
+    {% capture my-include %}{% include_relative content.markdown %}{% endcapture %}
+{{ my-include | markdownify }}
+  </article>
+</section>
