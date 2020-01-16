@@ -37,7 +37,7 @@ Emails are infrequent.
 
 ## All are welcome
 
-![](/assets/images/photos/2018/2018GDoCE_1.jpg)
+![](http://gamedevsofcolorexpo.com/assets/images/photos/2019/2019GDoCExpo02.jpg)
 
 The Game Devs of Color Expo is a space meant to enlighten and unite, and is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. The venue is wheelchair accessible, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
 
