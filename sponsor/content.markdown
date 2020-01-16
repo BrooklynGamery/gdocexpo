@@ -2,11 +2,6 @@
 
 ![](/assets/images/photos/2018/2018GDoCE_2.jpg)
 
-Want to help the 2020 Game Devs of Color Expo? We are open to financial and in-kind partnerships! Interested parties can contact us at gdocexpo@gmail.com, [send us direct donations via PayPal](http://paypal.me/BrooklynGamery) (our preferred method), or use the Donation field [on the ticketing page](/tickets).
-
-<a href="http://bit.ly/gdocexpo2019sponsorship" class="btn">2019 Sponsorship Deck</a>
-
-----
 
 ## Why sponsor gdocexpo?
 
@@ -31,10 +26,10 @@ People of color are now more powerful and necessary in games than ever. The indu
 ----
 
 ## Sponsorship levels
-<a href="http://bit.ly/gdocexpo2019sponsorship" class="btn">2019 Sponsorship Deck</a>
+<a href="/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf" class="btn">2020 Sponsorship Deck</a>
 
 
-Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](http://bit.ly/gdocexpo2019sponsorship)
+Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf)
 
 <ul class="col-container">
   <li class="col-3-2 sponsorship-list-item sponsorship-list-item-featured">
