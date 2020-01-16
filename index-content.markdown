@@ -13,7 +13,7 @@ Registration will open in the spring, and we will also put out calls for speaker
 
 We’re looking for sponsors to help provide attendees with a high-quality 2020 event! Donations and sponsorship are two of the best ways to make this event the best it can be. If you or someone you know is interested in sponsoring the 2020 Game Devs of Color Expo, you can donate directly via PayPal or contact us by replying to this email.
 
-[Check out our prospectus!](http://bit.ly/gdocexpo2019sponsorship)
+[Check out our prospectus!](/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf)
 
 
 ---
