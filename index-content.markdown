@@ -1,7 +1,7 @@
 # The most energizing gaming event of the year is back!
 
 <p>
-<img src="http://gamedevsofcolorexpo.com/assets/images/photos/2019/2019GDoCExpo01.jpg">
+<img src="https://gamedevsofcolorexpo.com/assets/images/photos/2019/2019GDoCExpo01.jpg">
 </p>
 
 Join us for the 5th annual Game Devs of Color Expo, a games conference that puts game creators of color at the forefront. Since 2016, people from around the world have gathered to collectively elevate the games industry. Folks have asked for more every year, and we heard you. The event will return to the Schomburg Center this July for two days, making more space for new and experienced game developers to grow and connect.
@@ -37,7 +37,7 @@ Emails are infrequent.
 
 ## All are welcome
 
-![](http://gamedevsofcolorexpo.com/assets/images/photos/2019/2019GDoCExpo02.jpg)
+![](https://gamedevsofcolorexpo.com/assets/images/photos/2019/2019GDoCExpo02.jpg)
 
 The Game Devs of Color Expo is a space meant to enlighten and unite, and is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. The venue is wheelchair accessible, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
 
