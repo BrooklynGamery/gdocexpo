@@ -2,7 +2,7 @@
 
 ![](/assets/images/photos/2018/2018GDoCE_2.jpg)
 
-Want to help the 2019 Game Devs of Color Expo? We are open to financial and in-kind partnerships! Interested parties can contact us at gdocexpo@gmail.com, [send us direct donations via PayPal](http://paypal.me/BrooklynGamery) (our preferred method), or use the Donation field [on the ticketing page](/tickets).
+Want to help the 2020 Game Devs of Color Expo? We are open to financial and in-kind partnerships! Interested parties can contact us at gdocexpo@gmail.com, [send us direct donations via PayPal](http://paypal.me/BrooklynGamery) (our preferred method), or use the Donation field [on the ticketing page](/tickets).
 
 <a href="http://bit.ly/gdocexpo2019sponsorship" class="btn">2019 Sponsorship Deck</a>
 
@@ -39,8 +39,8 @@ Below are our basic offerings. Interested in additional opportunities such as sp
 <ul class="col-container">
   <li class="col-3-2 sponsorship-list-item sponsorship-list-item-featured">
     <h4>Sustaining Sponsor</h4>
-    <p class="sponsorship-price">$20,000</p>
-    <p>This partnership opportunity is exclusive and your company will be featured at the forefront of the Game Devs of Color Expo 2019. </p>
+    <p class="sponsorship-price">$15,000</p>
+    <p>This partnership opportunity is exclusive and your company will be featured at the forefront of the Game Devs of Color Expo 2020. </p>
   </li>
   <li class="col-3 sponsorship-list-item">
     <h4>Collaborating Sponsor</h4>
@@ -50,17 +50,17 @@ Below are our basic offerings. Interested in additional opportunities such as sp
   <li class="col-3 sponsorship-list-item">
     <h4>Premium Sponsor</h4>
     <p class="sponsorship-price">$5,000</p>
-    <p class="text-smaller">You want to be recognized as supporting the Game Devs of Color Expo 2019!</p>
+    <p class="text-smaller">You want to be recognized as supporting the Game Devs of Color Expo 2020!</p>
   </li>
   <li class="col-3 sponsorship-list-item">
     <h4>Friend Sponsor</h4>
     <p class="sponsorship-price">$2,500</p>
-    <p class="text-smaller">You want to be an active participant in the Game Devs of Color Expo 2019!</p>
+    <p class="text-smaller">You want to be an active participant in the Game Devs of Color Expo 2020!</p>
   </li>
   <li class="col-3 sponsorship-list-item">
     <h4>Community Sponsor</h4>
     <p class="sponsorship-price">$1000</p>
-    <p class="text-smaller">You want to show your support for the Game Devs of Color Expo 2019!</p>
+    <p class="text-smaller">You want to show your support for the Game Devs of Color Expo 2020!</p>
   </li>
 </ul>
 
@@ -73,7 +73,7 @@ Or email gdocexpo@gmail.com – we'd love to hear from you!
 
 ## Where the money goes
 
-The GDoCE Organization Team wants to make this event the best it can be. Since we're a small team we can't do that alone. You can help us to make the 2019 Game Devs of Color Expo a quality event worthy of attendees' time.
+The GDoCE Organization Team wants to make this event the best it can be. Since we're a small team we can't do that alone. You can help us to make the 2020 Game Devs of Color Expo a quality event worthy of attendees' time.
 
 Sponsorship and donations help us pay for the following:
 
