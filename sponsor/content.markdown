@@ -25,40 +25,8 @@ People of color are now more powerful and necessary in games than ever. The indu
 
 ----
 
-## Sponsorship levels
+## Sponsorship
 <a href="/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf" class="btn">2020 Sponsorship Deck</a>
-
-
-Below are our basic offerings. Interested in additional opportunities such as sponsored lunch, lanyards, badges, and event SWAG? [Check out our prospectus for more options!](/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf)
-
-<ul class="col-container">
-  <li class="col-3-2 sponsorship-list-item sponsorship-list-item-featured">
-    <h4>Sustaining Sponsor</h4>
-    <p class="sponsorship-price">$15,000</p>
-    <p>This partnership opportunity is exclusive and your company will be featured at the forefront of the Game Devs of Color Expo 2020. </p>
-  </li>
-  <li class="col-3 sponsorship-list-item">
-    <h4>Collaborating Sponsor</h4>
-    <p class="sponsorship-price">$10,000</p>
-    <p class="text-smaller">Your company’s brand will be well represented in all of our communications and you’ll  have a table in order to engage with our audience. </p>
-  </li>
-  <li class="col-3 sponsorship-list-item">
-    <h4>Premium Sponsor</h4>
-    <p class="sponsorship-price">$5,000</p>
-    <p class="text-smaller">You want to be recognized as supporting the Game Devs of Color Expo 2020!</p>
-  </li>
-  <li class="col-3 sponsorship-list-item">
-    <h4>Friend Sponsor</h4>
-    <p class="sponsorship-price">$2,500</p>
-    <p class="text-smaller">You want to be an active participant in the Game Devs of Color Expo 2020!</p>
-  </li>
-  <li class="col-3 sponsorship-list-item">
-    <h4>Community Sponsor</h4>
-    <p class="sponsorship-price">$1000</p>
-    <p class="text-smaller">You want to show your support for the Game Devs of Color Expo 2020!</p>
-  </li>
-</ul>
-
 
 <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a> 
 
