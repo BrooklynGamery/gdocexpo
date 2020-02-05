@@ -24,19 +24,19 @@
    
  - title: Del Nordlund
    team: 
-   link: www.birdpun.com
+   link: http://www.birdpun.com
    description: '<br/>Del “birdpun” Nordlund is a Singaporean-Canadian developer actively encouraging diversity and collaboration within their community. With a love for game jams, Del makes award-winning games with a distinctly cute but oddly charming aesthetic. Del also helps run Cactus Labs Games.'
    image: Del_Nordlund.jpg
 
  - title: 'Danielle R. Wallace'
    team: 
-   link: daniellewallace.org
+   link: http://daniellewallace.org
    description: '<br/>I am a senior at George Mason University, majoring in Computer Game Design! I am currently a 3D Environment Artist at SkyFarm Interactive as I was fortune enough to get a temporary contracted job in the industry before completing my degree!'
    image: Danielle_R_Wallace.jpg
 
  - title: 'Derrick Fields'
    team: 
-   link: www.wakingoni.com
+   link: http://www.wakingoni.com
    description: '<br/>My work focuses on creating narratives at the intersection of African American and Japanese culture. Rather it be illustration, 3D modeling, or game design, I want to explore the existing narratives that bring these worlds together and contribute new works into the conversation.'
    image: Derrick_Fields_Tarrance.png
    
@@ -48,25 +48,25 @@
    
  - title: 'Isaac Donkoh-Halm'
    team: 
-   link: kobid.me
+   link: http://kobid.me
    description: '<br/>Isaac Donkoh-Halm is a game developer, video editor, and event coordinator that has organized fighting game tournaments, tutored African refugees and immigrants, and ran Rock Band competitions (and sometimes he does all three in the same night.)'
    image: Isaac_Donkoh-Halm.jpg
    
  - title: Jamal Woods
    team: 
-   link: jamalcwoods.github.io
+   link: http://jamalcwoods.github.io
    description: '<br/>My name is Jamal Woods and I am a Game Design and Development student at Rochester Institute of Technology from Mount Vernon, New York. After becoming interested in games while I was young,  I learned to program so I could develop my ideas into playable games.'
    image: Jamal_Woods.jpg
 
  - title: Jamie Camera
    team: 
-   link: www.jamie.camera
+   link: http://www.jamie.camera
    description: '<br/>I am a junior at Northeastern University pursuing a degree in Computer Science and Game Development. I focus on the programming and production part of games. I also am the treasurer of out game development club on campus, as well as being a part of the local Boston scene.'
    image: Jamie_Camera.jpg
    
  - title: 'Jordan Jones-Brewster'
    team: 
-   link: www.jordanjonesbrewster.com
+   link: http://www.jordanjonesbrewster.com
    description: '<br/>Jordan Jones-Brewster is an independent Brooklyn based Narrative Designer and Writer. They focus their work on telling stories highlighting black and/or queer characters in modern settings.'
    image: 'Jordan_Jones-Brewster.jpg'
 
@@ -90,7 +90,7 @@
 
  - title: Tobias Do
    team: 
-   link: tobydo.itch.io
+   link: http://tobydo.itch.io
    description: "<br/>For the last couple years in my free time, I've been making games/films with friends. My work has been featured in places like rock paper shotgun, giantbomb, and one recently won the deuxieme prix at the Cannes Film Festival. I'm currently an MFA game design student at NYU."
    image: Tobias_Do.jpeg
 
@@ -102,6 +102,6 @@
 
  - title: Walter Hill III
    team: 
-   link: weneedrockets.com
+   link: http://weneedrockets.com
    description: '<br/>Walter is a senior at Champlain College in Burlington, VT studying Computer Science. He has been a campus site organizer for Global Game Jam and spent Summer 2019 working with the non-profit Rad Magpie building game development summer camps for teens of marginalized communities.'
    image: Walter_Hill_III.png
