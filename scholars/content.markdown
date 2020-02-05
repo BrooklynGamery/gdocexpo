@@ -3,15 +3,13 @@
 {% if site.data.scholars.size > 0 %}
 
 <p>
-<img src="/assets/images/scholars/2019_GDC_scholars.jpg">
-<br/>
-Game Devs of Color Expo partnered with the Game Developers Conference! 
+Game Devs of Color Expo is partnering with the Game Developers Conference for the second year! 
 </p>
 <p>
-We ran a scholarship program to bring some amazing creators of color to GDC. GDC can be a career-defining conference, but tickets, travel, and lodging prices can place it out of reach for many developers. 
+We're running a scholarship program to bring some amazing creators of color to GDC. GDC can be a career-defining conference, but tickets, travel, and lodging prices can place it out of reach for many developers. 
 </p>
 <p>
-For these amazing scholars we've provided Conference and Summits passes. Through our Scholar Program's sponsors, provided travel and lodging assistance!
+For these amazing scholars we've provided Conference and Summits passes, as well as travel and lodging assistance through our Scholar Program's sponsors!
 </p>
 
 <br/>
@@ -22,7 +20,7 @@ For these amazing scholars we've provided Conference and Summits passes. Through
     <li class="list-data col-container">
       <div class="col-3">
         <a href="{{game.link}}" target="_blank">
-          <img src="/assets/images/scholars/2019/{{game.image}}" class="list-data-photo">
+          <img src="/assets/images/scholars/2020/{{game.image}}" class="list-data-photo">
         </a>
       </div>
       <div class="col-3-2">
@@ -41,13 +39,13 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 
 {% else %}
 
-### We'll be announcing our 2019 GDC Scholars soon. Stay tuned!
+### We'll be announcing our 2020 GDC Scholars soon. Stay tuned!
 
 {% endif %}
 
 ----
 
-## Thanks to our Game Devs of Color Expo's GDC Sponsors
+## Thanks to our Game Devs of Color Expo GDC Sponsors
 
 <ul class="col-container sponsors-container">
 
@@ -84,12 +82,6 @@ For these amazing scholars we've provided Conference and Summits passes. Through
 
 </ul>
 
-<h4>Wadjet Eye Games</h4>
-<p>
-Learn more <a href="http://www.wadjeteyegames.com/" target="_blank">on their website.</a>
-</p>
-
-<a href="/sponsor/2019GDoCExpo_GDCScholarship_Sponsorship.pdf" class="btn">2019 GDC Scholarship Sponsorship Deck</a>
 
 ----
 
