@@ -204,7 +204,7 @@ GJ Lee<br/>
 <li class="col-3">
 <p>
 <img src="/assets/images/scholars/2019/Emperatriz_Ung.png">
-GJ Lee<br/>
+Emperatriz Ung<br/>
 <a href="https://twitter.com/mprtrzng" target="_blank">@mprtrzng</a>
 </p>
 </li>
