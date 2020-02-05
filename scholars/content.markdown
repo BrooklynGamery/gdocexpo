@@ -49,8 +49,25 @@ For these amazing scholars we've provided Conference and Summits passes, as well
 
 <ul class="col-container sponsors-container">
 
+
+<li class="col-3">
+<p>
+<br/>
+<br/>
+<a href="http://www.redhookgames.com/" target="_blank">
+<img src="/assets/images/scholars/2020/redhook_logo.png">
+<br/>
+<br/>
+</a>
+</p>
+</li>
+
 <li class="col-3-2">
 <p>
+<br/>
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 <a href="https://subsetgames.com/" target="_blank">
@@ -60,9 +77,29 @@ For these amazing scholars we've provided Conference and Summits passes, as well
 </a>
 </p>
 </li>
+
 </ul>
 
 <ul class="col-container sponsors-container">
+
+<li class="col-3">
+<p>
+<br/>
+<a href="https://maximumcrash.com/" target="_blank">
+<img src="/assets/images/scholars/2020/mxmcrash_logo.png">
+</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
+<br/>
+<a href="https://fullbrig.ht/" target="_blank">
+<img src="/assets/images/scholars/2020/fullbright_logo.png">
+</a>
+</p>
+</li>
+
 <li class="col-3">
 <p>
 <br/>
@@ -74,12 +111,33 @@ For these amazing scholars we've provided Conference and Summits passes, as well
 
 <li class="col-3">
 <p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<a href="https://www.supergiantgames.com/" target="_blank">
+<img src="/assets/images/scholars/2020/supergiant_logo.png">
+</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
+<br/>
+<a href="https://www.vlambeer.com/" target="_blank">
+<img src="/assets/images/scholars/2020/vlamber_logo.png">
+</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
 <a href="http://dreamfeel.org/" target="_blank">
 <img src="/assets/images/scholars/2019/dreamfeel_logo.png">
 </a>
 </p>
 </li>
-
 </ul>
 
 
@@ -127,6 +185,14 @@ Brian S. Chung<br/>
 <img src="/assets/images/scholars/2019/GJLee.jpg">
 GJ Lee<br/>
 <a href="https://twitter.com/whereisgj" target="_blank">@whereisgj</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
+<img src="/assets/images/scholars/2019/Emperatriz_Ung.png">
+GJ Lee<br/>
+<a href="https://twitter.com/mprtrzng" target="_blank">@mprtrzng</a>
 </p>
 </li>
 
