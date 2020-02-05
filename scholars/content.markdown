@@ -133,6 +133,19 @@ For these amazing scholars we've provided Conference and Summits passes, as well
 
 <li class="col-3">
 <p>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<a href="http://www.thehollowponds.com/" target="_blank">
+<img src="/assets/images/scholars/2020/hollowponds_logo.png">
+</a>
+</p>
+</li>
+
+<li class="col-3">
+<p>
 <a href="http://dreamfeel.org/" target="_blank">
 <img src="/assets/images/scholars/2019/dreamfeel_logo.png">
 </a>
