@@ -112,19 +112,6 @@ For these amazing scholars we've provided Conference and Summits passes, as well
 <li class="col-3">
 <p>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<a href="https://www.supergiantgames.com/" target="_blank">
-<img src="/assets/images/scholars/2020/supergiant_logo.png">
-</a>
-</p>
-</li>
-
-<li class="col-3">
-<p>
-<br/>
 <a href="https://www.vlambeer.com/" target="_blank">
 <img src="/assets/images/scholars/2020/vlamber_logo.png">
 </a>
