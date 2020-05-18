@@ -6,7 +6,7 @@
 
 Join us for the 5th annual Game Devs of Color Expo, a games conference that puts game creators of color at the forefront. Since 2016, people from around the world have gathered to collectively elevate the games industry. Folks have asked for more every year, and we heard you. The event will return to the Schomburg Center this July for two days, making more space for new and experienced game developers to grow and connect.
 
-Registration will open in the spring, and we will also put out calls for speakers, games, and volunteers in the coming months. Stay tuned—follow us on [Twitter](https://twitter.com/gdocexpo), [Facebook](https://www.facebook.com/GDoCExpo/), and [Instagram](https://www.instagram.com/gdocexpo/) for updates. If you want more expo hype, check out the [archives](/archive).
+Registration will open in the summer, and we will also put out calls for speakers, games, and volunteers in the coming months. Stay tuned—follow us on [Twitter](https://twitter.com/gdocexpo), [Facebook](https://www.facebook.com/GDoCExpo/), and [Instagram](https://www.instagram.com/gdocexpo/) for updates. If you want more expo hype, check out the [archives](/archive).
 <br/><br/>
 
 ## Sponsor the 2020 expo

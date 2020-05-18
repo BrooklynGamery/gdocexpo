@@ -3,13 +3,10 @@
 {% if site.data.scholars.size > 0 %}
 
 <p>
-Game Devs of Color Expo is partnering with the Game Developers Conference for the second year! 
+Game Devs of Color Expo partnered with the Game Developers Conference for the second year to bring amazing creators of color to GDC. GDC can be a career-defining conference, but tickets, travel, and lodging prices can place it out of reach for many developers.
 </p>
 <p>
-We're running a scholarship program to bring some amazing creators of color to GDC. GDC can be a career-defining conference, but tickets, travel, and lodging prices can place it out of reach for many developers. 
-</p>
-<p>
-For these amazing scholars we've provided Conference and Summits passes, as well as travel and lodging assistance through our Scholar Program's sponsors!
+These amazing scholars were provided Conference and Summits passes, as well as travel and lodging assistance where needed. Unfortunately, these scholars were unable to attend in person; GDC was postponed and moved online due to the spread of COVID-19. 
 </p>
 
 <br/>
