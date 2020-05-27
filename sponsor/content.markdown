@@ -26,9 +26,7 @@ People of color are now more powerful and necessary in games than ever. The indu
 ----
 
 ## Sponsorship
-<a href="/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf" class="btn">2020 Sponsorship Deck</a>
-
-<a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a> 
+<a href="/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf" class="btn">2020 Sponsorship Deck</a> <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a> 
 
 Or email gdocexpo@gmail.com – we'd love to hear from you!
 

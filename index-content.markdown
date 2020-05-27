@@ -1,28 +1,43 @@
 # The most energizing gaming event of the year is back!
 
 <p>
-<img src="https://gamedevsofcolorexpo.com/assets/images/photos/2019/2019GDoCExpo01.jpg">
+<img src="/assets/images/photos/2020/2020GDoCExpo01.jpg">
 </p>
 
-Join us for the 5th annual Game Devs of Color Expo, a games conference that puts game creators of color at the forefront. Since 2016, people from around the world have gathered to collectively elevate the games industry. Folks have asked for more every year, and we heard you. The event will return to the Schomburg Center this July for two days, making more space for new and experienced game developers to grow and connect.
+Get ready: the Game Devs of Color Expo is going virtual on September 19, 2020! Since 2016, people from around the world have united in Harlem, NYC to collectively elevate the games industry. This year, things will be a little different—for the safety and health of our community, we will gather online.
 
-Registration will open in the summer, and we will also put out calls for speakers, games, and volunteers in the coming months. Stay tuned—follow us on [Twitter](https://twitter.com/gdocexpo), [Facebook](https://www.facebook.com/GDoCExpo/), and [Instagram](https://www.instagram.com/gdocexpo/) for updates. If you want more expo hype, check out the [archives](/archive).
+At the virtual Game Devs of Color Expo, new and experienced game developers will share, learn, and connect in unique ways that wouldn’t have been possible in-person. <b>Stay tuned to hear when tickets go live</b>—follow us on [Twitter](https://twitter.com/gdocexpo), [Facebook](https://www.facebook.com/GDoCExpo/), and [Instagram](https://www.instagram.com/gdocexpo/) for updates. If you want more expo hype, check out the [archives](/archive).
 <br/><br/>
 
 ## Sponsor the 2020 expo
 
 We’re looking for sponsors to help provide attendees with a high-quality 2020 event! Donations and sponsorship are two of the best ways to make this event the best it can be. If you or someone you know is interested in sponsoring the 2020 Game Devs of Color Expo, you can donate directly via PayPal or contact us by replying to this email.
 
-[Check out our prospectus!](/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf)
+<a href="/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf" class="btn" target="_blank">View our prospectus</a>
 
-
----
+----
 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">
 Giving developers of color the space to speak about anything but their own marginalization shouldn’t be a grand gesture, but in the gaming industry it feels like an exemplary move
 </p>&mdash; <a href="https://motherboard.vice.com/en_us/article/5943vb/the-game-developers-of-color-expo-was-a-respite-from-the-hostile-gaming-scene">Motherboard</a></blockquote>
 
+
+----
+
+<p>
+<img src="/assets/images/photos/2020/2020GDoCExpo02.jpg">
+</p>
+
+## Share your perspective with the community
+
+Are you a person of color making games, games content or culturally love games? Have a talk idea you need to tell people about, or an amazing game you can’t wait for players to see? Submissions for talk and games are open now until 11:59 PM ET on <b>July 1st, 2020</b>.
+
+<a href="https://bit.ly/gdoc2020speaker" class="btn" target="_blank">Apply to speak</a> <a href="https://bit.ly/gdoc2020game" class="btn" target="_blank">Apply to show a game</a>
+<br/>
+<br/>
+
+Tickets, volunteer applications, and press pass applications coming soon.
 
 ----
 
@@ -37,7 +52,10 @@ Emails are infrequent.
 
 ## All are welcome
 
-![](https://gamedevsofcolorexpo.com/assets/images/photos/2019/2019GDoCExpo02.jpg)
+<p>
+<img src="/assets/images/photos/2020/2020GDoCExpo03.jpg">
+</p>
+
 
 The Game Devs of Color Expo is a space meant to enlighten and unite, and is open to people of all genders, races, abilities, sexual orientations, and religions. We are committed to ensuring that this event is inclusive to all. The venue is wheelchair accessible, live captions will be displayed for all talks and presentations, and gender-neutral restrooms will be available.
 
