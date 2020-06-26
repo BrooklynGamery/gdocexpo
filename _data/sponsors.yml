@@ -15,19 +15,33 @@
 #   logo: 'logo-square.png'
 #   link: http://examplesponsor.com
 
+#  Sustaining Sponsors ($15,000+)  
+
+- name: 'Niantic'
+  level: 'Sustaining'
+  logo: 'gdocexpo2019_gdoc_sponsor_logo_niantic.png'
+  link: https://www.niantic.com
+  blurb: "We are the world’s leading augmented reality company with an initial focus on augmented reality games. We see a future where our technology paves the way for new entertainment experiences, advanced robotics, and scaled adaptive computing — and games are where we incubate some of our most audacious thinking."
+  
+- name: 'Subset Games'
+  level: 'Sustaining'
+  logo: 'SubsetGames_logo.png'
+  link: https://www.subsetgames.com
+  blurb: "Subset Games is the indie studio behind FTL: Faster Than Light and Into the Breach."
+  
 #  Collaborating Sponsors ($10,000+)  
+
+- name: 'Brace Yourself Games'
+  level: 'Collaborating'
+  logo: 'BYG-Brand-Full-Colour.png'
+  link: https://braceyourselfgames.com
+  blurb: Brace Yourself Games -- Creators of NecroDancer and Cadence of Hyrule!
 
 - name: 'Looking Glass'
   level: 'Collaborating'
   logo: 'lookingglass.png'
   link: https://lookingglassfactory.com
   blurb: "Looking Glass Factory is a team of developers, inventors and artists creating holographic displays for the future. Last Summer, they launched The Looking Glass, an interactive, holographic display for 3D creators. Real 3D in real life, no headgear required. Founded in 2014, the company is headquartered in Brooklyn, New York with an R&D and production lab in Hong Kong."
-
-- name: 'Niantic'
-  level: 'Collaborating'
-  logo: 'gdocexpo2019_gdoc_sponsor_logo_niantic.png'
-  link: https://www.niantic.com
-  blurb: "We are the world’s leading augmented reality company with an initial focus on augmented reality games. We see a future where our technology paves the way for new entertainment experiences, advanced robotics, and scaled adaptive computing — and games are where we incubate some of our most audacious thinking."
  
 - name: 'Nintendo'
   level: 'Collaborating'
@@ -113,12 +127,7 @@
 
 # Community sponsors are now handled via a group image and hardcoded into the footer
    
-- name: 'Brace Yourself Games'
-  level: 'Community'
-  logo: 'BYG-Brand-Full-Colour.png'
-  link: https://braceyourselfgames.com
-  blurb: 
-   
+  
 - name: 'Codecademy'
   level: 'Community'
   logo: 'codecademy_logo_black.png'
