@@ -31,11 +31,7 @@ Giving developers of color the space to speak about anything but their own margi
 
 ## Share your perspective with the community
 
-Are you a person of color making games, games content or culturally love games? Have a talk idea you need to tell people about, or an amazing game you can’t wait for players to see? Submissions for talk and games are open now until 11:59 PM ET on <b>July 1st, 2020</b>.
-
-<a href="https://bit.ly/gdoc2020speaker" class="btn" target="_blank">Apply to speak</a> <a href="https://bit.ly/gdoc2020game" class="btn" target="_blank">Apply to show a game</a>
-<br/>
-<br/>
+Submissions for games and talks are closed. Stay tuned for the selections!
 
 Tickets, volunteer applications, and press pass applications coming soon.
 
