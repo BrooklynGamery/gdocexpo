@@ -10,7 +10,7 @@ At the virtual Game Devs of Color Expo, new and experienced game developers will
 
 Speakers at this year's event will cover a wide variety of topics including game art, compelling game design, marketing, and sound design. Games at this year’s expo include *ValiDate: Struggling Singles in your Area* by Veritable Joy, *Lucifer Within Us* by Kitfox Games, *An Airport for Aliens Currently Run by Dogs* from Strange Scaffold, and *Onsen Master* by Waking Oni Games.
 
-<center><a href="https://gdocexpo.eventbrite.com/" class="btn" target="_blank">Get your ticket now!</a></center>
+<center><a href="https://gdocexpo.eventbrite.com/?aff=ws" class="btn" target="_blank">Get your ticket now!</a></center>
 <br/><br/>
 
 We welcome members of the press and content creators to attend and observe our event! Press inquiries must be sent to gdocexpo@gmail.com. Video recordings are prohibited without consent from Game Devs of Color Expo and the participants being recorded. <a href="http://bit.ly/gdoc20press">Apply for a Press & Media Pass</a>
