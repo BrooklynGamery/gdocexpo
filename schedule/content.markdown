@@ -1,6 +1,9 @@
 # {{page.title}}
 
 
+
+<!--
+
 <p align="center"><img src="/assets/images/speakers/2019/speakers_header.jpg"/></p>
 
 
@@ -41,6 +44,8 @@ All times in EDT
   </li>
   {% endfor %}
 </ul>
+
+-->
 
 ----
 

@@ -1,8 +1,12 @@
 # {{page.title}}
 
 
-<p align="center"><img src="/assets/images/games/2019/games_header.jpg"/></p>
+<!--<p align="center"><img src="/assets/images/games/2019/games_header.jpg"/></p>-->
 
+
+<iframe src="https://app.swapcard.com/widget/event/2020-game-devs-of-color-expo/exhibitors/RXZlbnRWaWV3XzU4OTEz?showActions=true" style="border: none; margin: 0px; width: 100%; display: block; height: calc(100vh - 100px);"></iframe>
+
+<!--
 
 {% if site.data.games.size > 0 %}
 
@@ -46,6 +50,7 @@ Our arcade will host a variety of games from around the world. Below are {{site.
 ### Stay tuned for updates soon!
 
 {% endif %}
+-->
 <!--
 # Vendor tables
 

@@ -1,6 +1,8 @@
 # {{page.title}}
 
-<img src="/assets/images/speakers/2019/speakers_header.jpg"/>
+<iframe src="https://app.swapcard.com/widget/event/2020-game-devs-of-color-expo/speakers?showActions=true" style="border: none; margin: 0px; width: 100%; display: block; height: calc(100vh - 100px);"></iframe>
+
+<!--<img src="/assets/images/speakers/2019/speakers_header.jpg"/>
 
 All times in EST
 <ul class="list-unstyled">
@@ -39,7 +41,7 @@ All times in EST
   </li>
   {% endfor %}
 </ul>
-
+-->
 ----
 
 More information is coming soon. Subscribe to hear when we add new games, speakers, and more! We send emails less than once per week.
