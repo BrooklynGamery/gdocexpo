@@ -8,5 +8,6 @@ No form of harassment or assault will be tolerated. This includes but is not lim
 
 No weapons will be allowed at our event, community spaces, or in other spaces covered by the scope of this Code of Conduct. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be allowed to return without the weapon. Community members are further expected to comply with all state and local laws on this matter.
 
+While screenshots are permitted, no broadcasts or recordings of presentations are allowed without confirmation from GDoCExpo staff.
 
 If you feel unsafe or uncomfortable, please talk with an organizer or volunteer. You can also [report a violation using this form](https://goo.gl/forms/T9SgQmkhkHQz0J7U2) if you feel more comfortable contacting us digitally. If you see someone being treated with disrespect, please speak up either yourself or by getting an organizer/volunteer involved. With your help we can make sure everyone involved is being treated with respect.
