@@ -22,7 +22,7 @@ We welcome press and content creators to our event! Video recordings are prohibi
 <img src="/assets/images/games/GDoCExpo_2020_Games.png">
 </p>
 
-Our exciting lineup of games includes Lucifer Within Us by Kitfox Games, An Airport for Aliens Currently Run by Dogs from Strange Scaffold, and Onsen Master by Waking Oni Games. [Check out the full list!](/https://gamedevsofcolorexpo.com/games)
+Our exciting lineup of games includes Lucifer Within Us by Kitfox Games, An Airport for Aliens Currently Run by Dogs from Strange Scaffold, and Onsen Master by Waking Oni Games. [Check out the full list!](https://gamedevsofcolorexpo.com/games)
 
 ----
 
@@ -32,7 +32,7 @@ Our exciting lineup of games includes Lucifer Within Us by Kitfox Games, An Airp
 <img src="/assets/images/speakers/GDocExpo_2020_Speakers.png">
 </p>
 
-Learn tricks of the trade from across the industry. Speakers will cover topics including game design, audio, art, and marketing. [Check out our full lineup!](/https://gamedevsofcolorexpo.com/speakers)
+Learn tricks of the trade from across the industry. Speakers will cover topics including game design, audio, art, and marketing. [Check out our full lineup!](https://gamedevsofcolorexpo.com/speakers)
 
 ----
 
@@ -42,7 +42,7 @@ The Game Devs of Color Expo is a space meant to enlighten and unite, and is open
 
 Please let us know if there’s anything we can do to make you feel comfortable attending this event.
 
-[Read our full Code of Conduct](/codeofconduct)
+[Read our full Code of Conduct](https://gamedevsofcolorexpo.com/codeofconduct)
 
 ----
 
