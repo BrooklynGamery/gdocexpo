@@ -84,6 +84,6 @@ Want to do more? [Sponsor the event.](/sponsor)
 -->
 ----
 
-More information is coming soon. Subscribe to hear when we add new games, speakers, and more! We send emails less than once per week.
+Stay in the loop. Subscribe to hear updates about our annual event! We usually send emails less than once per week. Emails are infrequent.
 
 {% include mailchimp-form.html %}
