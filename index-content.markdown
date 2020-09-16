@@ -48,7 +48,7 @@ Please let us know if there’s anything we can do to make you feel comfortable 
 
 ## Join our mailing list
 
-Subscribe to hear from the Game Devs of Color Expo team as we share opportunities, event updates, and more!<br/>
+Stay in the loop. Subscribe to hear updates about our annual event! We usually send emails less than once per week.<br/>
 Emails are infrequent.
 
 {% include mailchimp-form.html %}
