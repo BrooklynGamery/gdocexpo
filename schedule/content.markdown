@@ -1,6 +1,7 @@
 # {{page.title}}
 
-
+<iframe src="https://app.swapcard.com/widget/event/2020-game-devs-of-color-expo/plannings/RXZlbnRWaWV3XzQ3ODA0?showActions=true" style="border: none; margin: 0px; width: 100%; display: block; height: calc(100vh - 100px);">
+</iframe>
 
 <!--
 
