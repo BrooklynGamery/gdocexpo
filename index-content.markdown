@@ -11,8 +11,20 @@ At the virtual Game Devs of Color Expo, new and experienced game developers will
 <center><a href="https://gdocexpo.eventbrite.com/?aff=ws" class="btn" target="_blank">Get your ticket now!</a></center>
 <br/>
 
-We welcome press and content creators to our event! Video recordings are prohibited without consent from Game Devs of Color Expo and the participants being recorded. <a href="http://bit.ly/gdoc20press">Apply for a Press & Media Pass.</a>
+We welcome press and content creators to our event! Video recordings are prohibited without consent from Game Devs of Color Expo and the participants being recorded. <a href="http://bit.ly/gdoc20press">Apply for a Press and Media Pass.</a>
 
+
+----
+
+## AWARDS + GRANTS
+
+The event closes with the Game Devs of Color Expo award ceremony, where a total of $90,000 in development grants will be awarded. 
+
+Five developers will each win the **$15,000 No More Robots x Game Devs of Color Expo Grant**, which will include guidance and mentoring in game development. 
+
+One developer will win the **$15,000 Humble Bundle Game Creators of Color Award**, which includes a publishing and distribution deal. 
+
+Find out who the 6 deserving developers are after the end of the Developer Interviews on September 20th!
 
 ----
 
