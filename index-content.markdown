@@ -1,15 +1,15 @@
-# The most energizing event of the year is back! 
+# The 5th annual GDoCExpo is fully online for 2020!
 
 <p>
 <img src="/assets/images/photos/2020/2020GDoCExpo01.jpg">
 </p>
 
-The fifth annual Game Devs of Color Expo will be fully online for 2020.
-
-At the virtual Game Devs of Color Expo, new and experienced game developers will share, learn, and connect in unique ways. This year’s event will feature main presentations within a private online conference space that supports conversations between attendees. We will also host exclusive developer interviews through our Steam showcase, Gradient Convergence. **You’ll be able to support creators of color by playing their games in the comfort of your home!**
+At the virtual Game Devs of Color Expo, new and experienced game developers will share, learn, and connect in unique ways. This year’s event will feature main presentations within a private online conference space that supports conversations between attendees. 
 
 <center><a href="https://gdocexpo.eventbrite.com/?aff=ws" class="btn" target="_blank">Get your ticket now!</a></center>
 <br/>
+
+We will also host exclusive developer interviews through our Steam showcase, <a href="https://store.steampowered.com/sale/gradientconvergence" target="_blank">Gradient Convergence</a>. **Support creators of color by playing their games in the comfort of your home!**
 
 We welcome press and content creators to our event! Video recordings are prohibited without consent from Game Devs of Color Expo and the participants being recorded. <a href="http://bit.ly/gdoc20press">Apply for a Press and Media Pass.</a>
 
