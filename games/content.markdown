@@ -1,8 +1,5 @@
-# {{page.title}}
-
-
-<!--<p align="center"><img src="/assets/images/games/2019/games_header.jpg"/></p>-->
-
+<!-- # {{page.title}}-->
+Check out <a class="page-link" href="https://app.swapcard.com/event/2020-game-devs-of-color-expo/exhibitors/RXZlbnRWaWV3XzU4OTEz?">the full list of games on Swapcard.
 
 <iframe src="https://app.swapcard.com/widget/event/2020-game-devs-of-color-expo/exhibitors/RXZlbnRWaWV3XzU4OTEz?showActions=true" style="border: none; margin: 0px; width: 100%; display: block; height: calc(100vh - 100px);"></iframe>
 

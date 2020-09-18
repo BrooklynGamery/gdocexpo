@@ -1,6 +1,6 @@
-# {{page.title}}
+<!--# {{page.title}}-->
 
-All listed times are in your local time zone.
+All listed times are in your local time zone. Check out <a class="page-link" href="https://app.swapcard.com/event/2020-game-devs-of-color-expo/exhibitors/RXZlbnRWaWV3XzU4OTEz?">the full schedule on Swapcard.
 
 <iframe src="https://app.swapcard.com/widget/event/2020-game-devs-of-color-expo/plannings/RXZlbnRWaWV3XzQ3ODA0?showActions=true" style="border: none; margin: 0px; width: 100%; display: block; height: calc(100vh - 100px);">
 </iframe>

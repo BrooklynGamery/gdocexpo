@@ -10,4 +10,4 @@ No weapons will be allowed at our event, community spaces, or in other spaces co
 
 While screenshots are permitted, no broadcasts or recordings of presentations are allowed without confirmation from GDoCExpo staff.
 
-If you feel unsafe or uncomfortable, please talk with an organizer or volunteer. You can also [report a violation using this form](https://goo.gl/forms/T9SgQmkhkHQz0J7U2) if you feel more comfortable contacting us digitally. If you see someone being treated with disrespect, please speak up either yourself or by getting an organizer/volunteer involved. With your help we can make sure everyone involved is being treated with respect.
+If you feel unsafe or uncomfortable, please talk with an organizer or moderator. You can also [report a violation using this form](https://goo.gl/forms/T9SgQmkhkHQz0J7U2) if you feel more comfortable contacting us digitally. If you see someone being treated with disrespect, please speak up either yourself or by getting an organizer/moderator involved. With your help we can make sure everyone involved is being treated with respect.
