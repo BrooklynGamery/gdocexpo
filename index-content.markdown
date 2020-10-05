@@ -22,7 +22,7 @@ The event closes with the Game Devs of Color Expo award ceremony, where a total 
 
 Five developers will each win the **$15,000 No More Robots x Game Devs of Color Expo Grant**, which will include guidance and mentoring in game development. 
 
-One developer will win the **$15,000 Humble Bundle Game Creators of Color Award**, which includes a publishing and distribution deal. 
+One developer will win the **$15,000 Humble Bundle Game Creators of Color Award**, which includes a distribution deal. 
 
 Find out who the 6 deserving developers are after the end of the Developer Interviews on September 20th!
 
