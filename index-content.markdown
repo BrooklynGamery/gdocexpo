@@ -1,50 +1,38 @@
-# The 5th annual GDoCExpo is fully online for 2020!
+# Good words, good vibes, good games.
 
 <p>
 <img src="/assets/images/photos/2020/2020GDoCExpo01.jpg">
 </p>
 
-At the virtual Game Devs of Color Expo, new and experienced game developers will share, learn, and connect in unique ways. This year’s event will feature main presentations within a private online conference space that supports conversations between attendees. 
+We are so glad you could come to the 2020 Game Devs of Color Expo and spend two jam-packed days of game development discussions with us! Turnout was higher than expected, and folks were in the chat having a great time!
 
-<center><a href="https://gdocexpo.eventbrite.com/?aff=ws" class="btn" target="_blank">Get your ticket now!</a></center>
-<br/>
+Your ticket gives you access to rewatch talks, panels, and interviews from the event for a year. Just log back into Swapcard and visit the schedule! We will be rolling out videos to the public over the year.
 
-We will also host exclusive developer interviews through our Steam showcase, <a href="https://store.steampowered.com/sale/gradientconvergence" target="_blank">Gradient Convergence</a>. **Support creators of color by playing their games in the comfort of your home!**
-
-We welcome press and content creators to our event! Video recordings are prohibited without consent from Game Devs of Color Expo and the participants being recorded. <a href="http://bit.ly/gdoc20press">Apply for a Press and Media Pass.</a>
-
+Our direct is also available to rewatch on YouTube. It features a variety of updates from upcoming games by creators in our community. [Check it out and get inspired!](https://youtu.be/Rm8CdeQhefo)
 
 ----
 
 ## AWARDS + GRANTS
 
-The event closes with the Game Devs of Color Expo award ceremony, where a total of $90,000 in development grants will be awarded. 
-
-Five developers will each win the **$15,000 No More Robots x Game Devs of Color Expo Grant**, which will include guidance and mentoring in game development. 
-
-One developer will win the **$15,000 Humble Bundle Game Creators of Color Award**, which includes a distribution deal. 
-
-Find out who the 6 deserving developers are after the end of the Developer Interviews on September 20th!
-
-----
-
-## Games
-
 <p>
-<img src="/assets/images/games/GDoCExpo_2020_Games.png">
+<img src="/assets/images/games/Humble.png">
 </p>
 
-Our exciting lineup of games includes Lucifer Within Us by Kitfox Games, An Airport for Aliens Currently Run by Dogs from Strange Scaffold, and Onsen Master by Waking Oni Games. [Check out the full list!](https://gamedevsofcolorexpo.com/games)
-
-----
-
-## Speakers
-
+Salman Shurie won $15,000 to create a small, polished game. This game will be distributed as a Humble Original. Congratulations, Salman, and we can’t wait to see what you create!
+<br/>
+<br/>
 <p>
-<img src="/assets/images/speakers/GDocExpo_2020_Speakers.png">
+<img src="/assets/images/games/GDoCExpo-NMR.png">
 </p>
 
-Learn tricks of the trade from across the industry. Speakers will cover topics including game design, audio, art, and marketing. [Check out our full lineup!](https://gamedevsofcolorexpo.com/speakers)
+Five developers won $15,000 to put toward game development expenses:
+- Alex Abou Karam, Soft Not Weak (Spirit Swap: Lo-Fi Chill Beats to Match-3 to)
+- Charles McGregor, Tribe Games (HyperDot)
+- Nana Moon, Moonana Games (KEYLOCKER - Turn Based Cyberpunk Action)
+- Sisi Jiang (LIONKILLER)
+- Son M. & Emmett Nahil, Perfect Garbage (Love Shore)
+
+Congratulations to Alex, Charles, Nana, Sisi, and the Perfect Garbage team! As always, we’ll share updates from their progress on Twitter.
 
 ----
 
