@@ -1,14 +1,10 @@
 # Good words, good vibes, good games.
 
-<p>
-<img src="/assets/images/photos/2020/2020GDoCExpo01.jpg">
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0_JhDNCc9sMwEyJ49f5KRB4u2LyULbqE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
 
 We are so glad you could come to the 2020 Game Devs of Color Expo and spend two jam-packed days of game development discussions with us! Turnout was higher than expected, and folks were in the chat having a great time!
 
-Your ticket gives you access to rewatch talks, panels, and interviews from the event for a year. Just log back into Swapcard and visit the schedule! We will be rolling out videos to the public over the year.
-
-Our direct is also available to rewatch on YouTube. It features a variety of updates from upcoming games by creators in our community. [Check it out and get inspired!](https://youtu.be/Rm8CdeQhefo)
+Want to relive the magic? We miss train meat, too. Check out the playlist above for our direct, talks, and panels from the 2020 event. Subscribe to us on YouTube to hear when we publish new videos.
 
 ----
 
