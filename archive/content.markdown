@@ -4,6 +4,21 @@ The Game Devs of Color Expo takes place at the historic Schomburg Center. Our ev
 
 Check out the past talks linked below!
 
+----
+
+
+## Game Devs of Color Expo 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0_JhDNCc9sMwEyJ49f5KRB4u2LyULbqE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+Some quick facts:
+
+* 1500 Attendees
+* 37 Games Shown - [Games Archive](https://app.swapcard.com/event/2020-game-devs-of-color-expo/exhibitors/RXZlbnRWaWV3XzU4OTEz?search=) & [Developer Interviews](https://www.youtube.com/watch?v=OuOF0NKUemQ&list=PL0_JhDNCc9sPfuhTbRO_VNfySni142PUK)
+* 32 Speakers and Panelists - [Schedule Archive](https://app.swapcard.com/event/2020-game-devs-of-color-expo/plannings/RXZlbnRWaWV3XzQ3ODA0?)
+* Steam feature - [Gradient Convergence](https://store.steampowered.com/sale/gradientconvergence)
+* Awarded $90k in developer grants
+<br/>
 
 ----
 
@@ -43,8 +58,8 @@ Some quick facts:
 
 <iframe width="896" height="504" src="https://www.youtube-nocookie.com/embed/dYa6iu2m7vo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 Some quick facts:
+
 * 472 Attendees
 * 31 Games Shown - [Games Archive](/archive/2017/games)
 * 25 Speakers and Panelists - [Schedule Archive](/archive/2017/schedule)

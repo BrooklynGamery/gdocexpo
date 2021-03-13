@@ -1,13 +1,22 @@
-# Good words, good vibes, good games.
+# We’re back for 2021!
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL0_JhDNCc9sMwEyJ49f5KRB4u2LyULbqE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
+<img src="/assets/images/photos/2021/2020GDoCExpo1.jpg">
 
-We are so glad you could come to the 2020 Game Devs of Color Expo and spend two jam-packed days of game development discussions with us! Turnout was higher than expected, and folks were in the chat having a great time!
+Last year at the 2020 online Game Devs of Color Expo, we had over 1,500 people show up - two times as many people as our in-person 2019 event. We gave away $90k in game development grants, too. 
 
-Want to relive the magic? We miss train meat, too. Check out the playlist above for our direct, talks, and panels from the 2020 event. Subscribe to us on YouTube to hear when we publish new videos.
+The good news is we’re set to hold our 2021 event from September 23rd through the 27th and we’ll be online again!
+
+Game submissions from game developers of color are now open. We’d love to feature your game! It’s free to submit and showcase, and you’ll have a bunch of eyes on your game. We are also seeking people to interview for the expo and for grant recipients.
+
+Speaker spots are also now open, too. All of our speakers are paid. If you’re selected to speak, your presentation will also be released on our YouTube after the event for more exposure.
+
+<p align="center">
+<a href="http://bit.ly/gdoc21game" class="btn">Game Application</a> &nbsp;&nbsp; <a href="http://bit.ly/gdoc21speaker" class="btn" target="_blank">Speaker Application</a> 
+</p>
 
 ----
 
+<!--
 ## AWARDS + GRANTS
 
 <p>
@@ -31,6 +40,8 @@ Five developers won $15,000 to put toward game development expenses:
 Congratulations to Alex, Charles, Nana, Sisi, and the Perfect Garbage team! As always, we’ll share updates from their progress on Twitter.
 
 ----
+
+-->
 
 ## All are welcome
 
