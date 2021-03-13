@@ -13,9 +13,9 @@ Check out the past talks linked below!
 
 Some quick facts:
 
-* 1500 Attendees
-* 37 Games Shown - [Games Archive](https://app.swapcard.com/event/2020-game-devs-of-color-expo/exhibitors/RXZlbnRWaWV3XzU4OTEz?search=) & [Developer Interviews](https://www.youtube.com/watch?v=OuOF0NKUemQ&list=PL0_JhDNCc9sPfuhTbRO_VNfySni142PUK)
-* 32 Speakers and Panelists - [Schedule Archive](https://app.swapcard.com/event/2020-game-devs-of-color-expo/plannings/RXZlbnRWaWV3XzQ3ODA0?)
+* 1518 Attendees
+* 36 Games Shown - [Games Archive](https://app.swapcard.com/event/2020-game-devs-of-color-expo/exhibitors/RXZlbnRWaWV3XzU4OTEz?search=) & [Developer Interviews](https://www.youtube.com/watch?v=OuOF0NKUemQ&list=PL0_JhDNCc9sPfuhTbRO_VNfySni142PUK)
+* 31 Speakers and Panelists - [Schedule Archive](https://app.swapcard.com/event/2020-game-devs-of-color-expo/plannings/RXZlbnRWaWV3XzQ3ODA0?)
 * Steam feature - [Gradient Convergence](https://store.steampowered.com/sale/gradientconvergence)
 * Awarded $90k in developer grants
 <br/>
