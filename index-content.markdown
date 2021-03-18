@@ -10,8 +10,10 @@ Game submissions from game developers of color are now open. We’d love to feat
 
 Speaker spots are also now open, too. All of our speakers are paid. If you’re selected to speak, your presentation will also be released on our YouTube after the event for more exposure.
 
+We'd love to hear from you! Deadline for submissions is April 15th, 11:59pm Eastern Time.
+
 <p align="center">
-<a href="http://bit.ly/gdoc21game" class="btn">Game Application</a> &nbsp;&nbsp; <a href="http://bit.ly/gdoc21speaker" class="btn" target="_blank">Speaker Application</a> 
+<a href="http://bit.ly/gdoc21game" class="btn">Submit your game</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://bit.ly/gdoc21speaker" class="btn" target="_blank">Submit your talk</a> 
 </p>
 
 ----
