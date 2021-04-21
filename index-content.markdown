@@ -6,15 +6,7 @@ Last year at the 2020 online Game Devs of Color Expo, we had over 1,500 people s
 
 The good news is we’re set to hold our 2021 event from September 23rd through the 27th and we’ll be online again!
 
-Game submissions from game developers of color are now open. We’d love to feature your game! It’s free to submit and showcase, and you’ll have a bunch of eyes on your game. We are also seeking people to interview for the expo and for grant recipients.
-
-Speaker spots are also now open, too. All of our speakers are paid. If you’re selected to speak, your presentation will also be released on our YouTube after the event for more exposure.
-
-We'd love to hear from you! Deadline for submissions is April 15th, 11:59pm Eastern Time.
-
-<p align="center">
-<a href="http://bit.ly/gdoc21game" class="btn">Submit your game</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://bit.ly/gdoc21speaker" class="btn" target="_blank">Submit your talk</a> 
-</p>
+Game and speaker submissions are now closed. Stay tuned for our expo selections announcement!
 
 ----
 
