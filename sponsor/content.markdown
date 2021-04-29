@@ -26,7 +26,7 @@ People of color are now more powerful and necessary in games than ever. The indu
 ----
 
 ## Sponsorship
-<a href="/sponsor/2020GameDevsofColorExpoSponsorshipDeck.pdf" class="btn">2020 Sponsorship Deck</a> <a href="http://paypal.me/BrooklynGamery" class="btn" target="_blank">Donate via PayPal</a> 
+<a href="https://form.asana.com/?k=7_pdByfVOFEcUHnwe4PEQw&d=1199887033097839" class="btn">2021 Sponsorship Form</a> <a href="https://www.paypal.com/donate?hosted_button_id=FK339Z42K8JGQ" class="btn" target="_blank">Donate via PayPal</a> 
 
 Or email gdocexpo@gmail.com – we'd love to hear from you!
 
@@ -34,7 +34,7 @@ Or email gdocexpo@gmail.com – we'd love to hear from you!
 
 ## Where the money goes
 
-The GDoCE Organization Team wants to make this event the best it can be. Since we're a small team we can't do that alone. You can help us to make the 2020 Game Devs of Color Expo a quality event worthy of attendees' time.
+The GDoCE Organization Team wants to make this event the best it can be. Since we're a small team we can't do that alone. You can help us to make the 2021 Game Devs of Color Expo a quality event worthy of attendees' time.
 
 Sponsorship and donations help us pay for the following:
 
